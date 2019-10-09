@@ -1,0 +1,6002 @@
+[
+  {
+    "code": "AT111",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0058316666697247705
+  },
+  {
+    "code": "AT112",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0101842874449541
+  },
+  {
+    "code": "AT113",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0300457608853211
+  },
+  {
+    "code": "AT121",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.24751744503097894
+  },
+  {
+    "code": "AT122",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.112566723077668
+  },
+  {
+    "code": "AT123",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0728288374332697
+  },
+  {
+    "code": "AT124",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.210905414767288
+  },
+  {
+    "code": "AT125",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0325160818337983
+  },
+  {
+    "code": "AT126",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0396300975278226
+  },
+  {
+    "code": "AT127",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0181802623291734
+  },
+  {
+    "code": "AT130",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 6.94e-05
+  },
+  {
+    "code": "AT211",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0470478720656109
+  },
+  {
+    "code": "AT212",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0732116512941176
+  },
+  {
+    "code": "AT213",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0871734886402715
+  },
+  {
+    "code": "AT221",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0747526543523127
+  },
+  {
+    "code": "AT222",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0543036899194354
+  },
+  {
+    "code": "AT223",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0480595054109881
+  },
+  {
+    "code": "AT224",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.270601057560391
+  },
+  {
+    "code": "AT225",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.153766742681954
+  },
+  {
+    "code": "AT226",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0799018870749186
+  },
+  {
+    "code": "AT311",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.279407697419483
+  },
+  {
+    "code": "AT312",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.137137820277426
+  },
+  {
+    "code": "AT313",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.284964210115024
+  },
+  {
+    "code": "AT314",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.111824817997744
+  },
+  {
+    "code": "AT315",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.144430743190323
+  },
+  {
+    "code": "AT321",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0103146329962537
+  },
+  {
+    "code": "AT322",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0502943753318693
+  },
+  {
+    "code": "AT323",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.048172427671876995
+  },
+  {
+    "code": "AT331",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0057944251235504795
+  },
+  {
+    "code": "AT332",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0224521199231753
+  },
+  {
+    "code": "AT333",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0167701086909106
+  },
+  {
+    "code": "AT334",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0288801506157913
+  },
+  {
+    "code": "AT335",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0459568426465723
+  },
+  {
+    "code": "AT341",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0250702655519481
+  },
+  {
+    "code": "AT342",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0194348744480519
+  },
+  {
+    "code": "BE100",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "BE211",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.1197919420255
+  },
+  {
+    "code": "BE212",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.25539114467248303
+  },
+  {
+    "code": "BE213",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.7060542053020098
+  },
+  {
+    "code": "BE221",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.413885759826607
+  },
+  {
+    "code": "BE222",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.6235605589466869
+  },
+  {
+    "code": "BE223",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.333294143226707
+  },
+  {
+    "code": "BE231",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.48399780828025496
+  },
+  {
+    "code": "BE232",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.211928034394904
+  },
+  {
+    "code": "BE233",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.595689610191083
+  },
+  {
+    "code": "BE234",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.1083263420382201
+  },
+  {
+    "code": "BE235",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.32648372866242
+  },
+  {
+    "code": "BE236",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.42099217643312103
+  },
+  {
+    "code": "BE241",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.452318669163034
+  },
+  {
+    "code": "BE242",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.160207320836966
+  },
+  {
+    "code": "BE251",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.3208933460911398
+  },
+  {
+    "code": "BE252",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.956771650917228
+  },
+  {
+    "code": "BE253",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.3346050417253001
+  },
+  {
+    "code": "BE254",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.11521791157868
+  },
+  {
+    "code": "BE255",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.40830382555066397
+  },
+  {
+    "code": "BE256",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.699296477342369
+  },
+  {
+    "code": "BE257",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.85107891061215
+  },
+  {
+    "code": "BE258",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.6886318251824631
+  },
+  {
+    "code": "BE310",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.19313540199999998
+  },
+  {
+    "code": "BE321",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.082863875201726
+  },
+  {
+    "code": "BE322",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.1304796840863
+  },
+  {
+    "code": "BE323",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.14346581378209303
+  },
+  {
+    "code": "BE324",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.061838712837109
+  },
+  {
+    "code": "BE325",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.166346137531823
+  },
+  {
+    "code": "BE326",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.239315818679612
+  },
+  {
+    "code": "BE327",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.322179693881338
+  },
+  {
+    "code": "BE331",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.200941582864689
+  },
+  {
+    "code": "BE332",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.351479758656295
+  },
+  {
+    "code": "BE334",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0383065893755427
+  },
+  {
+    "code": "BE335",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.338038850103473
+  },
+  {
+    "code": "BE336",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "BE341",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0457051062004736
+  },
+  {
+    "code": "BE342",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0994286520852407
+  },
+  {
+    "code": "BE343",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.12348397113812198
+  },
+  {
+    "code": "BE344",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.728074323333859
+  },
+  {
+    "code": "BE345",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0192442552423047
+  },
+  {
+    "code": "BE351",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.309305049573034
+  },
+  {
+    "code": "BE352",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.41815918719101103
+  },
+  {
+    "code": "BE353",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0995617112359551
+  },
+  {
+    "code": "BG311",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0236898219939577
+  },
+  {
+    "code": "BG312",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.13567807141993998
+  },
+  {
+    "code": "BG313",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0249461004330312
+  },
+  {
+    "code": "BG314",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0175878981470292
+  },
+  {
+    "code": "BG315",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.154522248006042
+  },
+  {
+    "code": "BG321",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.06110392480000001
+  },
+  {
+    "code": "BG322",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0135786499555556
+  },
+  {
+    "code": "BG323",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.19010109937777803
+  },
+  {
+    "code": "BG324",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.305519624
+  },
+  {
+    "code": "BG325",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0407359498666667
+  },
+  {
+    "code": "BG331",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.308961454675516
+  },
+  {
+    "code": "BG332",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.054256645699114994
+  },
+  {
+    "code": "BG333",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.131120227106195
+  },
+  {
+    "code": "BG334",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.016578419519174
+  },
+  {
+    "code": "BG341",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.044772205005988
+  },
+  {
+    "code": "BG342",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.19401288835928102
+  },
+  {
+    "code": "BG343",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "BG344",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.38429475963473103
+  },
+  {
+    "code": "BG411",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00180069917086835
+  },
+  {
+    "code": "BG412",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0292613615266106
+  },
+  {
+    "code": "BG413",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.279783633673669
+  },
+  {
+    "code": "BG414",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0105791076288515
+  },
+  {
+    "code": "BG415",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "BG421",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.35183717463276803
+  },
+  {
+    "code": "BG422",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.136770507322034
+  },
+  {
+    "code": "BG423",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.297327189830508
+  },
+  {
+    "code": "BG424",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00693763442937853
+  },
+  {
+    "code": "BG425",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0842427037853107
+  },
+  {
+    "code": "CH011",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.640400165855119
+  },
+  {
+    "code": "CH012",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.603347118650387
+  },
+  {
+    "code": "CH013",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0668498726652041
+  },
+  {
+    "code": "CH021",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 4.37086053496116
+  },
+  {
+    "code": "CH022",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.1738632211093603
+  },
+  {
+    "code": "CH023",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.576890789845346
+  },
+  {
+    "code": "CH024",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.342118145623474
+  },
+  {
+    "code": "CH025",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.410760847200009
+  },
+  {
+    "code": "CH031",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0043058695388050105
+  },
+  {
+    "code": "CH032",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.330227071552969
+  },
+  {
+    "code": "CH033",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.23810310277332
+  },
+  {
+    "code": "CH040",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.9059940810965021
+  },
+  {
+    "code": "CH051",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.18553064193595897
+  },
+  {
+    "code": "CH052",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.27962118177490997
+  },
+  {
+    "code": "CH053",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.35957605365683504
+  },
+  {
+    "code": "CH054",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.235888959032862
+  },
+  {
+    "code": "CH055",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.02846835183315
+  },
+  {
+    "code": "CH056",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.16884304419654
+  },
+  {
+    "code": "CH057",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.3018066709173102
+  },
+  {
+    "code": "CH061",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.7904540418750297
+  },
+  {
+    "code": "CH062",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.35538801476710297
+  },
+  {
+    "code": "CH063",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.950992002478638
+  },
+  {
+    "code": "CH064",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.39268181878587394
+  },
+  {
+    "code": "CH065",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.27586446208002
+  },
+  {
+    "code": "CH066",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.32961141493060103
+  },
+  {
+    "code": "CH070",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0915525208635078
+  },
+  {
+    "code": "CY000",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.1
+  },
+  {
+    "code": "CZ010",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "CZ020",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 3.385592462
+  },
+  {
+    "code": "CZ031",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.48624374109108
+  },
+  {
+    "code": "CZ032",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.56177606090892
+  },
+  {
+    "code": "CZ041",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.286550893795181
+  },
+  {
+    "code": "CZ042",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.8111594532048191
+  },
+  {
+    "code": "CZ051",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.913958437177068
+  },
+  {
+    "code": "CZ052",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.2795418120478999
+  },
+  {
+    "code": "CZ053",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.21037738977504
+  },
+  {
+    "code": "CZ063",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 3.45083141745758
+  },
+  {
+    "code": "CZ064",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.58945888354242
+  },
+  {
+    "code": "CZ071",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.9271877730169491
+  },
+  {
+    "code": "CZ072",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.23218375098305
+  },
+  {
+    "code": "CZ080",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.8651379240000001
+  },
+  {
+    "code": "DE111",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0428584199033506
+  },
+  {
+    "code": "DE112",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.127954123189713
+  },
+  {
+    "code": "DE113",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.132716169845641
+  },
+  {
+    "code": "DE114",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.132923215352421
+  },
+  {
+    "code": "DE115",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.14224026315749697
+  },
+  {
+    "code": "DE116",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.17764504481678697
+  },
+  {
+    "code": "DE117",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0207045506779472
+  },
+  {
+    "code": "DE118",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.22775005745741897
+  },
+  {
+    "code": "DE119",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.16087435876764902
+  },
+  {
+    "code": "DE11A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.307255532060736
+  },
+  {
+    "code": "DE11B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.269987340840431
+  },
+  {
+    "code": "DE11C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.129817532750729
+  },
+  {
+    "code": "DE11D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.31305280625056103
+  },
+  {
+    "code": "DE121",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0143162395524734
+  },
+  {
+    "code": "DE122",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0176907817326992
+  },
+  {
+    "code": "DE123",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.11095085653166901
+  },
+  {
+    "code": "DE124",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0755692930662701
+  },
+  {
+    "code": "DE125",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.01114621508014
+  },
+  {
+    "code": "DE126",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0148275338222046
+  },
+  {
+    "code": "DE127",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.115143469543464
+  },
+  {
+    "code": "DE128",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.108598902890905
+  },
+  {
+    "code": "DE129",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0100213676867314
+  },
+  {
+    "code": "DE12A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.081500306595152
+  },
+  {
+    "code": "DE12B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0586965821651408
+  },
+  {
+    "code": "DE12C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0890674617871736
+  },
+  {
+    "code": "DE131",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0313813766788284
+  },
+  {
+    "code": "DE132",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.28263749714657205
+  },
+  {
+    "code": "DE133",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.139472785239237
+  },
+  {
+    "code": "DE134",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.381909303110971
+  },
+  {
+    "code": "DE135",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.157727311542608
+  },
+  {
+    "code": "DE136",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.210234713044439
+  },
+  {
+    "code": "DE137",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.15054856524353
+  },
+  {
+    "code": "DE138",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.167777556361318
+  },
+  {
+    "code": "DE139",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.165521378953036
+  },
+  {
+    "code": "DE13A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.23197605897879
+  },
+  {
+    "code": "DE141",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.276500874697478
+  },
+  {
+    "code": "DE142",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.13129364498443902
+  },
+  {
+    "code": "DE143",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.23223037783374698
+  },
+  {
+    "code": "DE144",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0301039378673375
+  },
+  {
+    "code": "DE145",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.343792029930351
+  },
+  {
+    "code": "DE146",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.356693717587781
+  },
+  {
+    "code": "DE147",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.16822788808217998
+  },
+  {
+    "code": "DE148",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.412601030769979
+  },
+  {
+    "code": "DE149",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.304581018422474
+  },
+  {
+    "code": "DE211",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.04151586736239601
+  },
+  {
+    "code": "DE212",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0970784567647004
+  },
+  {
+    "code": "DE213",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0115495270105914
+  },
+  {
+    "code": "DE214",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.177612996460175
+  },
+  {
+    "code": "DE215",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.26220547807829103
+  },
+  {
+    "code": "DE216",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.346797959696406
+  },
+  {
+    "code": "DE217",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.18073449024682198
+  },
+  {
+    "code": "DE218",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.171370008886883
+  },
+  {
+    "code": "DE219",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.37894934569886296
+  },
+  {
+    "code": "DE21A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.271882108816894
+  },
+  {
+    "code": "DE21B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.24971950293170497
+  },
+  {
+    "code": "DE21C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.13578497971911502
+  },
+  {
+    "code": "DE21D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.315895171208607
+  },
+  {
+    "code": "DE21E",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.250968100446364
+  },
+  {
+    "code": "DE21F",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.270321361923571
+  },
+  {
+    "code": "DE21G",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.25128024982502806
+  },
+  {
+    "code": "DE21H",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.207267187433315
+  },
+  {
+    "code": "DE21I",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.23099054021182702
+  },
+  {
+    "code": "DE21J",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.237545677163785
+  },
+  {
+    "code": "DE21K",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.449807254655734
+  },
+  {
+    "code": "DE21L",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.15232889678834
+  },
+  {
+    "code": "DE21M",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.47914929625021
+  },
+  {
+    "code": "DE21N",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.301536299790034
+  },
+  {
+    "code": "DE221",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0218359804904128
+  },
+  {
+    "code": "DE222",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0231593732474075
+  },
+  {
+    "code": "DE223",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0224976768689101
+  },
+  {
+    "code": "DE224",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.284860290943112
+  },
+  {
+    "code": "DE225",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.325554618220699
+  },
+  {
+    "code": "DE226",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.352684169739091
+  },
+  {
+    "code": "DE227",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.4459833591072179
+  },
+  {
+    "code": "DE228",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.5061977295504779
+  },
+  {
+    "code": "DE229",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.322576984517461
+  },
+  {
+    "code": "DE22A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.423816530427557
+  },
+  {
+    "code": "DE22B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.39767952347691105
+  },
+  {
+    "code": "DE22C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.290484710160339
+  },
+  {
+    "code": "DE231",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0134727104734241
+  },
+  {
+    "code": "DE232",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.021825790966947
+  },
+  {
+    "code": "DE233",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0191312488722622
+  },
+  {
+    "code": "DE234",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.338434487092412
+  },
+  {
+    "code": "DE235",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.40957039839209103
+  },
+  {
+    "code": "DE236",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.362146457525639
+  },
+  {
+    "code": "DE237",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.38478061112099105
+  },
+  {
+    "code": "DE238",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.37508025958012603
+  },
+  {
+    "code": "DE239",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.39448096266185706
+  },
+  {
+    "code": "DE23A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.29208836306383396
+  },
+  {
+    "code": "DE241",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0127544080271753
+  },
+  {
+    "code": "DE242",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0155371879603772
+  },
+  {
+    "code": "DE243",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0111311197328076
+  },
+  {
+    "code": "DE244",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0134501030104758
+  },
+  {
+    "code": "DE245",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.270857246831651
+  },
+  {
+    "code": "DE246",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.29543846957493397
+  },
+  {
+    "code": "DE247",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.136588115054659
+  },
+  {
+    "code": "DE248",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.149110624754068
+  },
+  {
+    "code": "DE249",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.207085206695774
+  },
+  {
+    "code": "DE24A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.15119770970396898
+  },
+  {
+    "code": "DE24B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.15258909967057002
+  },
+  {
+    "code": "DE24C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.12058713043874901
+  },
+  {
+    "code": "DE24D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.140530386626695
+  },
+  {
+    "code": "DE251",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0292584881738858
+  },
+  {
+    "code": "DE252",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0225290358938921
+  },
+  {
+    "code": "DE253",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0184328475495481
+  },
+  {
+    "code": "DE254",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0544207880034277
+  },
+  {
+    "code": "DE255",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0119959801512932
+  },
+  {
+    "code": "DE256",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.5766848019072901
+  },
+  {
+    "code": "DE257",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.165310458182455
+  },
+  {
+    "code": "DE258",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0901161435755684
+  },
+  {
+    "code": "DE259",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.23406790539108702
+  },
+  {
+    "code": "DE25A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.370997630044872
+  },
+  {
+    "code": "DE25B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.261863469156278
+  },
+  {
+    "code": "DE25C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.28409992016843105
+  },
+  {
+    "code": "DE261",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.009011387005211091
+  },
+  {
+    "code": "DE262",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00523241826109031
+  },
+  {
+    "code": "DE263",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0127903557493319
+  },
+  {
+    "code": "DE264",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.10159612123616998
+  },
+  {
+    "code": "DE265",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.165257210079436
+  },
+  {
+    "code": "DE266",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.148542540634286
+  },
+  {
+    "code": "DE267",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.138949773822287
+  },
+  {
+    "code": "DE268",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0994159469607159
+  },
+  {
+    "code": "DE269",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.10406698541501802
+  },
+  {
+    "code": "DE26A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.192000681191675
+  },
+  {
+    "code": "DE26B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.122380449328834
+  },
+  {
+    "code": "DE26C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.14069391324265101
+  },
+  {
+    "code": "DE271",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0555229610084964
+  },
+  {
+    "code": "DE272",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0151082887097949
+  },
+  {
+    "code": "DE273",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.023795554717927003
+  },
+  {
+    "code": "DE274",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0264395052421411
+  },
+  {
+    "code": "DE275",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.29461162984100103
+  },
+  {
+    "code": "DE276",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.4045244302047589
+  },
+  {
+    "code": "DE277",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.29914411645394
+  },
+  {
+    "code": "DE278",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.287812899921594
+  },
+  {
+    "code": "DE279",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.194896924356355
+  },
+  {
+    "code": "DE27A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.12199943133159401
+  },
+  {
+    "code": "DE27B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.526901568754098
+  },
+  {
+    "code": "DE27C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.4645798778261939
+  },
+  {
+    "code": "DE27D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.481576702624714
+  },
+  {
+    "code": "DE27E",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.577514335931911
+  },
+  {
+    "code": "DE300",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.002492665
+  },
+  {
+    "code": "DE401",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0276176613070749
+  },
+  {
+    "code": "DE402",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.019812670068119
+  },
+  {
+    "code": "DE403",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0177713646671613
+  },
+  {
+    "code": "DE404",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0225744361988265
+  },
+  {
+    "code": "DE405",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.17771364667161302
+  },
+  {
+    "code": "DE406",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.273054616575167
+  },
+  {
+    "code": "DE407",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.228145897754097
+  },
+  {
+    "code": "DE408",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.20737261337964497
+  },
+  {
+    "code": "DE409",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.259245785921629
+  },
+  {
+    "code": "DE40A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.217098833231267
+  },
+  {
+    "code": "DE40B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.146853912080664
+  },
+  {
+    "code": "DE40C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.27101331117420896
+  },
+  {
+    "code": "DE40D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.303434044012949
+  },
+  {
+    "code": "DE40E",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.31123903525190505
+  },
+  {
+    "code": "DE40F",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.256724173367505
+  },
+  {
+    "code": "DE40G",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.19896723819923104
+  },
+  {
+    "code": "DE40H",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.25264156256559
+  },
+  {
+    "code": "DE40I",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.369476277573346
+  },
+  {
+    "code": "DE501",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0391030614558473
+  },
+  {
+    "code": "DE502",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0113098085441527
+  },
+  {
+    "code": "DE600",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.030573293999999997
+  },
+  {
+    "code": "DE711",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.011718792179069999
+  },
+  {
+    "code": "DE712",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0238218070525357
+  },
+  {
+    "code": "DE713",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00432250531195205
+  },
+  {
+    "code": "DE714",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0195953574141826
+  },
+  {
+    "code": "DE715",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0691600849912328
+  },
+  {
+    "code": "DE716",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0633006889016978
+  },
+  {
+    "code": "DE717",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0435132201403173
+  },
+  {
+    "code": "DE718",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0462988346746864
+  },
+  {
+    "code": "DE719",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.13428583169131
+  },
+  {
+    "code": "DE71A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0213243595389634
+  },
+  {
+    "code": "DE71B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0599387403257351
+  },
+  {
+    "code": "DE71C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0341958198012206
+  },
+  {
+    "code": "DE71D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0779011512887358
+  },
+  {
+    "code": "DE71E",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.105757296632427
+  },
+  {
+    "code": "DE721",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.11836572573091698
+  },
+  {
+    "code": "DE722",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.147576448689073
+  },
+  {
+    "code": "DE723",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.10216831063089699
+  },
+  {
+    "code": "DE724",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.17484901941303801
+  },
+  {
+    "code": "DE725",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.20198315069170497
+  },
+  {
+    "code": "DE731",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0188679118785538
+  },
+  {
+    "code": "DE732",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.243343162545834
+  },
+  {
+    "code": "DE733",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.193440180661435
+  },
+  {
+    "code": "DE734",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.228001963167945
+  },
+  {
+    "code": "DE735",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.27138052692611503
+  },
+  {
+    "code": "DE736",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.325868235061378
+  },
+  {
+    "code": "DE737",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.18074401565904397
+  },
+  {
+    "code": "DE803",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0289210016774652
+  },
+  {
+    "code": "DE804",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.020931774694740002
+  },
+  {
+    "code": "DE80J",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.874021431910137
+  },
+  {
+    "code": "DE80K",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.5469424792373669
+  },
+  {
+    "code": "DE80L",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.512429018671994
+  },
+  {
+    "code": "DE80M",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.33858343952789394
+  },
+  {
+    "code": "DE80N",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.6279532408422
+  },
+  {
+    "code": "DE80O",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.7592961324382029
+  },
+  {
+    "code": "DE911",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.039490872720956
+  },
+  {
+    "code": "DE912",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0460726848411153
+  },
+  {
+    "code": "DE913",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0419590522660157
+  },
+  {
+    "code": "DE914",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.321480385744032
+  },
+  {
+    "code": "DE915",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.22974637931931197
+  },
+  {
+    "code": "DE916",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.198482771748555
+  },
+  {
+    "code": "DE917",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.138629417780856
+  },
+  {
+    "code": "DE918",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.26059862363255804
+  },
+  {
+    "code": "DE919",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.13081351588816698
+  },
+  {
+    "code": "DE91A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.110039671383914
+  },
+  {
+    "code": "DE91B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.14870781758985
+  },
+  {
+    "code": "DE922",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.724995289078341
+  },
+  {
+    "code": "DE923",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.29028986423861103
+  },
+  {
+    "code": "DE925",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.43981102546704204
+  },
+  {
+    "code": "DE926",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.252362545292863
+  },
+  {
+    "code": "DE927",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.510195376972132
+  },
+  {
+    "code": "DE928",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.24652757314736298
+  },
+  {
+    "code": "DE929",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.835495074083742
+  },
+  {
+    "code": "DE931",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.620301615110551
+  },
+  {
+    "code": "DE932",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.826265840710365
+  },
+  {
+    "code": "DE933",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.499854699555104
+  },
+  {
+    "code": "DE934",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.490218946310668
+  },
+  {
+    "code": "DE935",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.531572387318038
+  },
+  {
+    "code": "DE936",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.26136980675532
+  },
+  {
+    "code": "DE937",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.831083717332583
+  },
+  {
+    "code": "DE938",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.752391732503024
+  },
+  {
+    "code": "DE939",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.508285983643985
+  },
+  {
+    "code": "DE93A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.583766050725399
+  },
+  {
+    "code": "DE93B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.316373898192307
+  },
+  {
+    "code": "DE941",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0497612759548546
+  },
+  {
+    "code": "DE942",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0898913372087696
+  },
+  {
+    "code": "DE943",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0826679261830649
+  },
+  {
+    "code": "DE944",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.096312147009396
+  },
+  {
+    "code": "DE945",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0858783310833781
+  },
+  {
+    "code": "DE946",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.5842936918570029
+  },
+  {
+    "code": "DE947",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.03294777667577
+  },
+  {
+    "code": "DE948",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.13808853716103
+  },
+  {
+    "code": "DE949",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.3130967306756602
+  },
+  {
+    "code": "DE94A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.4879815448476071
+  },
+  {
+    "code": "DE94B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.7873518018018121
+  },
+  {
+    "code": "DE94C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.8716249304350341
+  },
+  {
+    "code": "DE94D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.8531651022582329
+  },
+  {
+    "code": "DE94E",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.70311979961615
+  },
+  {
+    "code": "DE94F",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.652514795988658
+  },
+  {
+    "code": "DE94G",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.6597382070143629
+  },
+  {
+    "code": "DE94H",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.5273090048764429
+  },
+  {
+    "code": "DEA11",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0729143484770193
+  },
+  {
+    "code": "DEA12",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0782905216366152
+  },
+  {
+    "code": "DEA13",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0705622727196961
+  },
+  {
+    "code": "DEA14",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0463694935015146
+  },
+  {
+    "code": "DEA15",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0571218398207064
+  },
+  {
+    "code": "DEA16",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0305769848452016
+  },
+  {
+    "code": "DEA17",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0258728333305552
+  },
+  {
+    "code": "DEA18",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0252008116856058
+  },
+  {
+    "code": "DEA19",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0302409740227269
+  },
+  {
+    "code": "DEA1A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0564498181757569
+  },
+  {
+    "code": "DEA1B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.41430134411135905
+  },
+  {
+    "code": "DEA1C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.13675640474722098
+  },
+  {
+    "code": "DEA1D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.19387824456792702
+  },
+  {
+    "code": "DEA1E",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.189174093053281
+  },
+  {
+    "code": "DEA1F",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.35045928784115704
+  },
+  {
+    "code": "DEA22",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0326989148176659
+  },
+  {
+    "code": "DEA23",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0939224149018064
+  },
+  {
+    "code": "DEA24",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0183206685857845
+  },
+  {
+    "code": "DEA26",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.218224672648395
+  },
+  {
+    "code": "DEA27",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.16349457408832999
+  },
+  {
+    "code": "DEA28",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.28965208941322496
+  },
+  {
+    "code": "DEA29",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.145637719897122
+  },
+  {
+    "code": "DEA2A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.21312271430804997
+  },
+  {
+    "code": "DEA2B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.101343445215036
+  },
+  {
+    "code": "DEA2C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.26738899847353803
+  },
+  {
+    "code": "DEA2D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.163958388482906
+  },
+  {
+    "code": "DEA31",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0765134235130687
+  },
+  {
+    "code": "DEA32",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0795436581076457
+  },
+  {
+    "code": "DEA33",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.229540270539206
+  },
+  {
+    "code": "DEA34",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.0764908397234698
+  },
+  {
+    "code": "DEA35",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.8424052172924
+  },
+  {
+    "code": "DEA36",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.575744572969626
+  },
+  {
+    "code": "DEA37",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.3605753329650603
+  },
+  {
+    "code": "DEA38",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.999219857561759
+  },
+  {
+    "code": "DEA41",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.128934085504076
+  },
+  {
+    "code": "DEA42",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.482382736885906
+  },
+  {
+    "code": "DEA43",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.224016750875808
+  },
+  {
+    "code": "DEA44",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.59837363233938
+  },
+  {
+    "code": "DEA45",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.6202774924250151
+  },
+  {
+    "code": "DEA46",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.573482882242068
+  },
+  {
+    "code": "DEA47",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.6207753074269611
+  },
+  {
+    "code": "DEA51",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0480726514820283
+  },
+  {
+    "code": "DEA52",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0925233908660955
+  },
+  {
+    "code": "DEA53",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0526823577885242
+  },
+  {
+    "code": "DEA54",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0744138303762904
+  },
+  {
+    "code": "DEA55",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0167925015450921
+  },
+  {
+    "code": "DEA56",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.134340012360737
+  },
+  {
+    "code": "DEA57",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.645688147645599
+  },
+  {
+    "code": "DEA58",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.34934988508515097
+  },
+  {
+    "code": "DEA59",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.234436492158932
+  },
+  {
+    "code": "DEA5A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.3730569460899871
+  },
+  {
+    "code": "DEA5B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.437922099117107
+  },
+  {
+    "code": "DEA5C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.17879075174480397
+  },
+  {
+    "code": "DEB11",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0101514121097074
+  },
+  {
+    "code": "DEB12",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0760872507651404
+  },
+  {
+    "code": "DEB13",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0620686340422111
+  },
+  {
+    "code": "DEB14",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0835316196455925
+  },
+  {
+    "code": "DEB15",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0751204496118349
+  },
+  {
+    "code": "DEB16",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0669026398087384
+  },
+  {
+    "code": "DEB17",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0789876542250568
+  },
+  {
+    "code": "DEB18",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0606184323122529
+  },
+  {
+    "code": "DEB19",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0958099942925719
+  },
+  {
+    "code": "DEB1A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0756038501884876
+  },
+  {
+    "code": "DEB1B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0956166340619108
+  },
+  {
+    "code": "DEB21",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0180676980295977
+  },
+  {
+    "code": "DEB22",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.18036813075701003
+  },
+  {
+    "code": "DEB23",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.25109467518056305
+  },
+  {
+    "code": "DEB24",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.14068096499968802
+  },
+  {
+    "code": "DEB25",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.17017609597108302
+  },
+  {
+    "code": "DEB31",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00285590051144889
+  },
+  {
+    "code": "DEB32",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00908695617279192
+  },
+  {
+    "code": "DEB33",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00538726687386949
+  },
+  {
+    "code": "DEB34",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00506273272484121
+  },
+  {
+    "code": "DEB35",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00636086932095434
+  },
+  {
+    "code": "DEB36",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00759409908726182
+  },
+  {
+    "code": "DEB37",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00395931661814505
+  },
+  {
+    "code": "DEB38",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00279099368164323
+  },
+  {
+    "code": "DEB39",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00707484444881656
+  },
+  {
+    "code": "DEB3A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.004608384916201621
+  },
+  {
+    "code": "DEB3B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0381652159257261
+  },
+  {
+    "code": "DEB3C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0386195637343656
+  },
+  {
+    "code": "DEB3D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0418649052246485
+  },
+  {
+    "code": "DEB3E",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.030051862200018997
+  },
+  {
+    "code": "DEB3F",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0415403710756202
+  },
+  {
+    "code": "DEB3G",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0371916134786412
+  },
+  {
+    "code": "DEB3H",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0415403710756202
+  },
+  {
+    "code": "DEB3I",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0197965830907252
+  },
+  {
+    "code": "DEB3J",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0392686320324222
+  },
+  {
+    "code": "DEB3K",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0618562088047907
+  },
+  {
+    "code": "DEC01",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.040805098940833
+  },
+  {
+    "code": "DEC02",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0551017759420008
+  },
+  {
+    "code": "DEC03",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0247213373145193
+  },
+  {
+    "code": "DEC04",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0455706579412223
+  },
+  {
+    "code": "DEC05",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0415993587742312
+  },
+  {
+    "code": "DEC06",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0472584600871935
+  },
+  {
+    "code": "DED21",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0483607875164793
+  },
+  {
+    "code": "DED2C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.35253244802409095
+  },
+  {
+    "code": "DED2D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.31051164179788204
+  },
+  {
+    "code": "DED2E",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.21408494961563398
+  },
+  {
+    "code": "DED2F",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.243868117537368
+  },
+  {
+    "code": "DED41",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0529469127657601
+  },
+  {
+    "code": "DED42",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.43795002957379797
+  },
+  {
+    "code": "DED43",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.5064695637412521
+  },
+  {
+    "code": "DED44",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.338285252602956
+  },
+  {
+    "code": "DED45",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.22736027246473398
+  },
+  {
+    "code": "DED51",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.03396668352533
+  },
+  {
+    "code": "DED52",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.188360699549557
+  },
+  {
+    "code": "DED53",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.231133560285158
+  },
+  {
+    "code": "DEE01",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0362948695663016
+  },
+  {
+    "code": "DEE02",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.019999213842656002
+  },
+  {
+    "code": "DEE03",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0297766072768433
+  },
+  {
+    "code": "DEE04",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.339690350675631
+  },
+  {
+    "code": "DEE05",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.215250797876882
+  },
+  {
+    "code": "DEE06",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.23362044614717398
+  },
+  {
+    "code": "DEE07",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.350652882707901
+  },
+  {
+    "code": "DEE08",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.209473247211226
+  },
+  {
+    "code": "DEE09",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.311691451295912
+  },
+  {
+    "code": "DEE0A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.214658228577841
+  },
+  {
+    "code": "DEE0B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.21243609370643501
+  },
+  {
+    "code": "DEE0C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.211399097433112
+  },
+  {
+    "code": "DEE0D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.35894885289448497
+  },
+  {
+    "code": "DEE0E",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.28591468678759996
+  },
+  {
+    "code": "DEF01",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0263127516826984
+  },
+  {
+    "code": "DEF02",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0549336394779142
+  },
+  {
+    "code": "DEF03",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0987882256157448
+  },
+  {
+    "code": "DEF04",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0332371600202506
+  },
+  {
+    "code": "DEF05",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.6592036737349699
+  },
+  {
+    "code": "DEF06",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.583035182021896
+  },
+  {
+    "code": "DEF07",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.96156950447475
+  },
+  {
+    "code": "DEF08",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.643046720947348
+  },
+  {
+    "code": "DEF09",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.306520475742311
+  },
+  {
+    "code": "DEF0A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.49994228197126894
+  },
+  {
+    "code": "DEF0B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.01050199006012
+  },
+  {
+    "code": "DEF0C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.956029977804708
+  },
+  {
+    "code": "DEF0D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.6204269870446779
+  },
+  {
+    "code": "DEF0E",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.487478346963676
+  },
+  {
+    "code": "DEF0F",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.353606452437666
+  },
+  {
+    "code": "DEG01",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0418163002771263
+  },
+  {
+    "code": "DEG02",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.02354102830416
+  },
+  {
+    "code": "DEG03",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0178106464143316
+  },
+  {
+    "code": "DEG04",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0159521441797926
+  },
+  {
+    "code": "DEG05",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0130095156417726
+  },
+  {
+    "code": "DEG06",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.14604730059751903
+  },
+  {
+    "code": "DEG07",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.11058088295506699
+  },
+  {
+    "code": "DEG09",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.15177768248734697
+  },
+  {
+    "code": "DEG0A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.16076044328761901
+  },
+  {
+    "code": "DEG0B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.18755385050222198
+  },
+  {
+    "code": "DEG0C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.144963174294038
+  },
+  {
+    "code": "DEG0D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.124984275272744
+  },
+  {
+    "code": "DEG0E",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.145272924666461
+  },
+  {
+    "code": "DEG0F",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.13071465716257302
+  },
+  {
+    "code": "DEG0G",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.124674524900321
+  },
+  {
+    "code": "DEG0H",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0672158308158252
+  },
+  {
+    "code": "DEG0I",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.16045069291519598
+  },
+  {
+    "code": "DEG0J",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.126223276762437
+  },
+  {
+    "code": "DEG0K",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.17826133932952698
+  },
+  {
+    "code": "DEG0L",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.131024407534996
+  },
+  {
+    "code": "DEG0M",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0881239809543884
+  },
+  {
+    "code": "DEG0N",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0161070193660042
+  },
+  {
+    "code": "DEG0P",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.202421868378534
+  },
+  {
+    "code": "DK011",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DK012",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00552756782426778
+  },
+  {
+    "code": "DK013",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.433914074205021
+  },
+  {
+    "code": "DK014",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.22110271297071102
+  },
+  {
+    "code": "DK021",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.328807862956391
+  },
+  {
+    "code": "DK022",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.22361115104361
+  },
+  {
+    "code": "DK031",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.5478696327504
+  },
+  {
+    "code": "DK032",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 8.1361970272496
+  },
+  {
+    "code": "DK041",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 6.53604493169811
+  },
+  {
+    "code": "DK042",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 4.16388962830189
+  },
+  {
+    "code": "DK050",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 7.503035412000001
+  },
+  {
+    "code": "EE001",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.147523427041499
+  },
+  {
+    "code": "EE004",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.7715863453815259
+  },
+  {
+    "code": "EE006",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.566800535475234
+  },
+  {
+    "code": "EE007",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.127141900937082
+  },
+  {
+    "code": "EE008",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.2869477911646598
+  },
+  {
+    "code": "EL111",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0613950375869755
+  },
+  {
+    "code": "EL112",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.17300163007779698
+  },
+  {
+    "code": "EL113",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0385716035397727
+  },
+  {
+    "code": "EL114",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.182131003696678
+  },
+  {
+    "code": "EL115",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0671008960987762
+  },
+  {
+    "code": "EL121",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0807918937461125
+  },
+  {
+    "code": "EL122",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.177477274786542
+  },
+  {
+    "code": "EL123",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.12449898380548499
+  },
+  {
+    "code": "EL124",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.19628456808481798
+  },
+  {
+    "code": "EL125",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0855599399344077
+  },
+  {
+    "code": "EL126",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.223303496485157
+  },
+  {
+    "code": "EL127",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0490049191574781
+  },
+  {
+    "code": "EL131",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0329753315243902
+  },
+  {
+    "code": "EL132",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0250032733536585
+  },
+  {
+    "code": "EL133",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0365989943292683
+  },
+  {
+    "code": "EL134",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0837066107926829
+  },
+  {
+    "code": "EL141",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.263719247262897
+  },
+  {
+    "code": "EL142",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.20369598033139003
+  },
+  {
+    "code": "EL143",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.12260071543456698
+  },
+  {
+    "code": "EL144",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.14026713797114498
+  },
+  {
+    "code": "EL211",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.146192063956201
+  },
+  {
+    "code": "EL212",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0640950320998772
+  },
+  {
+    "code": "EL213",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.21543052455792103
+  },
+  {
+    "code": "EL214",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0575668343860008
+  },
+  {
+    "code": "EL221",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00537156036474164
+  },
+  {
+    "code": "EL222",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0140108199513678
+  },
+  {
+    "code": "EL223",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0016786126139817599
+  },
+  {
+    "code": "EL224",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00102954906990881
+  },
+  {
+    "code": "EL231",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.207766851032142
+  },
+  {
+    "code": "EL232",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0705914078432647
+  },
+  {
+    "code": "EL233",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.148426912124594
+  },
+  {
+    "code": "EL241",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0290123380092336
+  },
+  {
+    "code": "EL242",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0735849265078486
+  },
+  {
+    "code": "EL243",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0060233227700831
+  },
+  {
+    "code": "EL244",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.09125333996675901
+  },
+  {
+    "code": "EL245",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0175680247460757
+  },
+  {
+    "code": "EL251",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.022007274573991
+  },
+  {
+    "code": "EL252",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0359190160011211
+  },
+  {
+    "code": "EL253",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.018863378206277998
+  },
+  {
+    "code": "EL254",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0407134579618834
+  },
+  {
+    "code": "EL255",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0227146512567265
+  },
+  {
+    "code": "EL300",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.031894154
+  },
+  {
+    "code": "EL411",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0246304815129209
+  },
+  {
+    "code": "EL412",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0246304815129209
+  },
+  {
+    "code": "EL413",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00423074597415818
+  },
+  {
+    "code": "EL421",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0544096043755239
+  },
+  {
+    "code": "EL422",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0370138576244761
+  },
+  {
+    "code": "EL431",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0266423198717827
+  },
+  {
+    "code": "EL432",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00381946301334604
+  },
+  {
+    "code": "EL433",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0236681478531935
+  },
+  {
+    "code": "EL434",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0115523102616778
+  },
+  {
+    "code": "ES111",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.1126578591866
+  },
+  {
+    "code": "ES112",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.17677517361505
+  },
+  {
+    "code": "ES113",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.31614885825579603
+  },
+  {
+    "code": "ES114",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.628931174942556
+  },
+  {
+    "code": "ES120",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.350321944
+  },
+  {
+    "code": "ES130",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.976688366
+  },
+  {
+    "code": "ES211",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0633104590676763
+  },
+  {
+    "code": "ES212",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.24737975672740198
+  },
+  {
+    "code": "ES213",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.18477274720492198
+  },
+  {
+    "code": "ES220",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.4996120990000001
+  },
+  {
+    "code": "ES230",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.36087965
+  },
+  {
+    "code": "ES241",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 5.01672645801051
+  },
+  {
+    "code": "ES242",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.38449343991858
+  },
+  {
+    "code": "ES243",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.48734960407091
+  },
+  {
+    "code": "ES300",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.36150456700000005
+  },
+  {
+    "code": "ES411",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.490067644056133
+  },
+  {
+    "code": "ES412",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.8553067372677791
+  },
+  {
+    "code": "ES413",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.6902710440275701
+  },
+  {
+    "code": "ES414",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.18770515423282103
+  },
+  {
+    "code": "ES415",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.92513365080164
+  },
+  {
+    "code": "ES416",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.56081921352217
+  },
+  {
+    "code": "ES417",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.305136457619856
+  },
+  {
+    "code": "ES418",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.54184837625829
+  },
+  {
+    "code": "ES419",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.7013669152137398
+  },
+  {
+    "code": "ES421",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.9750835479757031
+  },
+  {
+    "code": "ES422",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.519121675940924
+  },
+  {
+    "code": "ES423",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.34262030612101
+  },
+  {
+    "code": "ES424",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.203322656410195
+  },
+  {
+    "code": "ES425",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.5919731395521701
+  },
+  {
+    "code": "ES431",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.6507029356098903
+  },
+  {
+    "code": "ES432",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.48833558539011
+  },
+  {
+    "code": "ES511",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 3.8720141841810696
+  },
+  {
+    "code": "ES512",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.7905487652625
+  },
+  {
+    "code": "ES513",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 5.1712037375322195
+  },
+  {
+    "code": "ES514",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.1724393530242099
+  },
+  {
+    "code": "ES521",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.392668342013174
+  },
+  {
+    "code": "ES522",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.659159728041916
+  },
+  {
+    "code": "ES523",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.01401032694491
+  },
+  {
+    "code": "ES531",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0281355155593895
+  },
+  {
+    "code": "ES532",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.162927602856669
+  },
+  {
+    "code": "ES533",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0252645445839416
+  },
+  {
+    "code": "ES611",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.60671397831502
+  },
+  {
+    "code": "ES612",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.31356232540628604
+  },
+  {
+    "code": "ES613",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.5854100813639029
+  },
+  {
+    "code": "ES614",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.8263234375056541
+  },
+  {
+    "code": "ES615",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.36980668870786204
+  },
+  {
+    "code": "ES616",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.396522761276111
+  },
+  {
+    "code": "ES617",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.5122924090718549
+  },
+  {
+    "code": "ES618",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.653372020353308
+  },
+  {
+    "code": "ES620",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.781357363
+  },
+  {
+    "code": "ES630",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES640",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "ES703",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00804787777894737
+  },
+  {
+    "code": "ES704",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0114756775736842
+  },
+  {
+    "code": "ES705",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0388980759315789
+  },
+  {
+    "code": "ES706",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00111776080263158
+  },
+  {
+    "code": "ES707",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0354702761368421
+  },
+  {
+    "code": "ES708",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0141583035
+  },
+  {
+    "code": "ES709",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0607316702763158
+  },
+  {
+    "code": "FI193",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.19193081507584803
+  },
+  {
+    "code": "FI194",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.347505358945538
+  },
+  {
+    "code": "FI195",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.16011907777045903
+  },
+  {
+    "code": "FI196",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.15118149443227802
+  },
+  {
+    "code": "FI197",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.211775279775877
+  },
+  {
+    "code": "FI1B1",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.051871203
+  },
+  {
+    "code": "FI1C1",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.242357436468172
+  },
+  {
+    "code": "FI1C2",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.10074832944558501
+  },
+  {
+    "code": "FI1C3",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0965374859548255
+  },
+  {
+    "code": "FI1C4",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.07595114
+  },
+  {
+    "code": "FI1C5",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0920147281314168
+  },
+  {
+    "code": "FI1D1",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0996178222096705
+  },
+  {
+    "code": "FI1D2",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.18675199807010603
+  },
+  {
+    "code": "FI1D3",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.10799610835009697
+  },
+  {
+    "code": "FI1D4",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.050353499703962995
+  },
+  {
+    "code": "FI1D5",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0740640494813698
+  },
+  {
+    "code": "FI1D6",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.19311949553682997
+  },
+  {
+    "code": "FI1D7",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0661046776479647
+  },
+  {
+    "code": "FI200",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.011840153999999999
+  },
+  {
+    "code": "FR102",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0751842520594795
+  },
+  {
+    "code": "FR103",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0208590455408922
+  },
+  {
+    "code": "FR104",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00756426926208178
+  },
+  {
+    "code": "FR105",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FR106",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00022922028066914502
+  },
+  {
+    "code": "FR107",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FR108",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0194837238568773
+  },
+  {
+    "code": "FR211",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.747300837561257
+  },
+  {
+    "code": "FR212",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.238978823147881
+  },
+  {
+    "code": "FR213",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.36493472052464704
+  },
+  {
+    "code": "FR214",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.599415118766215
+  },
+  {
+    "code": "FR221",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.605155381722817
+  },
+  {
+    "code": "FR222",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.436544914677611
+  },
+  {
+    "code": "FR223",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.641600874599572
+  },
+  {
+    "code": "FR231",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.617404986674269
+  },
+  {
+    "code": "FR232",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.45488974132573
+  },
+  {
+    "code": "FR241",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.409583560825086
+  },
+  {
+    "code": "FR242",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.37904734721413896
+  },
+  {
+    "code": "FR243",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.9253800385578109
+  },
+  {
+    "code": "FR244",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.548988014266363
+  },
+  {
+    "code": "FR245",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.39763460767297604
+  },
+  {
+    "code": "FR246",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.250264185463626
+  },
+  {
+    "code": "FR251",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.71593574560792
+  },
+  {
+    "code": "FR252",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 3.0342477598197903
+  },
+  {
+    "code": "FR253",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.5277745155722902
+  },
+  {
+    "code": "FR261",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.653653264585462
+  },
+  {
+    "code": "FR262",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.400362624558596
+  },
+  {
+    "code": "FR263",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.2645314541359802
+  },
+  {
+    "code": "FR264",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.49463953771996
+  },
+  {
+    "code": "FR301",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.8068062121207902
+  },
+  {
+    "code": "FR302",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.7685380018792
+  },
+  {
+    "code": "FR411",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.609585544764115
+  },
+  {
+    "code": "FR412",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.512177545343045
+  },
+  {
+    "code": "FR413",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.8295390918439509
+  },
+  {
+    "code": "FR414",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.7756729170488891
+  },
+  {
+    "code": "FR421",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.441449249163891
+  },
+  {
+    "code": "FR422",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.271997766836109
+  },
+  {
+    "code": "FR431",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.834042520258573
+  },
+  {
+    "code": "FR432",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.516237043317145
+  },
+  {
+    "code": "FR433",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.493244179276784
+  },
+  {
+    "code": "FR434",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.076222919147498
+  },
+  {
+    "code": "FR511",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.41204349091549
+  },
+  {
+    "code": "FR512",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.79634937735915
+  },
+  {
+    "code": "FR513",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 3.34695490193662
+  },
+  {
+    "code": "FR514",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.79016669285211
+  },
+  {
+    "code": "FR515",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.75163014693662
+  },
+  {
+    "code": "FR521",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 10.0749801767343
+  },
+  {
+    "code": "FR522",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 8.22286727115795
+  },
+  {
+    "code": "FR523",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 10.336814004669199
+  },
+  {
+    "code": "FR524",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 7.4887687474386295
+  },
+  {
+    "code": "FR531",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.712553646956957
+  },
+  {
+    "code": "FR532",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.751699133129797
+  },
+  {
+    "code": "FR533",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.21932899497831
+  },
+  {
+    "code": "FR534",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.48720260493493495
+  },
+  {
+    "code": "FR611",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.938197760955499
+  },
+  {
+    "code": "FR612",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.2085517039233
+  },
+  {
+    "code": "FR613",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.53049627418741
+  },
+  {
+    "code": "FR614",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.546166142651592
+  },
+  {
+    "code": "FR615",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.7139987032822002
+  },
+  {
+    "code": "FR621",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.24510384974583604
+  },
+  {
+    "code": "FR622",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.34022878681462
+  },
+  {
+    "code": "FR623",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.35794057904621207
+  },
+  {
+    "code": "FR624",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.512915506010628
+  },
+  {
+    "code": "FR625",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.537027919118384
+  },
+  {
+    "code": "FR626",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.5740158926234871
+  },
+  {
+    "code": "FR627",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.593446283768572
+  },
+  {
+    "code": "FR628",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.26687525187225697
+  },
+  {
+    "code": "FR631",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.59171002336807
+  },
+  {
+    "code": "FR632",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.8095718233521719
+  },
+  {
+    "code": "FR633",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.76870132327976
+  },
+  {
+    "code": "FR711",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.4671581378839221
+  },
+  {
+    "code": "FR712",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.305896333095128
+  },
+  {
+    "code": "FR713",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.302707540345067
+  },
+  {
+    "code": "FR714",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.559633127635688
+  },
+  {
+    "code": "FR715",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.813369922176248
+  },
+  {
+    "code": "FR716",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.42957593761534707
+  },
+  {
+    "code": "FR717",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.37286098084640706
+  },
+  {
+    "code": "FR718",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.48879637440219204
+  },
+  {
+    "code": "FR721",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.6477323479189979
+  },
+  {
+    "code": "FR722",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.52114028774277
+  },
+  {
+    "code": "FR723",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.2799133329343
+  },
+  {
+    "code": "FR724",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.23036596740393
+  },
+  {
+    "code": "FR811",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.114121054060056
+  },
+  {
+    "code": "FR812",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0745325488725559
+  },
+  {
+    "code": "FR813",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0654647907011173
+  },
+  {
+    "code": "FR814",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.32024667883519603
+  },
+  {
+    "code": "FR815",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0590510105310754
+  },
+  {
+    "code": "FR821",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.05406607588528901
+  },
+  {
+    "code": "FR822",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0822441596339755
+  },
+  {
+    "code": "FR823",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0299703293581436
+  },
+  {
+    "code": "FR824",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0247927309308231
+  },
+  {
+    "code": "FR825",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.019714701704028
+  },
+  {
+    "code": "FR826",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0166280564877408
+  },
+  {
+    "code": "FR831",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.05416398875
+  },
+  {
+    "code": "FR832",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.17389491125
+  },
+  {
+    "code": "FR910",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.128990829
+  },
+  {
+    "code": "FR920",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.102720613
+  },
+  {
+    "code": "FR930",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.041042267
+  },
+  {
+    "code": "FR940",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.353855298
+  },
+  {
+    "code": "HR031",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0014748365844973199
+  },
+  {
+    "code": "HR032",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0166678546534533
+  },
+  {
+    "code": "HR033",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00936411168724121
+  },
+  {
+    "code": "HR034",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0181911187078894
+  },
+  {
+    "code": "HR035",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0260627838215646
+  },
+  {
+    "code": "HR036",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00636601104830785
+  },
+  {
+    "code": "HR037",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00161571649704632
+  },
+  {
+    "code": "HR041",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0268919941025026
+  },
+  {
+    "code": "HR042",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.24025068620719
+  },
+  {
+    "code": "HR043",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.29039274671684007
+  },
+  {
+    "code": "HR044",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.30414466569450105
+  },
+  {
+    "code": "HR045",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.262043981536195
+  },
+  {
+    "code": "HR046",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.16213862099721202
+  },
+  {
+    "code": "HR047",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.169509882652611
+  },
+  {
+    "code": "HR048",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.11409431084008699
+  },
+  {
+    "code": "HR049",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0767427003965242
+  },
+  {
+    "code": "HR04A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0895622858841744
+  },
+  {
+    "code": "HR04B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.17449203973985697
+  },
+  {
+    "code": "HR04C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.13186691799341999
+  },
+  {
+    "code": "HR04D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.142384805177606
+  },
+  {
+    "code": "HR04E",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.13574192906127802
+  },
+  {
+    "code": "HU101",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00244644583528908
+  },
+  {
+    "code": "HU102",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.35766094116471
+  },
+  {
+    "code": "HU211",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.2952743020829398
+  },
+  {
+    "code": "HU212",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.754369995623496
+  },
+  {
+    "code": "HU213",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.25043249429356
+  },
+  {
+    "code": "HU221",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.06780201498616
+  },
+  {
+    "code": "HU222",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.73271984605773
+  },
+  {
+    "code": "HU223",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.4413404389561102
+  },
+  {
+    "code": "HU231",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.36381900999138
+  },
+  {
+    "code": "HU232",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.587557246442829
+  },
+  {
+    "code": "HU233",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.46184733056579
+  },
+  {
+    "code": "HU311",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.29562764218803
+  },
+  {
+    "code": "HU312",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.5135250129846679
+  },
+  {
+    "code": "HU313",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.283370517827304
+  },
+  {
+    "code": "HU321",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 3.55386566745418
+  },
+  {
+    "code": "HU322",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.5306927511813302
+  },
+  {
+    "code": "HU323",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.74494019936448
+  },
+  {
+    "code": "HU331",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 3.3047503817443595
+  },
+  {
+    "code": "HU332",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.35728291909758
+  },
+  {
+    "code": "HU333",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.1006748411580602
+  },
+  {
+    "code": "IE011",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.03138875975183
+  },
+  {
+    "code": "IE012",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.932208773282605
+  },
+  {
+    "code": "IE013",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.27295931496556
+  },
+  {
+    "code": "IE021",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0479016752808116
+  },
+  {
+    "code": "IE022",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.01202577191213
+  },
+  {
+    "code": "IE023",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.8559841539214799
+  },
+  {
+    "code": "IE024",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.91524395839259
+  },
+  {
+    "code": "IE025",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.63228759249299
+  },
+  {
+    "code": "ITC11",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.74943400519448
+  },
+  {
+    "code": "ITC12",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.231509330230675
+  },
+  {
+    "code": "ITC13",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.37750620515092
+  },
+  {
+    "code": "ITC14",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.3780276225613499
+  },
+  {
+    "code": "ITC15",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.321714542234969
+  },
+  {
+    "code": "ITC16",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 3.3673136365533702
+  },
+  {
+    "code": "ITC17",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.541231272025767
+  },
+  {
+    "code": "ITC18",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.532367176048466
+  },
+  {
+    "code": "ITC20",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.17262819399999998
+  },
+  {
+    "code": "ITC31",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.00670549292553191
+  },
+  {
+    "code": "ITC32",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0243804845343699
+  },
+  {
+    "code": "ITC33",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0304326217389525
+  },
+  {
+    "code": "ITC34",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0225235788011457
+  },
+  {
+    "code": "ITC41",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.0330831735885402
+  },
+  {
+    "code": "ITC42",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.5095110170833799
+  },
+  {
+    "code": "ITC43",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.01210060017038
+  },
+  {
+    "code": "ITC44",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.1328168745053797
+  },
+  {
+    "code": "ITC45",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "ITC46",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 3.95336368578746
+  },
+  {
+    "code": "ITC47",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 6.007187342718559
+  },
+  {
+    "code": "ITC48",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.8109147491608991
+  },
+  {
+    "code": "ITC49",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.6924249227994891
+  },
+  {
+    "code": "ITC4A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.85757488202002
+  },
+  {
+    "code": "ITC4B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.95484004488766
+  },
+  {
+    "code": "ITC4C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.9392787277190929
+  },
+  {
+    "code": "ITC4D",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.27894479955915197
+  },
+  {
+    "code": "ITF11",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.120407205227812
+  },
+  {
+    "code": "ITF12",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.198658519950254
+  },
+  {
+    "code": "ITF13",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.100354191773884
+  },
+  {
+    "code": "ITF14",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.21122507504805
+  },
+  {
+    "code": "ITF21",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.11472370659694599
+  },
+  {
+    "code": "ITF22",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.263337348403054
+  },
+  {
+    "code": "ITF31",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.566755673821163
+  },
+  {
+    "code": "ITF32",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.7748140528490309
+  },
+  {
+    "code": "ITF33",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.264315504977302
+  },
+  {
+    "code": "ITF34",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.375434952100565
+  },
+  {
+    "code": "ITF35",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.8966270032519391
+  },
+  {
+    "code": "ITF41",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "ITF42",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "ITF43",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.24408724926701603
+  },
+  {
+    "code": "ITF44",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0767507814834206
+  },
+  {
+    "code": "ITF45",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.136372633193717
+  },
+  {
+    "code": "ITF46",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.23124055193717302
+  },
+  {
+    "code": "ITF47",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.42361160938918
+  },
+  {
+    "code": "ITF48",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0204229547294939
+  },
+  {
+    "code": "ITF51",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.6067540595852671
+  },
+  {
+    "code": "ITF52",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0941912154147332
+  },
+  {
+    "code": "ITF61",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.346039146905845
+  },
+  {
+    "code": "ITF62",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0222613687959984
+  },
+  {
+    "code": "ITF63",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0534799747406826
+  },
+  {
+    "code": "ITF64",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0857523732910946
+  },
+  {
+    "code": "ITF65",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.16399647426637898
+  },
+  {
+    "code": "ITG11",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0608577398823529
+  },
+  {
+    "code": "ITG12",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.34615537152941195
+  },
+  {
+    "code": "ITG13",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.15753953941176502
+  },
+  {
+    "code": "ITG14",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.210628206117647
+  },
+  {
+    "code": "ITG15",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0992714905882353
+  },
+  {
+    "code": "ITG16",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.14329623858823498
+  },
+  {
+    "code": "ITG17",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.120852249411765
+  },
+  {
+    "code": "ITG18",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.605124477411765
+  },
+  {
+    "code": "ITG19",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.19336359905882397
+  },
+  {
+    "code": "ITG25",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.31210216326046397
+  },
+  {
+    "code": "ITG26",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.364992758866436
+  },
+  {
+    "code": "ITG27",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.355701167746468
+  },
+  {
+    "code": "ITG28",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.373569612207945
+  },
+  {
+    "code": "ITG29",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.055511300793655
+  },
+  {
+    "code": "ITG2A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0757622045166622
+  },
+  {
+    "code": "ITG2B",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.13699140753799
+  },
+  {
+    "code": "ITG2C",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.112690323070381
+  },
+  {
+    "code": "ITH10",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.764267715
+  },
+  {
+    "code": "ITH20",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.253892355
+  },
+  {
+    "code": "ITH31",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.1126655288953
+  },
+  {
+    "code": "ITH32",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.38430633793773
+  },
+  {
+    "code": "ITH33",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.406133978340313
+  },
+  {
+    "code": "ITH34",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.0359788325948998
+  },
+  {
+    "code": "ITH35",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.5176217371003989
+  },
+  {
+    "code": "ITH36",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.5378232121034097
+  },
+  {
+    "code": "ITH37",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.21014557702794
+  },
+  {
+    "code": "ITH41",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.358924399919165
+  },
+  {
+    "code": "ITH42",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.713442361892893
+  },
+  {
+    "code": "ITH43",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0648948133782418
+  },
+  {
+    "code": "ITH44",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0520760848097002
+  },
+  {
+    "code": "ITH51",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.753072218050292
+  },
+  {
+    "code": "ITH52",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.1967073222823401
+  },
+  {
+    "code": "ITH53",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.22993109660809
+  },
+  {
+    "code": "ITH54",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.09638455274969
+  },
+  {
+    "code": "ITH55",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.7419976266083759
+  },
+  {
+    "code": "ITH56",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.210417237396405
+  },
+  {
+    "code": "ITH57",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.446892337009083
+  },
+  {
+    "code": "ITH58",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.649492215740606
+  },
+  {
+    "code": "ITH59",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.48858491655512
+  },
+  {
+    "code": "ITI11",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.12255856150893901
+  },
+  {
+    "code": "ITI12",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.12687532554371
+  },
+  {
+    "code": "ITI13",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0709450784845006
+  },
+  {
+    "code": "ITI14",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.146957662575037
+  },
+  {
+    "code": "ITI15",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0174547415319009
+  },
+  {
+    "code": "ITI16",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0574317302017386
+  },
+  {
+    "code": "ITI17",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0979717750500246
+  },
+  {
+    "code": "ITI18",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.17023065128423798
+  },
+  {
+    "code": "ITI19",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.147333033360669
+  },
+  {
+    "code": "ITI1A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.18655928045924203
+  },
+  {
+    "code": "ITI21",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.504620424454416
+  },
+  {
+    "code": "ITI22",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.16571627454558402
+  },
+  {
+    "code": "ITI31",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.18255290463680104
+  },
+  {
+    "code": "ITI32",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.154237858734561
+  },
+  {
+    "code": "ITI33",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.255363022671133
+  },
+  {
+    "code": "ITI34",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.168131576910195
+  },
+  {
+    "code": "ITI35",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.07984491204731
+  },
+  {
+    "code": "ITI41",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.12676557354512
+  },
+  {
+    "code": "ITI42",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.303491696663904
+  },
+  {
+    "code": "ITI43",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.19070762020096696
+  },
+  {
+    "code": "ITI44",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.18399650160151898
+  },
+  {
+    "code": "ITI45",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.81465522998849
+  },
+  {
+    "code": "LT001",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.33029966703662605
+  },
+  {
+    "code": "LT002",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.642536071032186
+  },
+  {
+    "code": "LT003",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.6111403995560489
+  },
+  {
+    "code": "LT004",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.662319644839068
+  },
+  {
+    "code": "LT005",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.9620837957824642
+  },
+  {
+    "code": "LT006",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.997350166481687
+  },
+  {
+    "code": "LT007",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.6696309655937851
+  },
+  {
+    "code": "LT008",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.45201165371809104
+  },
+  {
+    "code": "LT009",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.31309655937846803
+  },
+  {
+    "code": "LT00A",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.559531076581576
+  },
+  {
+    "code": "LU000",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.6
+  },
+  {
+    "code": "LV003",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.46335274711847796
+  },
+  {
+    "code": "LV005",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.06938459658698
+  },
+  {
+    "code": "LV006",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "LV007",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.287484217814524
+  },
+  {
+    "code": "LV008",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.56965340284283
+  },
+  {
+    "code": "LV009",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.510125035637193
+  },
+  {
+    "code": "MT001",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0794579172610556
+  },
+  {
+    "code": "MT002",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0205420827389444
+  },
+  {
+    "code": "NL111",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.510348309091689
+  },
+  {
+    "code": "NL112",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.24674859283914202
+  },
+  {
+    "code": "NL113",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.4877134670691698
+  },
+  {
+    "code": "NL121",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.41312275014817
+  },
+  {
+    "code": "NL122",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.21786250090122
+  },
+  {
+    "code": "NL123",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.02223675095061
+  },
+  {
+    "code": "NL131",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.03151196992487
+  },
+  {
+    "code": "NL132",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.653631347279125
+  },
+  {
+    "code": "NL133",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.999596376796006
+  },
+  {
+    "code": "NL211",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 3.13030481934573
+  },
+  {
+    "code": "NL212",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.3241363614301
+  },
+  {
+    "code": "NL213",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 3.66750926422417
+  },
+  {
+    "code": "NL221",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 3.91765580232693
+  },
+  {
+    "code": "NL224",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.4976475457924598
+  },
+  {
+    "code": "NL225",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 4.83367726419787
+  },
+  {
+    "code": "NL226",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 1.22030540768274
+  },
+  {
+    "code": "NL230",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.7453334970000001
+  },
+  {
+    "code": "NL310",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 2.290444301
+  },
+  {
+    "code": "NL321",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.675948126490265
+  },
+  {
+    "code": "NL322",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.173932993523714
+  },
+  {
+    "code": "NL323",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0667704856655017
+  },
+  {
+    "code": "NL324",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.0280271174398402
+  },
+  {
+    "code": "NL325",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.116230104676985
+  },
+  {
+    "code": "NL326",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.470690707592611
+  },
+  {
+    "code": "NL327",
+    "source": "livestock.effluents",
+    "unit": "PetaJoule",
+    "value": 0.11952741261108302
+  }
+]

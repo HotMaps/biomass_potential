@@ -1,0 +1,6002 @@
+[
+  {
+    "code": "AT111",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.49168313648148604
+  },
+  {
+    "code": "AT112",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.42253996237622404
+  },
+  {
+    "code": "AT113",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.957788071153109
+  },
+  {
+    "code": "AT121",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.2301358241556803
+  },
+  {
+    "code": "AT122",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.50260289238534
+  },
+  {
+    "code": "AT123",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.650253073299248
+  },
+  {
+    "code": "AT124",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.9148411692804506
+  },
+  {
+    "code": "AT125",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.565852464528395
+  },
+  {
+    "code": "AT126",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.9659164209993921
+  },
+  {
+    "code": "AT127",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.6399770493651401
+  },
+  {
+    "code": "AT130",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.110247269841695
+  },
+  {
+    "code": "AT211",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.94102011448559
+  },
+  {
+    "code": "AT212",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.38359670049531
+  },
+  {
+    "code": "AT213",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.4072551115279297
+  },
+  {
+    "code": "AT221",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.995715398967967
+  },
+  {
+    "code": "AT222",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.74617001410946
+  },
+  {
+    "code": "AT223",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.9339274383569105
+  },
+  {
+    "code": "AT224",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.2802183907314904
+  },
+  {
+    "code": "AT225",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.8973209125597
+  },
+  {
+    "code": "AT226",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.53675687614312
+  },
+  {
+    "code": "AT311",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.05435883308831
+  },
+  {
+    "code": "AT312",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.497484839399292
+  },
+  {
+    "code": "AT313",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.6843432321837
+  },
+  {
+    "code": "AT314",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.0291642385067497
+  },
+  {
+    "code": "AT315",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.1291802276245
+  },
+  {
+    "code": "AT321",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.16329363543189
+  },
+  {
+    "code": "AT322",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.41017416733215
+  },
+  {
+    "code": "AT323",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.3952871801271698
+  },
+  {
+    "code": "AT331",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.3463231938054299
+  },
+  {
+    "code": "AT332",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.86734296175048
+  },
+  {
+    "code": "AT333",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.66434301724083
+  },
+  {
+    "code": "AT334",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.55434512499696
+  },
+  {
+    "code": "AT335",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.07779177343442
+  },
+  {
+    "code": "AT341",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.02261681541956
+  },
+  {
+    "code": "AT342",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.530132468414913
+  },
+  {
+    "code": "BE100",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0554964153812731
+  },
+  {
+    "code": "BE211",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.439213556376276
+  },
+  {
+    "code": "BE212",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.101249185313926
+  },
+  {
+    "code": "BE213",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.796078644362372
+  },
+  {
+    "code": "BE221",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.492526613078427
+  },
+  {
+    "code": "BE222",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7453074082120359
+  },
+  {
+    "code": "BE223",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.24124484032152899
+  },
+  {
+    "code": "BE231",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0331088420595264
+  },
+  {
+    "code": "BE232",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0289050619161416
+  },
+  {
+    "code": "BE233",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0243428199000652
+  },
+  {
+    "code": "BE234",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.113990875515968
+  },
+  {
+    "code": "BE235",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0418748642189876
+  },
+  {
+    "code": "BE236",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0675863567238757
+  },
+  {
+    "code": "BE241",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.159678470562677
+  },
+  {
+    "code": "BE242",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.39551379535085796
+  },
+  {
+    "code": "BE251",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0989354768629155
+  },
+  {
+    "code": "BE252",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.00902672170323702
+  },
+  {
+    "code": "BE253",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0279926135129264
+  },
+  {
+    "code": "BE254",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.00625678905061916
+  },
+  {
+    "code": "BE255",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0192591787964371
+  },
+  {
+    "code": "BE256",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0010427981751031901
+  },
+  {
+    "code": "BE257",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0187051922659135
+  },
+  {
+    "code": "BE258",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0380295459482946
+  },
+  {
+    "code": "BE310",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.243917010645231
+  },
+  {
+    "code": "BE321",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.13184879426461
+  },
+  {
+    "code": "BE322",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.17310449706713002
+  },
+  {
+    "code": "BE323",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.22459265696285002
+  },
+  {
+    "code": "BE324",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.00635455137953509
+  },
+  {
+    "code": "BE325",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.108516185096676
+  },
+  {
+    "code": "BE326",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.796013469476428
+  },
+  {
+    "code": "BE327",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.11288290245492098
+  },
+  {
+    "code": "BE331",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.46391483814903295
+  },
+  {
+    "code": "BE332",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.456582663480339
+  },
+  {
+    "code": "BE334",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.00990658266348034
+  },
+  {
+    "code": "BE335",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.61043884423202
+  },
+  {
+    "code": "BE336",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.30786443623724
+  },
+  {
+    "code": "BE341",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.36963936563111
+  },
+  {
+    "code": "BE342",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.4199978275038
+  },
+  {
+    "code": "BE343",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.6836628285900501
+  },
+  {
+    "code": "BE344",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.54009341733652
+  },
+  {
+    "code": "BE345",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.3466760808168603
+  },
+  {
+    "code": "BE351",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.20792961112318
+  },
+  {
+    "code": "BE352",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.5517054095155329
+  },
+  {
+    "code": "BE353",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.2789919617640702
+  },
+  {
+    "code": "BG311",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.08366214750064
+  },
+  {
+    "code": "BG312",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.46598608672697
+  },
+  {
+    "code": "BG313",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.7117891782931298
+  },
+  {
+    "code": "BG314",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.09828181117185
+  },
+  {
+    "code": "BG315",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.584477420328441
+  },
+  {
+    "code": "BG321",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.21323044307203
+  },
+  {
+    "code": "BG322",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.28745606286748
+  },
+  {
+    "code": "BG323",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.15828632123749
+  },
+  {
+    "code": "BG324",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.2384178053435901
+  },
+  {
+    "code": "BG325",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.4497842455969399
+  },
+  {
+    "code": "BG331",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.71959924476823
+  },
+  {
+    "code": "BG332",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.1857422594225
+  },
+  {
+    "code": "BG333",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.4016639089628797
+  },
+  {
+    "code": "BG334",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.88839285810254
+  },
+  {
+    "code": "BG341",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 8.56609772052512
+  },
+  {
+    "code": "BG342",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.86557467759372
+  },
+  {
+    "code": "BG343",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.69195004876589
+  },
+  {
+    "code": "BG344",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.37415164869985
+  },
+  {
+    "code": "BG411",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.14194560964028
+  },
+  {
+    "code": "BG412",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 9.842178873330571
+  },
+  {
+    "code": "BG413",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 10.1593392431388
+  },
+  {
+    "code": "BG414",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.73693634121893
+  },
+  {
+    "code": "BG415",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.09602742326278
+  },
+  {
+    "code": "BG421",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.3408885173256
+  },
+  {
+    "code": "BG422",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.1749793682769605
+  },
+  {
+    "code": "BG423",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 6.205617718839759
+  },
+  {
+    "code": "BG424",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.87072169863948
+  },
+  {
+    "code": "BG425",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.44682131734761
+  },
+  {
+    "code": "CY000",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "CZ010",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.11938541681492802
+  },
+  {
+    "code": "CZ020",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 8.53513571215076
+  },
+  {
+    "code": "CZ031",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 10.5975227373006
+  },
+  {
+    "code": "CZ032",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 8.24738894661182
+  },
+  {
+    "code": "CZ041",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.5275615935325
+  },
+  {
+    "code": "CZ042",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.746004782305469
+  },
+  {
+    "code": "CZ051",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.8612782703995197
+  },
+  {
+    "code": "CZ052",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.9837181001722204
+  },
+  {
+    "code": "CZ053",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.57390014090721
+  },
+  {
+    "code": "CZ063",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.459236539091081
+  },
+  {
+    "code": "CZ064",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.557372720932549
+  },
+  {
+    "code": "CZ071",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.20493032921049
+  },
+  {
+    "code": "CZ072",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.38245064689221
+  },
+  {
+    "code": "CZ080",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.20411406367868
+  },
+  {
+    "code": "DE111",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.18062266920801998
+  },
+  {
+    "code": "DE112",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.755931790039417
+  },
+  {
+    "code": "DE113",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.689727195098042
+  },
+  {
+    "code": "DE114",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.76043803933686
+  },
+  {
+    "code": "DE115",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.463161112000306
+  },
+  {
+    "code": "DE116",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.2323744789164
+  },
+  {
+    "code": "DE117",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0533634785223469
+  },
+  {
+    "code": "DE118",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.991307082290048
+  },
+  {
+    "code": "DE119",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7676209329538358
+  },
+  {
+    "code": "DE11A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.65176059774155
+  },
+  {
+    "code": "DE11B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.34384485627419
+  },
+  {
+    "code": "DE11C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.9628126788377991
+  },
+  {
+    "code": "DE11D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.06836842752617
+  },
+  {
+    "code": "DE121",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.307509162583378
+  },
+  {
+    "code": "DE122",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.172626617823084
+  },
+  {
+    "code": "DE123",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.3299195294978798
+  },
+  {
+    "code": "DE124",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.3689511023599399
+  },
+  {
+    "code": "DE125",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.16103911962966
+  },
+  {
+    "code": "DE126",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0726082123640568
+  },
+  {
+    "code": "DE127",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.65301421596715
+  },
+  {
+    "code": "DE128",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.36810406301832
+  },
+  {
+    "code": "DE129",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.184756221195148
+  },
+  {
+    "code": "DE12A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.75432012122545
+  },
+  {
+    "code": "DE12B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.800418296261539
+  },
+  {
+    "code": "DE12C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.9362641718063998
+  },
+  {
+    "code": "DE131",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.237509831391525
+  },
+  {
+    "code": "DE132",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.29964404936333
+  },
+  {
+    "code": "DE133",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.09413765836327
+  },
+  {
+    "code": "DE134",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.1567800999400495
+  },
+  {
+    "code": "DE135",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.1828734997918602
+  },
+  {
+    "code": "DE136",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.63861454715953
+  },
+  {
+    "code": "DE137",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.28716098353267
+  },
+  {
+    "code": "DE138",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.9576626796407209
+  },
+  {
+    "code": "DE139",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.4603297065344
+  },
+  {
+    "code": "DE13A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.9641825885063502
+  },
+  {
+    "code": "DE141",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.62861948292836
+  },
+  {
+    "code": "DE142",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.643716018060996
+  },
+  {
+    "code": "DE143",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.40259550500927
+  },
+  {
+    "code": "DE144",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.09503781413027498
+  },
+  {
+    "code": "DE145",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.3958530718499398
+  },
+  {
+    "code": "DE146",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.3459793954150803
+  },
+  {
+    "code": "DE147",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.61830483781226
+  },
+  {
+    "code": "DE148",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.5192497631378001
+  },
+  {
+    "code": "DE149",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.65979053070015
+  },
+  {
+    "code": "DE211",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0674582131669795
+  },
+  {
+    "code": "DE212",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0606818984339831
+  },
+  {
+    "code": "DE213",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0179911156161055
+  },
+  {
+    "code": "DE214",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.5114762360465711
+  },
+  {
+    "code": "DE215",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.7800362356371697
+  },
+  {
+    "code": "DE216",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.32061674346196
+  },
+  {
+    "code": "DE217",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.290161796866907
+  },
+  {
+    "code": "DE218",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.6835607486910149
+  },
+  {
+    "code": "DE219",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.70461585265892
+  },
+  {
+    "code": "DE21A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.327499291045718
+  },
+  {
+    "code": "DE21B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.469429203128328
+  },
+  {
+    "code": "DE21C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.30855949136699296
+  },
+  {
+    "code": "DE21D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.37767331351379
+  },
+  {
+    "code": "DE21E",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.772703169003583
+  },
+  {
+    "code": "DE21F",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.85650694739903
+  },
+  {
+    "code": "DE21G",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.531025904051266
+  },
+  {
+    "code": "DE21H",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.04412845563376
+  },
+  {
+    "code": "DE21I",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.5768676732199871
+  },
+  {
+    "code": "DE21J",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.552100242870885
+  },
+  {
+    "code": "DE21K",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.87178753712194
+  },
+  {
+    "code": "DE21L",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.620066679642839
+  },
+  {
+    "code": "DE21M",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.1468042705606
+  },
+  {
+    "code": "DE21N",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.05896858489902
+  },
+  {
+    "code": "DE221",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0438766378961519
+  },
+  {
+    "code": "DE222",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0809091979119774
+  },
+  {
+    "code": "DE223",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0009486840626195009
+  },
+  {
+    "code": "DE224",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.823694937369382
+  },
+  {
+    "code": "DE225",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.9068549658651999
+  },
+  {
+    "code": "DE226",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.4021550445516202
+  },
+  {
+    "code": "DE227",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.8995218992316121
+  },
+  {
+    "code": "DE228",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.3731524174943999
+  },
+  {
+    "code": "DE229",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.16177992612052
+  },
+  {
+    "code": "DE22A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.927813013241872
+  },
+  {
+    "code": "DE22B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.0388090485683499
+  },
+  {
+    "code": "DE22C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.581272277796434
+  },
+  {
+    "code": "DE231",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0347624945802717
+  },
+  {
+    "code": "DE232",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0118924323564087
+  },
+  {
+    "code": "DE233",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0769789353668395
+  },
+  {
+    "code": "DE234",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.0193756720066003
+  },
+  {
+    "code": "DE235",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.14439867883039
+  },
+  {
+    "code": "DE236",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.8756161549460801
+  },
+  {
+    "code": "DE237",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.56832492852664
+  },
+  {
+    "code": "DE238",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.57772935928356
+  },
+  {
+    "code": "DE239",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.2499736623704703
+  },
+  {
+    "code": "DE23A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.7404286760227998
+  },
+  {
+    "code": "DE241",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0568871621835051
+  },
+  {
+    "code": "DE242",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0411322304292884
+  },
+  {
+    "code": "DE243",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0316115082294284
+  },
+  {
+    "code": "DE244",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0219213781612435
+  },
+  {
+    "code": "DE245",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.54235699637732
+  },
+  {
+    "code": "DE246",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.96882436409845
+  },
+  {
+    "code": "DE247",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.61755944319163
+  },
+  {
+    "code": "DE248",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.8032982300230621
+  },
+  {
+    "code": "DE249",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.0044192512984
+  },
+  {
+    "code": "DE24A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.3505872894335202
+  },
+  {
+    "code": "DE24B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7819189570404591
+  },
+  {
+    "code": "DE24C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.646494307101525
+  },
+  {
+    "code": "DE24D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.9523771541489839
+  },
+  {
+    "code": "DE251",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0965963665188642
+  },
+  {
+    "code": "DE252",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0607157800076481
+  },
+  {
+    "code": "DE253",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0281555877156002
+  },
+  {
+    "code": "DE254",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.116789784423194
+  },
+  {
+    "code": "DE255",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0430634801281923
+  },
+  {
+    "code": "DE256",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.83529708228475
+  },
+  {
+    "code": "DE257",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.8015363881924829
+  },
+  {
+    "code": "DE258",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.250588118826208
+  },
+  {
+    "code": "DE259",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.4242797121548603
+  },
+  {
+    "code": "DE25A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.2239379670738202
+  },
+  {
+    "code": "DE25B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.4187570156474598
+  },
+  {
+    "code": "DE25C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.12120903572159
+  },
+  {
+    "code": "DE261",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.060919069449638
+  },
+  {
+    "code": "DE262",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0232427595341778
+  },
+  {
+    "code": "DE263",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0572259779201549
+  },
+  {
+    "code": "DE264",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.38477379726149
+  },
+  {
+    "code": "DE265",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.03384310396155
+  },
+  {
+    "code": "DE266",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.3040678887915
+  },
+  {
+    "code": "DE267",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.31721393937351
+  },
+  {
+    "code": "DE268",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.492841370530831
+  },
+  {
+    "code": "DE269",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.4528079971807701
+  },
+  {
+    "code": "DE26A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.5353242757769503
+  },
+  {
+    "code": "DE26B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.729978504612041
+  },
+  {
+    "code": "DE26C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7164258751460479
+  },
+  {
+    "code": "DE271",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.137931886390142
+  },
+  {
+    "code": "DE272",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.032356902850058
+  },
+  {
+    "code": "DE273",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0148062476915972
+  },
+  {
+    "code": "DE274",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0605802537129881
+  },
+  {
+    "code": "DE275",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.6308071384946379
+  },
+  {
+    "code": "DE276",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.24152250380594
+  },
+  {
+    "code": "DE277",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.59912786711788
+  },
+  {
+    "code": "DE278",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7435311340780341
+  },
+  {
+    "code": "DE279",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.522792681650675
+  },
+  {
+    "code": "DE27A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.260278248894393
+  },
+  {
+    "code": "DE27B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.4860119393724498
+  },
+  {
+    "code": "DE27C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.00004852829561
+  },
+  {
+    "code": "DE27D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.1193116675963501
+  },
+  {
+    "code": "DE27E",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.73109200841322
+  },
+  {
+    "code": "DE300",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.571887081891234
+  },
+  {
+    "code": "DE401",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.265089432354821
+  },
+  {
+    "code": "DE402",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.159921027698716
+  },
+  {
+    "code": "DE403",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.14389504335517903
+  },
+  {
+    "code": "DE404",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.17980951144006
+  },
+  {
+    "code": "DE405",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.53393513125669
+  },
+  {
+    "code": "DE406",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.8006655258693796
+  },
+  {
+    "code": "DE407",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.48711079645168
+  },
+  {
+    "code": "DE408",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.71203591729155
+  },
+  {
+    "code": "DE409",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.8949286519351203
+  },
+  {
+    "code": "DE40A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.7737827912311
+  },
+  {
+    "code": "DE40B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.95428916899617
+  },
+  {
+    "code": "DE40C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.98260957645033
+  },
+  {
+    "code": "DE40D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.12750642029351
+  },
+  {
+    "code": "DE40E",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.8374947964432105
+  },
+  {
+    "code": "DE40F",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.68388032957595
+  },
+  {
+    "code": "DE40G",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.76460088476789
+  },
+  {
+    "code": "DE40H",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.1178501717989904
+  },
+  {
+    "code": "DE40I",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.8329061372764905
+  },
+  {
+    "code": "DE501",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0295447322358645
+  },
+  {
+    "code": "DE502",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0191769706943799
+  },
+  {
+    "code": "DE600",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.14308188558722001
+  },
+  {
+    "code": "DE711",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.21220029586378303
+  },
+  {
+    "code": "DE712",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.136610505017208
+  },
+  {
+    "code": "DE713",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.05512532035292599
+  },
+  {
+    "code": "DE714",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.216062795261591
+  },
+  {
+    "code": "DE715",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.00530017221369
+  },
+  {
+    "code": "DE716",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.8247452661529959
+  },
+  {
+    "code": "DE717",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.41836967161520006
+  },
+  {
+    "code": "DE718",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.8733992059359109
+  },
+  {
+    "code": "DE719",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.1656763070919998
+  },
+  {
+    "code": "DE71A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.20379766559486803
+  },
+  {
+    "code": "DE71B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.2322728341954
+  },
+  {
+    "code": "DE71C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.562400241265039
+  },
+  {
+    "code": "DE71D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.66043428059978
+  },
+  {
+    "code": "DE71E",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.12192054876855
+  },
+  {
+    "code": "DE721",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.05259884905
+  },
+  {
+    "code": "DE722",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.94625923603757
+  },
+  {
+    "code": "DE723",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.9142265022022141
+  },
+  {
+    "code": "DE724",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.8218122159660899
+  },
+  {
+    "code": "DE725",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.9997921224282398
+  },
+  {
+    "code": "DE731",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0888374861495833
+  },
+  {
+    "code": "DE732",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.70817341789374
+  },
+  {
+    "code": "DE733",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.75279545041052
+  },
+  {
+    "code": "DE734",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.77559774948706
+  },
+  {
+    "code": "DE735",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.94649640705323
+  },
+  {
+    "code": "DE736",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.9230650047990094
+  },
+  {
+    "code": "DE737",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.60330994740062
+  },
+  {
+    "code": "DE803",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.18838154957730102
+  },
+  {
+    "code": "DE804",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.11346939020402498
+  },
+  {
+    "code": "DE80J",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.9653446206031395
+  },
+  {
+    "code": "DE80K",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.9218306214251202
+  },
+  {
+    "code": "DE80L",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.05532402166515
+  },
+  {
+    "code": "DE80M",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.878854139295973
+  },
+  {
+    "code": "DE80N",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.17829489921732
+  },
+  {
+    "code": "DE80O",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.5848545483453895
+  },
+  {
+    "code": "DE911",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0751493303889305
+  },
+  {
+    "code": "DE912",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.12692037494902303
+  },
+  {
+    "code": "DE913",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.17452398594832302
+  },
+  {
+    "code": "DE914",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.8951658229507802
+  },
+  {
+    "code": "DE915",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.2863817073383799
+  },
+  {
+    "code": "DE916",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.95395035325952
+  },
+  {
+    "code": "DE917",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.580662409470465
+  },
+  {
+    "code": "DE918",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.68831881572606
+  },
+  {
+    "code": "DE919",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.267204736644
+  },
+  {
+    "code": "DE91A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.149248331994246
+  },
+  {
+    "code": "DE91B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.447948285424729
+  },
+  {
+    "code": "DE922",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.540140047367146
+  },
+  {
+    "code": "DE923",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.879497889195607
+  },
+  {
+    "code": "DE925",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.01075510557375
+  },
+  {
+    "code": "DE926",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.1215139698845802
+  },
+  {
+    "code": "DE927",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.8118702681603029
+  },
+  {
+    "code": "DE928",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.6017028667164179
+  },
+  {
+    "code": "DE929",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.58972343636096
+  },
+  {
+    "code": "DE931",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.68047293735773
+  },
+  {
+    "code": "DE932",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.6603518707305029
+  },
+  {
+    "code": "DE933",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.24287776675254
+  },
+  {
+    "code": "DE934",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.53544515534966
+  },
+  {
+    "code": "DE935",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.51582772419764
+  },
+  {
+    "code": "DE936",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.267698313527024
+  },
+  {
+    "code": "DE937",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.1485853472428997
+  },
+  {
+    "code": "DE938",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.2046208819550097
+  },
+  {
+    "code": "DE939",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.267766076674354
+  },
+  {
+    "code": "DE93A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.7931484046455202
+  },
+  {
+    "code": "DE93B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.33247988237446996
+  },
+  {
+    "code": "DE941",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0013552629465992901
+  },
+  {
+    "code": "DE942",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0136203926133228
+  },
+  {
+    "code": "DE943",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0117569060617488
+  },
+  {
+    "code": "DE944",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0602075564026733
+  },
+  {
+    "code": "DE945",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0305272978721489
+  },
+  {
+    "code": "DE946",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.17940293255608103
+  },
+  {
+    "code": "DE947",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.21077726976985398
+  },
+  {
+    "code": "DE948",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.48504860858788496
+  },
+  {
+    "code": "DE949",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.6457296776291799
+  },
+  {
+    "code": "DE94A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.14609734564340301
+  },
+  {
+    "code": "DE94B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.482304201121021
+  },
+  {
+    "code": "DE94C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.106794720192024
+  },
+  {
+    "code": "DE94D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.602244971895058
+  },
+  {
+    "code": "DE94E",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.2389475042073999
+  },
+  {
+    "code": "DE94F",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.28572331071679496
+  },
+  {
+    "code": "DE94G",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0430295985545274
+  },
+  {
+    "code": "DE94H",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.17933516940875102
+  },
+  {
+    "code": "DEA11",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0939197221993306
+  },
+  {
+    "code": "DEA12",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0700332127655182
+  },
+  {
+    "code": "DEA13",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0866013022876944
+  },
+  {
+    "code": "DEA14",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0332378237653475
+  },
+  {
+    "code": "DEA15",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0484167687672595
+  },
+  {
+    "code": "DEA16",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0497042685665288
+  },
+  {
+    "code": "DEA17",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0366598627055107
+  },
+  {
+    "code": "DEA18",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0769789353668395
+  },
+  {
+    "code": "DEA19",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0820272898429218
+  },
+  {
+    "code": "DEA1A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.15253484463975
+  },
+  {
+    "code": "DEA1B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.5131364331561551
+  },
+  {
+    "code": "DEA1C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.268884168605299
+  },
+  {
+    "code": "DEA1D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.156024646727243
+  },
+  {
+    "code": "DEA1E",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.3495561955016211
+  },
+  {
+    "code": "DEA1F",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.562908464870014
+  },
+  {
+    "code": "DEA22",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.144606556402144
+  },
+  {
+    "code": "DEA23",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.241507857083993
+  },
+  {
+    "code": "DEA24",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0343897972699569
+  },
+  {
+    "code": "DEA26",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.653067332392531
+  },
+  {
+    "code": "DEA27",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.336376263345943
+  },
+  {
+    "code": "DEA28",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.6480336246383998
+  },
+  {
+    "code": "DEA29",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.21657101886656602
+  },
+  {
+    "code": "DEA2A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.2700507888318602
+  },
+  {
+    "code": "DEA2B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.565585109189547
+  },
+  {
+    "code": "DEA2C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.23583039943022
+  },
+  {
+    "code": "DEA2D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.773889024081858
+  },
+  {
+    "code": "DEA31",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0922934066634114
+  },
+  {
+    "code": "DEA32",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0477730188676249
+  },
+  {
+    "code": "DEA33",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.14379339863418397
+  },
+  {
+    "code": "DEA34",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.48281242472599606
+  },
+  {
+    "code": "DEA35",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.44371308871660703
+  },
+  {
+    "code": "DEA36",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7440054761093441
+  },
+  {
+    "code": "DEA37",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.611155825768948
+  },
+  {
+    "code": "DEA38",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.360533825369075
+  },
+  {
+    "code": "DEA41",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.159921027698716
+  },
+  {
+    "code": "DEA42",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.34210224929532496
+  },
+  {
+    "code": "DEA43",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0761657775988799
+  },
+  {
+    "code": "DEA44",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.17728304013714
+  },
+  {
+    "code": "DEA45",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.3213813729343
+  },
+  {
+    "code": "DEA46",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.389163755115985
+  },
+  {
+    "code": "DEA47",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.26181756643127
+  },
+  {
+    "code": "DEA51",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0474003215573101
+  },
+  {
+    "code": "DEA52",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.14643616138005303
+  },
+  {
+    "code": "DEA53",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.261125288236018
+  },
+  {
+    "code": "DEA54",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0561078859892105
+  },
+  {
+    "code": "DEA55",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0108759851464593
+  },
+  {
+    "code": "DEA56",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.418945658367505
+  },
+  {
+    "code": "DEA57",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.87994840824543
+  },
+  {
+    "code": "DEA58",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.89519970452444
+  },
+  {
+    "code": "DEA59",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.57041093937192
+  },
+  {
+    "code": "DEA5A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.68440319990287
+  },
+  {
+    "code": "DEA5B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.8668939437922341
+  },
+  {
+    "code": "DEA5C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.21938318948076002
+  },
+  {
+    "code": "DEB11",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.12190590204660601
+  },
+  {
+    "code": "DEB12",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.5166747635392601
+  },
+  {
+    "code": "DEB13",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.1952063926059098
+  },
+  {
+    "code": "DEB14",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.20909783780855
+  },
+  {
+    "code": "DEB15",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.56919120271998
+  },
+  {
+    "code": "DEB16",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.32382084623818
+  },
+  {
+    "code": "DEB17",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.945126497384678
+  },
+  {
+    "code": "DEB18",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.01499030228187
+  },
+  {
+    "code": "DEB19",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.5341915371240602
+  },
+  {
+    "code": "DEB1A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.32968235848223
+  },
+  {
+    "code": "DEB1B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.4221451730139598
+  },
+  {
+    "code": "DEB21",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.178250959051471
+  },
+  {
+    "code": "DEB22",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.08591908268463
+  },
+  {
+    "code": "DEB23",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.9848842300156497
+  },
+  {
+    "code": "DEB24",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.4380695126365
+  },
+  {
+    "code": "DEB25",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.81913557164656
+  },
+  {
+    "code": "DEB31",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.00030493416298484
+  },
+  {
+    "code": "DEB32",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.310863438376211
+  },
+  {
+    "code": "DEB33",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.09124307787979699
+  },
+  {
+    "code": "DEB34",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0136203926133228
+  },
+  {
+    "code": "DEB35",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0155855238858918
+  },
+  {
+    "code": "DEB36",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.175743722600263
+  },
+  {
+    "code": "DEB37",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0933437354470259
+  },
+  {
+    "code": "DEB38",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0377101914891252
+  },
+  {
+    "code": "DEB39",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.009995064231169741
+  },
+  {
+    "code": "DEB3A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0483828871935945
+  },
+  {
+    "code": "DEB3B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0847039341624554
+  },
+  {
+    "code": "DEB3C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.0699123331928102
+  },
+  {
+    "code": "DEB3D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.706193639899223
+  },
+  {
+    "code": "DEB3E",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.667433119626484
+  },
+  {
+    "code": "DEB3F",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.12696890324464
+  },
+  {
+    "code": "DEB3G",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.6772587759893289
+  },
+  {
+    "code": "DEB3H",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.00208142271551
+  },
+  {
+    "code": "DEB3I",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.186755234041382
+  },
+  {
+    "code": "DEB3J",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.335393697709659
+  },
+  {
+    "code": "DEB3K",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.1730286085773
+  },
+  {
+    "code": "DEC01",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.683764038133005
+  },
+  {
+    "code": "DEC02",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.8505969068593779
+  },
+  {
+    "code": "DEC03",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.30066508470305203
+  },
+  {
+    "code": "DEC04",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.4986351196275429
+  },
+  {
+    "code": "DEC05",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.563213399032999
+  },
+  {
+    "code": "DEC06",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.672176539939581
+  },
+  {
+    "code": "DED21",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.26325982737691195
+  },
+  {
+    "code": "DED2C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.0746511653761397
+  },
+  {
+    "code": "DED2D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.70612128862213
+  },
+  {
+    "code": "DED2E",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7624031706094291
+  },
+  {
+    "code": "DED2F",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.10719671094624
+  },
+  {
+    "code": "DED41",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.108692088317263
+  },
+  {
+    "code": "DED42",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.91998178159549
+  },
+  {
+    "code": "DED43",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.1032856832528102
+  },
+  {
+    "code": "DED44",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.9229148317824
+  },
+  {
+    "code": "DED45",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.514356169808094
+  },
+  {
+    "code": "DED51",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0604108458446632
+  },
+  {
+    "code": "DED52",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.9584758374086809
+  },
+  {
+    "code": "DED53",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.45968595663476
+  },
+  {
+    "code": "DEE01",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.33447889522070395
+  },
+  {
+    "code": "DEE02",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0730486728217016
+  },
+  {
+    "code": "DEE03",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0483151240462646
+  },
+  {
+    "code": "DEE04",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.31519569167556
+  },
+  {
+    "code": "DEE05",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.0592057559146701
+  },
+  {
+    "code": "DEE06",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.83367076674884
+  },
+  {
+    "code": "DEE07",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.67591815976468
+  },
+  {
+    "code": "DEE08",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.577951883577266
+  },
+  {
+    "code": "DEE09",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.63781603611352
+  },
+  {
+    "code": "DEE0A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.36166656402197
+  },
+  {
+    "code": "DEE0B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.398413424726525
+  },
+  {
+    "code": "DEE0C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.253366407866737
+  },
+  {
+    "code": "DEE0D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.83163787232894
+  },
+  {
+    "code": "DEE0E",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.7043594467915497
+  },
+  {
+    "code": "DEF01",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0174151288638008
+  },
+  {
+    "code": "DEF02",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0287315744679049
+  },
+  {
+    "code": "DEF03",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.133052939782385
+  },
+  {
+    "code": "DEF04",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.009283551184205121
+  },
+  {
+    "code": "DEF05",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.21690983460321603
+  },
+  {
+    "code": "DEF06",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.1477383079012702
+  },
+  {
+    "code": "DEF07",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.44456012805823103
+  },
+  {
+    "code": "DEF08",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.497720317138588
+  },
+  {
+    "code": "DEF09",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.161140764350655
+  },
+  {
+    "code": "DEF0A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.368224942591026
+  },
+  {
+    "code": "DEF0B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.8746189425878499
+  },
+  {
+    "code": "DEF0C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.421215723803058
+  },
+  {
+    "code": "DEF0D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.74071896346384
+  },
+  {
+    "code": "DEF0E",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.309575938576942
+  },
+  {
+    "code": "DEF0F",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.35541770774566295
+  },
+  {
+    "code": "DEG01",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.076064132877885
+  },
+  {
+    "code": "DEG02",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0860253155353897
+  },
+  {
+    "code": "DEG03",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.15134898956147502
+  },
+  {
+    "code": "DEG04",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.24452331714017603
+  },
+  {
+    "code": "DEG05",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0677292657562994
+  },
+  {
+    "code": "DEG06",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.9839547808047471
+  },
+  {
+    "code": "DEG07",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7577613950173259
+  },
+  {
+    "code": "DEG09",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.660284107583173
+  },
+  {
+    "code": "DEG0A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.8739751926882149
+  },
+  {
+    "code": "DEG0B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.1021822380438198
+  },
+  {
+    "code": "DEG0C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.03891069328935
+  },
+  {
+    "code": "DEG0D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.21277628261608802
+  },
+  {
+    "code": "DEG0E",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.54726982455874
+  },
+  {
+    "code": "DEG0F",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.31047150621418
+  },
+  {
+    "code": "DEG0G",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.43815651063555
+  },
+  {
+    "code": "DEG0H",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.941975511033834
+  },
+  {
+    "code": "DEG0I",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.99670889922473
+  },
+  {
+    "code": "DEG0J",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.05632582215315
+  },
+  {
+    "code": "DEG0K",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.6038181710056
+  },
+  {
+    "code": "DEG0L",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.715341664788769
+  },
+  {
+    "code": "DEG0M",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.19532727217862197
+  },
+  {
+    "code": "DEG0N",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.13295129506139
+  },
+  {
+    "code": "DEG0P",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.78230630107272
+  },
+  {
+    "code": "DK011",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.090017241316197
+  },
+  {
+    "code": "DK012",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0646750689103561
+  },
+  {
+    "code": "DK013",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.6365779464896899
+  },
+  {
+    "code": "DK014",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.251909905886573
+  },
+  {
+    "code": "DK021",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.228412664131107
+  },
+  {
+    "code": "DK022",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.8053415135020399
+  },
+  {
+    "code": "DK031",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.729003847266098
+  },
+  {
+    "code": "DK032",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.53250043011776
+  },
+  {
+    "code": "DK041",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.6788649283808197
+  },
+  {
+    "code": "DK042",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.2582976122058303
+  },
+  {
+    "code": "DK050",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.72439884179354
+  },
+  {
+    "code": "EE001",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.8513816691172402
+  },
+  {
+    "code": "EE004",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 10.5159826551414
+  },
+  {
+    "code": "EE006",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 7.682712388589059
+  },
+  {
+    "code": "EE007",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.4572042853195697
+  },
+  {
+    "code": "EE008",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 12.4927190018328
+  },
+  {
+    "code": "EL301",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0020275138729663397
+  },
+  {
+    "code": "EL302",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.00239790327880992
+  },
+  {
+    "code": "EL303",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.00249644724917197
+  },
+  {
+    "code": "EL304",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0010160223151121901
+  },
+  {
+    "code": "EL305",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0605932148795165
+  },
+  {
+    "code": "EL306",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0680746278018309
+  },
+  {
+    "code": "EL307",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0529135813271636
+  },
+  {
+    "code": "EL411",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.12169953801850399
+  },
+  {
+    "code": "EL412",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0525488553678925
+  },
+  {
+    "code": "EL413",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0649110265464147
+  },
+  {
+    "code": "EL421",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.18878192998082802
+  },
+  {
+    "code": "EL422",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.173373957235598
+  },
+  {
+    "code": "EL431",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.102526505991856
+  },
+  {
+    "code": "EL432",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.12094516693504302
+  },
+  {
+    "code": "EL433",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0903795457830897
+  },
+  {
+    "code": "EL434",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.155278112747045
+  },
+  {
+    "code": "EL511",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.19260135834934303
+  },
+  {
+    "code": "EL512",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.11730243809959101
+  },
+  {
+    "code": "EL513",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.135410742170604
+  },
+  {
+    "code": "EL514",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.295493722989784
+  },
+  {
+    "code": "EL515",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.142278237484456
+  },
+  {
+    "code": "EL521",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.08382127465209799
+  },
+  {
+    "code": "EL522",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.139840690079638
+  },
+  {
+    "code": "EL523",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.095075675681033
+  },
+  {
+    "code": "EL524",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.134784364979682
+  },
+  {
+    "code": "EL525",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0683578001304575
+  },
+  {
+    "code": "EL526",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.185710076559887
+  },
+  {
+    "code": "EL527",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.174850984101714
+  },
+  {
+    "code": "EL531",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.33911019042347995
+  },
+  {
+    "code": "EL532",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.12990020865552998
+  },
+  {
+    "code": "EL533",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.11571214230202401
+  },
+  {
+    "code": "EL541",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.164828949046962
+  },
+  {
+    "code": "EL542",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.119642574223361
+  },
+  {
+    "code": "EL543",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.42603503379732505
+  },
+  {
+    "code": "EL611",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.390038167382314
+  },
+  {
+    "code": "EL612",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.26215527839591896
+  },
+  {
+    "code": "EL613",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.16992718365155499
+  },
+  {
+    "code": "EL621",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0175532863069047
+  },
+  {
+    "code": "EL622",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.00977057802693167
+  },
+  {
+    "code": "EL623",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0622038990847446
+  },
+  {
+    "code": "EL624",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.016974482067191998
+  },
+  {
+    "code": "EL631",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.35084032096450796
+  },
+  {
+    "code": "EL632",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.203342651118807
+  },
+  {
+    "code": "EL633",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0755605714814033
+  },
+  {
+    "code": "EL641",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.16919433366507
+  },
+  {
+    "code": "EL642",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.28481133006467496
+  },
+  {
+    "code": "EL643",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.17900455581800898
+  },
+  {
+    "code": "EL644",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.274584278243997
+  },
+  {
+    "code": "EL645",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.19005054201307503
+  },
+  {
+    "code": "EL651",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.490235864143545
+  },
+  {
+    "code": "EL652",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.13858000687259198
+  },
+  {
+    "code": "EL653",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.394452257640945
+  },
+  {
+    "code": "ES111",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.32813262522728
+  },
+  {
+    "code": "ES112",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.75322821206269
+  },
+  {
+    "code": "ES113",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.77019503123044
+  },
+  {
+    "code": "ES114",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.5787673766848798
+  },
+  {
+    "code": "ES120",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 6.561761898783949
+  },
+  {
+    "code": "ES130",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.97749313495722
+  },
+  {
+    "code": "ES211",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.5516557576986998
+  },
+  {
+    "code": "ES212",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.2720812032925601
+  },
+  {
+    "code": "ES213",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.33600923819017
+  },
+  {
+    "code": "ES220",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.06578510898853
+  },
+  {
+    "code": "ES230",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.7082500230705295
+  },
+  {
+    "code": "ES241",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 7.552364916825531
+  },
+  {
+    "code": "ES242",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 8.16258138079018
+  },
+  {
+    "code": "ES243",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 6.04667335365757
+  },
+  {
+    "code": "ES300",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.32778802211113
+  },
+  {
+    "code": "ES411",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.39536743670983
+  },
+  {
+    "code": "ES412",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 6.07719400781322
+  },
+  {
+    "code": "ES413",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 8.71285581622719
+  },
+  {
+    "code": "ES414",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.12345998987391
+  },
+  {
+    "code": "ES415",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.87040823622232
+  },
+  {
+    "code": "ES416",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.08515999311625
+  },
+  {
+    "code": "ES417",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.34695942828306
+  },
+  {
+    "code": "ES418",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.24893376719794
+  },
+  {
+    "code": "ES419",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.02315845175515
+  },
+  {
+    "code": "ES421",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.568272154156059
+  },
+  {
+    "code": "ES422",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 7.1676974276562095
+  },
+  {
+    "code": "ES423",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 7.29945013148126
+  },
+  {
+    "code": "ES424",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 7.03540848979035
+  },
+  {
+    "code": "ES425",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.433574112116981
+  },
+  {
+    "code": "ES431",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.7428699578412
+  },
+  {
+    "code": "ES432",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 8.71643964706655
+  },
+  {
+    "code": "ES511",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.36684872297318
+  },
+  {
+    "code": "ES512",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.74269911118169
+  },
+  {
+    "code": "ES513",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 6.22203082223384
+  },
+  {
+    "code": "ES514",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.74769897400554
+  },
+  {
+    "code": "ES521",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.2379459575851297
+  },
+  {
+    "code": "ES522",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.05817453461952
+  },
+  {
+    "code": "ES523",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.23664714885608
+  },
+  {
+    "code": "ES531",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.27829652994222803
+  },
+  {
+    "code": "ES532",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.16435178449544
+  },
+  {
+    "code": "ES533",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.311426856429779
+  },
+  {
+    "code": "ES611",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.088945431327541
+  },
+  {
+    "code": "ES612",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.13981512811837
+  },
+  {
+    "code": "ES613",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.87694925230685
+  },
+  {
+    "code": "ES614",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.01587065702388
+  },
+  {
+    "code": "ES615",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.82447085339361
+  },
+  {
+    "code": "ES616",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.66535233901963
+  },
+  {
+    "code": "ES617",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.58828553090911
+  },
+  {
+    "code": "ES618",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.3136711413803903
+  },
+  {
+    "code": "ES620",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.06022116120858
+  },
+  {
+    "code": "ES630",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.00904448082152718
+  },
+  {
+    "code": "ES640",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.000688167019029242
+  },
+  {
+    "code": "ES703",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.15902914203384802
+  },
+  {
+    "code": "ES704",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.00646162019166418
+  },
+  {
+    "code": "ES705",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.43720948793390296
+  },
+  {
+    "code": "ES706",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.24206498325203896
+  },
+  {
+    "code": "ES707",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.42404494223221295
+  },
+  {
+    "code": "ES708",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.13702567189293902
+  },
+  {
+    "code": "ES709",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.8047532367336109
+  },
+  {
+    "code": "FI193",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 12.7398027213709
+  },
+  {
+    "code": "FI194",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 8.03418704617105
+  },
+  {
+    "code": "FI195",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.607889088832231
+  },
+  {
+    "code": "FI196",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.5941177276992
+  },
+  {
+    "code": "FI197",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 8.28258901589301
+  },
+  {
+    "code": "FI1B1",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.737481770233781
+  },
+  {
+    "code": "FI1C1",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.959609652169809
+  },
+  {
+    "code": "FI1C2",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.06833437695427
+  },
+  {
+    "code": "FI1C3",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.2611000476987897
+  },
+  {
+    "code": "FI1C4",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.16467548092915
+  },
+  {
+    "code": "FI1C5",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.70756757563161
+  },
+  {
+    "code": "FI1D1",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 11.172822135139599
+  },
+  {
+    "code": "FI1D2",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 12.233075055631799
+  },
+  {
+    "code": "FI1D3",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 13.5351196925021
+  },
+  {
+    "code": "FI1D4",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 17.0716219240231
+  },
+  {
+    "code": "FI1D5",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.2209794822645597
+  },
+  {
+    "code": "FI1D6",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 24.420537693935103
+  },
+  {
+    "code": "FI1D7",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 63.405015912363304
+  },
+  {
+    "code": "FI200",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7834736005567409
+  },
+  {
+    "code": "FR101",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FR102",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.2291885172668304
+  },
+  {
+    "code": "FR103",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.1042691217029899
+  },
+  {
+    "code": "FR104",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.6276813114244649
+  },
+  {
+    "code": "FR105",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0261041836615779
+  },
+  {
+    "code": "FR106",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.00916754069067319
+  },
+  {
+    "code": "FR107",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0353804917841743
+  },
+  {
+    "code": "FR108",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.3712543215631429
+  },
+  {
+    "code": "FR211",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.3469991842442597
+  },
+  {
+    "code": "FR212",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.3933807248572405
+  },
+  {
+    "code": "FR213",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.58335081381346
+  },
+  {
+    "code": "FR214",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.88882414636989
+  },
+  {
+    "code": "FR221",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.2793147651788797
+  },
+  {
+    "code": "FR222",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.0160354271064
+  },
+  {
+    "code": "FR223",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.853824340597444
+  },
+  {
+    "code": "FR231",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.9354853746649598
+  },
+  {
+    "code": "FR232",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.5726682981781497
+  },
+  {
+    "code": "FR241",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.6688109388960095
+  },
+  {
+    "code": "FR242",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.0566911393388498
+  },
+  {
+    "code": "FR243",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.7333488715378897
+  },
+  {
+    "code": "FR244",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.33895039428194
+  },
+  {
+    "code": "FR245",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.29854329332246
+  },
+  {
+    "code": "FR246",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.79592899040516
+  },
+  {
+    "code": "FR251",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.646342695101581
+  },
+  {
+    "code": "FR252",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.4274249310492171
+  },
+  {
+    "code": "FR253",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.3835217340636299
+  },
+  {
+    "code": "FR261",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.02723070349221
+  },
+  {
+    "code": "FR262",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.60573359748281
+  },
+  {
+    "code": "FR263",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.00906654236103
+  },
+  {
+    "code": "FR264",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.4997164277667703
+  },
+  {
+    "code": "FR301",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7850211708037141
+  },
+  {
+    "code": "FR302",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.728089189294177
+  },
+  {
+    "code": "FR411",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.71489725362234
+  },
+  {
+    "code": "FR412",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.6099599891232597
+  },
+  {
+    "code": "FR413",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.0062075127219097
+  },
+  {
+    "code": "FR414",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.62396768053451
+  },
+  {
+    "code": "FR421",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.90968418599231
+  },
+  {
+    "code": "FR422",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.41320747387639
+  },
+  {
+    "code": "FR431",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.6703880666588997
+  },
+  {
+    "code": "FR432",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.89289515596473
+  },
+  {
+    "code": "FR433",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.6530163539603002
+  },
+  {
+    "code": "FR434",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.41019306219166396
+  },
+  {
+    "code": "FR511",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.5835061958590679
+  },
+  {
+    "code": "FR512",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.2671716583148798
+  },
+  {
+    "code": "FR513",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.47717826205182
+  },
+  {
+    "code": "FR514",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.6104416734646299
+  },
+  {
+    "code": "FR515",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.491022802315192
+  },
+  {
+    "code": "FR521",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.15790700384571
+  },
+  {
+    "code": "FR522",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.4451617915549901
+  },
+  {
+    "code": "FR523",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.9131958202229731
+  },
+  {
+    "code": "FR524",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.9126752903702
+  },
+  {
+    "code": "FR531",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.89146564114517
+  },
+  {
+    "code": "FR532",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.67049683409082
+  },
+  {
+    "code": "FR533",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.678693236996465
+  },
+  {
+    "code": "FR534",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.78502893990599
+  },
+  {
+    "code": "FR611",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 6.404552693936219
+  },
+  {
+    "code": "FR612",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 7.8879073923008205
+  },
+  {
+    "code": "FR613",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 9.23660800994445
+  },
+  {
+    "code": "FR614",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.82407644796644
+  },
+  {
+    "code": "FR615",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.99172590607155
+  },
+  {
+    "code": "FR621",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.38065493532222
+  },
+  {
+    "code": "FR622",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.207069883075009
+  },
+  {
+    "code": "FR623",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.0157091248106296
+  },
+  {
+    "code": "FR624",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.8750339898224759
+  },
+  {
+    "code": "FR625",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.9822398321873904
+  },
+  {
+    "code": "FR626",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.2697043856582404
+  },
+  {
+    "code": "FR627",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.68271763197763
+  },
+  {
+    "code": "FR628",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.9793108806277429
+  },
+  {
+    "code": "FR631",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.41120304548809
+  },
+  {
+    "code": "FR632",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.67597405119838
+  },
+  {
+    "code": "FR633",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.3759468593403996
+  },
+  {
+    "code": "FR711",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.22282562249932
+  },
+  {
+    "code": "FR712",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.952996931204599
+  },
+  {
+    "code": "FR713",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.48641572466301
+  },
+  {
+    "code": "FR714",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.151722798430639
+  },
+  {
+    "code": "FR715",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.22597210892281
+  },
+  {
+    "code": "FR716",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.15361845938702
+  },
+  {
+    "code": "FR717",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.546051353766071
+  },
+  {
+    "code": "FR718",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.6441595773608397
+  },
+  {
+    "code": "FR721",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.94418676921882
+  },
+  {
+    "code": "FR722",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.62625956570718
+  },
+  {
+    "code": "FR723",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.3022258478032898
+  },
+  {
+    "code": "FR724",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.87498737520879
+  },
+  {
+    "code": "FR811",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.65787204288544
+  },
+  {
+    "code": "FR812",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.67286641028629
+  },
+  {
+    "code": "FR813",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.697976148856
+  },
+  {
+    "code": "FR814",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.81396107679758
+  },
+  {
+    "code": "FR815",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.85945693975061
+  },
+  {
+    "code": "FR821",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 7.15375830322806
+  },
+  {
+    "code": "FR822",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.85679213766849
+  },
+  {
+    "code": "FR823",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.95410791283067
+  },
+  {
+    "code": "FR824",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.75462844268345
+  },
+  {
+    "code": "FR825",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 6.39849279415764
+  },
+  {
+    "code": "FR826",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.10665423610302
+  },
+  {
+    "code": "FR831",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.7161713863963
+  },
+  {
+    "code": "FR832",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.353097929534241
+  },
+  {
+    "code": "FRA10",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.11820689119372
+  },
+  {
+    "code": "FRA20",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.751800489453444
+  },
+  {
+    "code": "FRA30",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 10.3446218389465
+  },
+  {
+    "code": "FRA40",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.0455890921804
+  },
+  {
+    "code": "FRA50",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.346377656061842
+  },
+  {
+    "code": "HR031",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.38176222485831
+  },
+  {
+    "code": "HR032",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 6.086526954000259
+  },
+  {
+    "code": "HR033",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.2578634506392503
+  },
+  {
+    "code": "HR034",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.04203571899301
+  },
+  {
+    "code": "HR035",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.6753024911032
+  },
+  {
+    "code": "HR036",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.45822920785554
+  },
+  {
+    "code": "HR037",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.8340582575458
+  },
+  {
+    "code": "HR041",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.32085409252669
+  },
+  {
+    "code": "HR042",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.8287531303545501
+  },
+  {
+    "code": "HR043",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7618314221695
+  },
+  {
+    "code": "HR044",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.711751021484118
+  },
+  {
+    "code": "HR045",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.969883353103994
+  },
+  {
+    "code": "HR046",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.211553314880717
+  },
+  {
+    "code": "HR047",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.64713589033874
+  },
+  {
+    "code": "HR048",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.20226308158693
+  },
+  {
+    "code": "HR049",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.5052616317385
+  },
+  {
+    "code": "HR04A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.15897324370634
+  },
+  {
+    "code": "HR04B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.6528351126927598
+  },
+  {
+    "code": "HR04C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.09652431791222
+  },
+  {
+    "code": "HR04D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.5962699354158394
+  },
+  {
+    "code": "HR04E",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.6003321470937095
+  },
+  {
+    "code": "HU101",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.128998191309715
+  },
+  {
+    "code": "HU102",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.19241893038685
+  },
+  {
+    "code": "HU211",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.4256216837106397
+  },
+  {
+    "code": "HU212",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.53237727050635
+  },
+  {
+    "code": "HU213",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.7921634850290205
+  },
+  {
+    "code": "HU221",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.1138943416281597
+  },
+  {
+    "code": "HU222",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.4075502104424
+  },
+  {
+    "code": "HU223",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.15559708209397
+  },
+  {
+    "code": "HU231",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.8568151621392297
+  },
+  {
+    "code": "HU232",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.55380553579235
+  },
+  {
+    "code": "HU233",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.6793389279867
+  },
+  {
+    "code": "HU311",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 5.714276652465731
+  },
+  {
+    "code": "HU312",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.3500270017744
+  },
+  {
+    "code": "HU313",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.52025647399686
+  },
+  {
+    "code": "HU321",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.01884295253688
+  },
+  {
+    "code": "HU322",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.09886935427185
+  },
+  {
+    "code": "HU323",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.7891067127268396
+  },
+  {
+    "code": "HU331",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.67705363495315
+  },
+  {
+    "code": "HU332",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.876398734773999
+  },
+  {
+    "code": "HU333",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.1165876614749
+  },
+  {
+    "code": "IE011",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.21806735465367
+  },
+  {
+    "code": "IE012",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.511673129840341
+  },
+  {
+    "code": "IE013",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.11503448068744
+  },
+  {
+    "code": "IE021",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0307604521343489
+  },
+  {
+    "code": "IE022",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.46892984109227004
+  },
+  {
+    "code": "IE023",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7762941050600458
+  },
+  {
+    "code": "IE024",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7022197529103051
+  },
+  {
+    "code": "IE025",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.17702088362158
+  },
+  {
+    "code": "ITC11",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.25801447529676
+  },
+  {
+    "code": "ITC12",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.527925172439814
+  },
+  {
+    "code": "ITC13",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.34749022578368105
+  },
+  {
+    "code": "ITC14",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.16859126152106
+  },
+  {
+    "code": "ITC15",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.20295504672424103
+  },
+  {
+    "code": "ITC16",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.31404057935575
+  },
+  {
+    "code": "ITC17",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.252241168340041
+  },
+  {
+    "code": "ITC18",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.672868227420916
+  },
+  {
+    "code": "ITC20",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.25356318303695
+  },
+  {
+    "code": "ITC31",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.5755196119542989
+  },
+  {
+    "code": "ITC32",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.8042109606863008
+  },
+  {
+    "code": "ITC33",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.997229882499257
+  },
+  {
+    "code": "ITC34",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.440365579093064
+  },
+  {
+    "code": "ITC41",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.34002141587391993
+  },
+  {
+    "code": "ITC42",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.48475718964893105
+  },
+  {
+    "code": "ITC43",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.30579327090698405
+  },
+  {
+    "code": "ITC44",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.25695992022062
+  },
+  {
+    "code": "ITC46",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.914444443383097
+  },
+  {
+    "code": "ITC47",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.35244300483242
+  },
+  {
+    "code": "ITC48",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.28911047706199394
+  },
+  {
+    "code": "ITC49",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.021216234416895
+  },
+  {
+    "code": "ITC4A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.031613727173992995
+  },
+  {
+    "code": "ITC4B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.052829961590888
+  },
+  {
+    "code": "ITC4C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0412890789550353
+  },
+  {
+    "code": "ITC4D",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0128781807396596
+  },
+  {
+    "code": "ITF11",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.30036670624432
+  },
+  {
+    "code": "ITF12",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.48993253331066294
+  },
+  {
+    "code": "ITF13",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.26470478666752
+  },
+  {
+    "code": "ITF14",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.476425822462214
+  },
+  {
+    "code": "ITF21",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.6491111266067879
+  },
+  {
+    "code": "ITF22",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.41420134169208295
+  },
+  {
+    "code": "ITF31",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.5305329037422379
+  },
+  {
+    "code": "ITF32",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.350532578969841
+  },
+  {
+    "code": "ITF33",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.12163394903174801
+  },
+  {
+    "code": "ITF34",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.611673466190716
+  },
+  {
+    "code": "ITF35",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.71487753692614
+  },
+  {
+    "code": "ITF43",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.21081167308410603
+  },
+  {
+    "code": "ITF44",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0186686815291431
+  },
+  {
+    "code": "ITF45",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0298351206959299
+  },
+  {
+    "code": "ITF46",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.912792880224895
+  },
+  {
+    "code": "ITF47",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.148486894956189
+  },
+  {
+    "code": "ITF48",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.042606317587285
+  },
+  {
+    "code": "ITF51",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.04151259878096
+  },
+  {
+    "code": "ITF52",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.57751887261949
+  },
+  {
+    "code": "ITF61",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.3816142525411097
+  },
+  {
+    "code": "ITF62",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.34400656422326403
+  },
+  {
+    "code": "ITF63",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7286536178212171
+  },
+  {
+    "code": "ITF64",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.266884582576725
+  },
+  {
+    "code": "ITF65",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.9539147969169549
+  },
+  {
+    "code": "ITG11",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.17032497299135402
+  },
+  {
+    "code": "ITG12",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.955285527473357
+  },
+  {
+    "code": "ITG13",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.29444438607032
+  },
+  {
+    "code": "ITG14",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.338068960642362
+  },
+  {
+    "code": "ITG15",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.23856729522861603
+  },
+  {
+    "code": "ITG16",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.44887748152379403
+  },
+  {
+    "code": "ITG17",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.560715721945157
+  },
+  {
+    "code": "ITG18",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.118076736075622
+  },
+  {
+    "code": "ITG19",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.329503566287479
+  },
+  {
+    "code": "ITG25",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.900697018875963
+  },
+  {
+    "code": "ITG26",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.38456490528586
+  },
+  {
+    "code": "ITG27",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.62400144428195
+  },
+  {
+    "code": "ITG28",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7002494060963599
+  },
+  {
+    "code": "ITG29",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.29957961078894
+  },
+  {
+    "code": "ITG2A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.9626874724779271
+  },
+  {
+    "code": "ITG2B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.32281707576844504
+  },
+  {
+    "code": "ITG2C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.562668177176715
+  },
+  {
+    "code": "ITH10",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 3.06700627670417
+  },
+  {
+    "code": "ITH20",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.91456766585123
+  },
+  {
+    "code": "ITH31",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.35142856869939193
+  },
+  {
+    "code": "ITH32",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.7403349167579691
+  },
+  {
+    "code": "ITH33",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.7691250345070701
+  },
+  {
+    "code": "ITH34",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.255891992163433
+  },
+  {
+    "code": "ITH35",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0104643576622883
+  },
+  {
+    "code": "ITH36",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0379525201860373
+  },
+  {
+    "code": "ITH37",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.00888634589979625
+  },
+  {
+    "code": "ITH41",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.666756775086518
+  },
+  {
+    "code": "ITH42",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.64739747460805
+  },
+  {
+    "code": "ITH43",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0590149653209945
+  },
+  {
+    "code": "ITH44",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0822438333841188
+  },
+  {
+    "code": "ITH51",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.535788485290199
+  },
+  {
+    "code": "ITH52",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.9308397181357678
+  },
+  {
+    "code": "ITH53",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.42693241964032397
+  },
+  {
+    "code": "ITH54",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.439255621666904
+  },
+  {
+    "code": "ITH55",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.622157883324561
+  },
+  {
+    "code": "ITH56",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.018855903263676005
+  },
+  {
+    "code": "ITH57",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.104422922435755
+  },
+  {
+    "code": "ITH58",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.5972172736885639
+  },
+  {
+    "code": "ITH59",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.111035861559079
+  },
+  {
+    "code": "ITI11",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.576636255870977
+  },
+  {
+    "code": "ITI12",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.786090571379719
+  },
+  {
+    "code": "ITI13",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.38590411381553097
+  },
+  {
+    "code": "ITI14",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.16972127841878
+  },
+  {
+    "code": "ITI15",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.144334584343869
+  },
+  {
+    "code": "ITI16",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.35524655478576006
+  },
+  {
+    "code": "ITI17",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.586371786066691
+  },
+  {
+    "code": "ITI18",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.1795838519343502
+  },
+  {
+    "code": "ITI19",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.0447039651844001
+  },
+  {
+    "code": "ITI1A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.25892574843321
+  },
+  {
+    "code": "ITI21",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.8022097895952498
+  },
+  {
+    "code": "ITI22",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.6579105481298361
+  },
+  {
+    "code": "ITI31",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.579243987173401
+  },
+  {
+    "code": "ITI32",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.225020465437053
+  },
+  {
+    "code": "ITI33",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.649378586227549
+  },
+  {
+    "code": "ITI34",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.339680404857449
+  },
+  {
+    "code": "ITI35",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0837482937509015
+  },
+  {
+    "code": "ITI41",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.46900381798608604
+  },
+  {
+    "code": "ITI42",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.17587284969629
+  },
+  {
+    "code": "ITI43",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.9786614983279001
+  },
+  {
+    "code": "ITI44",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.43986409230413603
+  },
+  {
+    "code": "ITI45",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.0035084970966301
+  },
+  {
+    "code": "LT001",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.53812857014657
+  },
+  {
+    "code": "LT002",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.25592330697904
+  },
+  {
+    "code": "LT003",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.42057997769317
+  },
+  {
+    "code": "LT004",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.6644195003488897
+  },
+  {
+    "code": "LT005",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.00559227575496
+  },
+  {
+    "code": "LT006",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.05211612740169
+  },
+  {
+    "code": "LT007",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.4935149014415203
+  },
+  {
+    "code": "LT008",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.6156878581593
+  },
+  {
+    "code": "LT009",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 4.32976295783496
+  },
+  {
+    "code": "LT00A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 7.62427452423991
+  },
+  {
+    "code": "LU000",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.0
+  },
+  {
+    "code": "LV003",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 16.059592789300698
+  },
+  {
+    "code": "LV005",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 12.0277950212352
+  },
+  {
+    "code": "LV006",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0763141637709148
+  },
+  {
+    "code": "LV007",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 11.2275807660731
+  },
+  {
+    "code": "LV008",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 17.886453456603
+  },
+  {
+    "code": "LV009",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 9.72226380301714
+  },
+  {
+    "code": "MT001",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "MT002",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL111",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0393217582038422
+  },
+  {
+    "code": "NL112",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.00511392342669838
+  },
+  {
+    "code": "NL113",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0469371911621545
+  },
+  {
+    "code": "NL121",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.112543283508521
+  },
+  {
+    "code": "NL122",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0119776712548213
+  },
+  {
+    "code": "NL123",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0919766854382571
+  },
+  {
+    "code": "NL131",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.21257901935897303
+  },
+  {
+    "code": "NL132",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.111717662136018
+  },
+  {
+    "code": "NL133",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.173503715296176
+  },
+  {
+    "code": "NL211",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.144582321844463
+  },
+  {
+    "code": "NL212",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0347377111803921
+  },
+  {
+    "code": "NL213",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.22836440709295
+  },
+  {
+    "code": "NL221",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.967196953826817
+  },
+  {
+    "code": "NL224",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0183361880938004
+  },
+  {
+    "code": "NL225",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.144286576875208
+  },
+  {
+    "code": "NL226",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.20962156966642398
+  },
+  {
+    "code": "NL230",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.26628137669283203
+  },
+  {
+    "code": "NL310",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.243053073899274
+  },
+  {
+    "code": "NL321",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0662591958201378
+  },
+  {
+    "code": "NL322",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0584712449630935
+  },
+  {
+    "code": "NL323",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0478737168981282
+  },
+  {
+    "code": "NL324",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0721617724981824
+  },
+  {
+    "code": "NL325",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.23227070522852e-05
+  },
+  {
+    "code": "NL326",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0112999223669456
+  },
+  {
+    "code": "NL327",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0594570615272763
+  },
+  {
+    "code": "NL332",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0476026173429779
+  },
+  {
+    "code": "NL333",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.00343803526758758
+  },
+  {
+    "code": "NL337",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0347500338874444
+  },
+  {
+    "code": "NL338",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.00199627854247021
+  },
+  {
+    "code": "NL339",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0885879409988786
+  },
+  {
+    "code": "NL33A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0146763440992717
+  },
+  {
+    "code": "NL341",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0266663380611453
+  },
+  {
+    "code": "NL342",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0651747975995367
+  },
+  {
+    "code": "NL411",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.16778597922391597
+  },
+  {
+    "code": "NL412",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.175758770686744
+  },
+  {
+    "code": "NL413",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.175376766768124
+  },
+  {
+    "code": "NL414",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.42303853310495204
+  },
+  {
+    "code": "NL421",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.196239109807643
+  },
+  {
+    "code": "NL422",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.14071299183004501
+  },
+  {
+    "code": "NL423",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0605291370408251
+  },
+  {
+    "code": "PL113",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.0360888950634654
+  },
+  {
+    "code": "PL114",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.6880686382664929
+  },
+  {
+    "code": "PL115",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.60835282838118
+  },
+  {
+    "code": "PL116",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.7310179848929599
+  },
+  {
+    "code": "PL117",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.6197692539842701
+  },
+  {
+    "code": "PL127",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.10663644002177301
+  },
+  {
+    "code": "PL128",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.43659861158369
+  },
+  {
+    "code": "PL129",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 2.22854514550743
+  },
+  {
+    "code": "PL12A",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.17233033617822
+  },
+  {
+    "code": "PL12B",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 1.34362440312973
+  },
+  {
+    "code": "PL12C",
+    "source": "forest.residues",
+    "unit": "PetaJoule",
+    "value": 0.819250785786805
+  }
+]

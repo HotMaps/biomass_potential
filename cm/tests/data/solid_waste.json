@@ -1,0 +1,6002 @@
+[
+  {
+    "code": "AT111",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0355200131152591
+  },
+  {
+    "code": "AT112",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.142068711158921
+  },
+  {
+    "code": "AT113",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0924146002830072
+  },
+  {
+    "code": "AT121",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.227935599687611
+  },
+  {
+    "code": "AT122",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.239148367045178
+  },
+  {
+    "code": "AT123",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.140326876175779
+  },
+  {
+    "code": "AT124",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.20749006730003197
+  },
+  {
+    "code": "AT125",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11665474333652001
+  },
+  {
+    "code": "AT126",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.291036714437721
+  },
+  {
+    "code": "AT127",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.303467726664127
+  },
+  {
+    "code": "AT130",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.6201305250387499
+  },
+  {
+    "code": "AT211",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.261610760992185
+  },
+  {
+    "code": "AT212",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.120072255707134
+  },
+  {
+    "code": "AT213",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.143960818395085
+  },
+  {
+    "code": "AT221",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.38256669315576897
+  },
+  {
+    "code": "AT222",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0750104270792317
+  },
+  {
+    "code": "AT223",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.15562912805426599
+  },
+  {
+    "code": "AT224",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.252154950353913
+  },
+  {
+    "code": "AT225",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.179650005933558
+  },
+  {
+    "code": "AT226",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0972233123797116
+  },
+  {
+    "code": "AT311",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.260245079195853
+  },
+  {
+    "code": "AT312",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.521749988034966
+  },
+  {
+    "code": "AT313",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.192960914182375
+  },
+  {
+    "code": "AT314",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.14409313358642498
+  },
+  {
+    "code": "AT315",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.217109381710459
+  },
+  {
+    "code": "AT321",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0193766146632531
+  },
+  {
+    "code": "AT322",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.153638729533107
+  },
+  {
+    "code": "AT323",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.327009434529065
+  },
+  {
+    "code": "AT331",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0298824408556598
+  },
+  {
+    "code": "AT332",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.27065922986283103
+  },
+  {
+    "code": "AT333",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0466118065836006
+  },
+  {
+    "code": "AT334",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0946507270166555
+  },
+  {
+    "code": "AT335",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.22857921858263
+  },
+  {
+    "code": "AT341",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0828255293448858
+  },
+  {
+    "code": "AT342",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.26728046694110996
+  },
+  {
+    "code": "ATZZZ",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "BE100",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.9246433479809929
+  },
+  {
+    "code": "BE211",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.8174581263954741
+  },
+  {
+    "code": "BE212",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.26673320896139
+  },
+  {
+    "code": "BE213",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.35816551509609296
+  },
+  {
+    "code": "BE221",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.3358542396886531
+  },
+  {
+    "code": "BE222",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.19079434701046102
+  },
+  {
+    "code": "BE223",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.16217116868061
+  },
+  {
+    "code": "BE231",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.225286944346512
+  },
+  {
+    "code": "BE232",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.15804972382135
+  },
+  {
+    "code": "BE233",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.067300664910207
+  },
+  {
+    "code": "BE234",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.43469083091391103
+  },
+  {
+    "code": "BE235",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0981761189091501
+  },
+  {
+    "code": "BE236",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.19503861369205103
+  },
+  {
+    "code": "BE241",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.488318417457401
+  },
+  {
+    "code": "BE242",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.397212280532992
+  },
+  {
+    "code": "BE251",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.226032009176013
+  },
+  {
+    "code": "BE252",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0406930658898581
+  },
+  {
+    "code": "BE253",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0865845044056348
+  },
+  {
+    "code": "BE254",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.23020469757704
+  },
+  {
+    "code": "BE255",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.124099657316387
+  },
+  {
+    "code": "BE256",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.119103818688881
+  },
+  {
+    "code": "BE257",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0739753395727463
+  },
+  {
+    "code": "BE258",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0493475307216175
+  },
+  {
+    "code": "BE310",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.31205527479086703
+  },
+  {
+    "code": "BE321",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0687891677901055
+  },
+  {
+    "code": "BE322",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.348318621181311
+  },
+  {
+    "code": "BE323",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.20639841217328697
+  },
+  {
+    "code": "BE324",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0594319343855416
+  },
+  {
+    "code": "BE325",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.149997980647517
+  },
+  {
+    "code": "BE326",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12223943541128998
+  },
+  {
+    "code": "BE327",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.118291242526576
+  },
+  {
+    "code": "BE331",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0888213256732418
+  },
+  {
+    "code": "BE332",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.49808966614386
+  },
+  {
+    "code": "BE334",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0623739643946087
+  },
+  {
+    "code": "BE335",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.16888488604163798
+  },
+  {
+    "code": "BE336",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0620282738350694
+  },
+  {
+    "code": "BE341",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0476621875701696
+  },
+  {
+    "code": "BE342",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0374183595540815
+  },
+  {
+    "code": "BE343",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0452700088981579
+  },
+  {
+    "code": "BE344",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0491775323052793
+  },
+  {
+    "code": "BE345",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0426940041874265
+  },
+  {
+    "code": "BE351",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0880909018556741
+  },
+  {
+    "code": "BE352",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.248057784850751
+  },
+  {
+    "code": "BE353",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0537788770001349
+  },
+  {
+    "code": "BEZZZ",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "BG311",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12781570497754302
+  },
+  {
+    "code": "BG312",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.187384924228991
+  },
+  {
+    "code": "BG313",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.236414389946782
+  },
+  {
+    "code": "BG314",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.341310875775626
+  },
+  {
+    "code": "BG315",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.17893793808365
+  },
+  {
+    "code": "BG321",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.327066392548507
+  },
+  {
+    "code": "BG322",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.15525196135495198
+  },
+  {
+    "code": "BG323",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.297658835330109
+  },
+  {
+    "code": "BG324",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.158399969373167
+  },
+  {
+    "code": "BG325",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.151167648701093
+  },
+  {
+    "code": "BG331",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.601099984423582
+  },
+  {
+    "code": "BG332",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.239993857263314
+  },
+  {
+    "code": "BG333",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.22841784224777698
+  },
+  {
+    "code": "BG334",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.15286818036366598
+  },
+  {
+    "code": "BG341",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.526123492809668
+  },
+  {
+    "code": "BG342",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.249857953127466
+  },
+  {
+    "code": "BG343",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.166316804650489
+  },
+  {
+    "code": "BG344",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.421672384321021
+  },
+  {
+    "code": "BG411",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.6342197846685702
+  },
+  {
+    "code": "BG412",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.313142024284654
+  },
+  {
+    "code": "BG413",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.40938275333994
+  },
+  {
+    "code": "BG414",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.168952375672171
+  },
+  {
+    "code": "BG415",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.172945588415535
+  },
+  {
+    "code": "BG421",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.8642180356342081
+  },
+  {
+    "code": "BG422",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.311559163339804
+  },
+  {
+    "code": "BG423",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.34864441857047307
+  },
+  {
+    "code": "BG424",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.15404994864703198
+  },
+  {
+    "code": "BG425",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.193344376707205
+  },
+  {
+    "code": "BGZZZ",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "CY000",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.343293860911581
+  },
+  {
+    "code": "CYZZZ",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "CZ010",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.3910971959559
+  },
+  {
+    "code": "CZ020",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.41348002917373
+  },
+  {
+    "code": "CZ031",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.688902272483637
+  },
+  {
+    "code": "CZ032",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.625382828816014
+  },
+  {
+    "code": "CZ041",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.324087856234245
+  },
+  {
+    "code": "CZ042",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.8869379937654941
+  },
+  {
+    "code": "CZ051",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.474122459656222
+  },
+  {
+    "code": "CZ052",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.60073046511762
+  },
+  {
+    "code": "CZ053",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.560943512649261
+  },
+  {
+    "code": "CZ063",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.554297187154946
+  },
+  {
+    "code": "CZ064",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.27566032385999
+  },
+  {
+    "code": "CZ071",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.68900204411346
+  },
+  {
+    "code": "CZ072",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.635845693248915
+  },
+  {
+    "code": "CZ080",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.32206619203425
+  },
+  {
+    "code": "CZZZZ",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE111",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.533993970871051
+  },
+  {
+    "code": "DE112",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.331711706471434
+  },
+  {
+    "code": "DE113",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.458348546644004
+  },
+  {
+    "code": "DE114",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.225492577704508
+  },
+  {
+    "code": "DE115",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.464708460499401
+  },
+  {
+    "code": "DE116",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.370834564345164
+  },
+  {
+    "code": "DE117",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.105778911169884
+  },
+  {
+    "code": "DE118",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.29421938541159004
+  },
+  {
+    "code": "DE119",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0977775234174442
+  },
+  {
+    "code": "DE11A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.169846521452377
+  },
+  {
+    "code": "DE11B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11905470727445598
+  },
+  {
+    "code": "DE11C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.116495429815879
+  },
+  {
+    "code": "DE11D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.279377763568473
+  },
+  {
+    "code": "DE121",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0476811254435458
+  },
+  {
+    "code": "DE122",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.263559095630058
+  },
+  {
+    "code": "DE123",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.38655388711157596
+  },
+  {
+    "code": "DE124",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.202631339637023
+  },
+  {
+    "code": "DE125",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.13375232418934901
+  },
+  {
+    "code": "DE126",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.26441947950502104
+  },
+  {
+    "code": "DE127",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.130160403796096
+  },
+  {
+    "code": "DE128",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.47762151001262204
+  },
+  {
+    "code": "DE129",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.104276885083084
+  },
+  {
+    "code": "DE12A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.137669622806502
+  },
+  {
+    "code": "DE12B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.174403639434174
+  },
+  {
+    "code": "DE12C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10570052874059697
+  },
+  {
+    "code": "DE131",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.19106081708124
+  },
+  {
+    "code": "DE132",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.22537591548417396
+  },
+  {
+    "code": "DE133",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.142594955921229
+  },
+  {
+    "code": "DE134",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.37386778207384797
+  },
+  {
+    "code": "DE135",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12438926958394801
+  },
+  {
+    "code": "DE136",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.18590033667865302
+  },
+  {
+    "code": "DE137",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.120502047945475
+  },
+  {
+    "code": "DE138",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.24331820040210697
+  },
+  {
+    "code": "DE139",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.19960450187351397
+  },
+  {
+    "code": "DE13A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.14868599981569902
+  },
+  {
+    "code": "DE141",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.24914037433565098
+  },
+  {
+    "code": "DE142",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.193178054095583
+  },
+  {
+    "code": "DE143",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.16912285111686698
+  },
+  {
+    "code": "DE144",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10641873053452801
+  },
+  {
+    "code": "DE145",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.16969978225336302
+  },
+  {
+    "code": "DE146",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.170840884596005
+  },
+  {
+    "code": "DE147",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.18600606181583
+  },
+  {
+    "code": "DE148",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.245715244460532
+  },
+  {
+    "code": "DE149",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.116297650895469
+  },
+  {
+    "code": "DE211",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11386141562239999
+  },
+  {
+    "code": "DE212",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.22890433479735
+  },
+  {
+    "code": "DE213",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0540738505484112
+  },
+  {
+    "code": "DE214",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.096630952533224
+  },
+  {
+    "code": "DE215",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0918979297973293
+  },
+  {
+    "code": "DE216",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.108621641366929
+  },
+  {
+    "code": "DE217",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12641171854427
+  },
+  {
+    "code": "DE218",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11626757391678899
+  },
+  {
+    "code": "DE219",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.112487900262686
+  },
+  {
+    "code": "DE21A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.114571414603964
+  },
+  {
+    "code": "DE21B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.148396167112057
+  },
+  {
+    "code": "DE21C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.183740262755281
+  },
+  {
+    "code": "DE21D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0766015075796282
+  },
+  {
+    "code": "DE21E",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.103067425970715
+  },
+  {
+    "code": "DE21F",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0853365913271374
+  },
+  {
+    "code": "DE21G",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0969891420065933
+  },
+  {
+    "code": "DE21H",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.28914822452144606
+  },
+  {
+    "code": "DE21I",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0825685978649937
+  },
+  {
+    "code": "DE21J",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10583086231487701
+  },
+  {
+    "code": "DE21K",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.22262068195237902
+  },
+  {
+    "code": "DE21L",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.115871104652373
+  },
+  {
+    "code": "DE21M",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.153583990222535
+  },
+  {
+    "code": "DE21N",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11735672511443801
+  },
+  {
+    "code": "DE221",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0579155010070663
+  },
+  {
+    "code": "DE222",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.044339846539292
+  },
+  {
+    "code": "DE223",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0405474129548402
+  },
+  {
+    "code": "DE224",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10431607629772699
+  },
+  {
+    "code": "DE225",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.07124598252742
+  },
+  {
+    "code": "DE226",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10276574476032
+  },
+  {
+    "code": "DE227",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.134126007863856
+  },
+  {
+    "code": "DE228",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.167875112213451
+  },
+  {
+    "code": "DE229",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.06998092657567301
+  },
+  {
+    "code": "DE22A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10630297973779101
+  },
+  {
+    "code": "DE22B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0873626859818445
+  },
+  {
+    "code": "DE22C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0821703057533846
+  },
+  {
+    "code": "DE231",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0381995857706182
+  },
+  {
+    "code": "DE232",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.123409489217862
+  },
+  {
+    "code": "DE233",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0380482894536225
+  },
+  {
+    "code": "DE234",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.09469873450894199
+  },
+  {
+    "code": "DE235",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.114555920402826
+  },
+  {
+    "code": "DE236",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.115236753829306
+  },
+  {
+    "code": "DE237",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0877855865305553
+  },
+  {
+    "code": "DE238",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.166142495956772
+  },
+  {
+    "code": "DE239",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.129792188663167
+  },
+  {
+    "code": "DE23A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0682346389650483
+  },
+  {
+    "code": "DE241",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0643784057288514
+  },
+  {
+    "code": "DE242",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0645360820110216
+  },
+  {
+    "code": "DE243",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0373893301934547
+  },
+  {
+    "code": "DE244",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0407944087494536
+  },
+  {
+    "code": "DE245",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.130889542673184
+  },
+  {
+    "code": "DE246",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.09606040136190301
+  },
+  {
+    "code": "DE247",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0800002061704527
+  },
+  {
+    "code": "DE248",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.102752073406374
+  },
+  {
+    "code": "DE249",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0905690741938372
+  },
+  {
+    "code": "DE24A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0637331178226289
+  },
+  {
+    "code": "DE24B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0675091457823462
+  },
+  {
+    "code": "DE24C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0613360737642034
+  },
+  {
+    "code": "DE24D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0693082959615598
+  },
+  {
+    "code": "DE251",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0359930292438319
+  },
+  {
+    "code": "DE252",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0945328554144045
+  },
+  {
+    "code": "DE253",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10537241624590801
+  },
+  {
+    "code": "DE254",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.443238054839961
+  },
+  {
+    "code": "DE255",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0350615543283526
+  },
+  {
+    "code": "DE256",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.16255604410509697
+  },
+  {
+    "code": "DE257",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.118845079847293
+  },
+  {
+    "code": "DE258",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10279582173900001
+  },
+  {
+    "code": "DE259",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.14944339282427402
+  },
+  {
+    "code": "DE25A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0888410150551396
+  },
+  {
+    "code": "DE25B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11241863206936299
+  },
+  {
+    "code": "DE25C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0841872861721281
+  },
+  {
+    "code": "DE261",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0613925820271777
+  },
+  {
+    "code": "DE262",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.047524360584971996
+  },
+  {
+    "code": "DE263",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11328721875669301
+  },
+  {
+    "code": "DE264",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.15732264981480099
+  },
+  {
+    "code": "DE265",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0948062824933124
+  },
+  {
+    "code": "DE266",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0736694578701398
+  },
+  {
+    "code": "DE267",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0770836506621024
+  },
+  {
+    "code": "DE268",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0799491664490566
+  },
+  {
+    "code": "DE269",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11703134689053801
+  },
+  {
+    "code": "DE26A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.116213799924604
+  },
+  {
+    "code": "DE26B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.103067425970715
+  },
+  {
+    "code": "DE26C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.144091513466451
+  },
+  {
+    "code": "DE271",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.244049162126387
+  },
+  {
+    "code": "DE272",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0378696504287361
+  },
+  {
+    "code": "DE273",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0584022012075223
+  },
+  {
+    "code": "DE274",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.037588020537461
+  },
+  {
+    "code": "DE275",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.115192094073085
+  },
+  {
+    "code": "DE276",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.21609397757884902
+  },
+  {
+    "code": "DE277",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0850431129291097
+  },
+  {
+    "code": "DE278",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.109537622081271
+  },
+  {
+    "code": "DE279",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.149340401957885
+  },
+  {
+    "code": "DE27A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0714756612737026
+  },
+  {
+    "code": "DE27B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12175252111967999
+  },
+  {
+    "code": "DE27C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12318892470754302
+  },
+  {
+    "code": "DE27D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11658930644630401
+  },
+  {
+    "code": "DE27E",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.13548220617523898
+  },
+  {
+    "code": "DE300",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 3.00073914882806
+  },
+  {
+    "code": "DE401",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0652296753678511
+  },
+  {
+    "code": "DE402",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0911277768584055
+  },
+  {
+    "code": "DE403",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0539015914886992
+  },
+  {
+    "code": "DE404",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.14220122092760099
+  },
+  {
+    "code": "DE405",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.15691524346722902
+  },
+  {
+    "code": "DE406",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.145975426040126
+  },
+  {
+    "code": "DE407",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.100427943235658
+  },
+  {
+    "code": "DE408",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.138952907230176
+  },
+  {
+    "code": "DE409",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.17077708494426
+  },
+  {
+    "code": "DE40A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.183020238114157
+  },
+  {
+    "code": "DE40B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.107496033225425
+  },
+  {
+    "code": "DE40C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.16239381070494502
+  },
+  {
+    "code": "DE40D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0913629241462663
+  },
+  {
+    "code": "DE40E",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.184851288119243
+  },
+  {
+    "code": "DE40F",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.073165440621353
+  },
+  {
+    "code": "DE40G",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.111670353296752
+  },
+  {
+    "code": "DE40H",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.145148764838228
+  },
+  {
+    "code": "DE40I",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11363811684129199
+  },
+  {
+    "code": "DE501",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.49463596570946
+  },
+  {
+    "code": "DE502",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0985759304878551
+  },
+  {
+    "code": "DE600",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.5555230062123302
+  },
+  {
+    "code": "DE711",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.13078837465398802
+  },
+  {
+    "code": "DE712",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.608762605598401
+  },
+  {
+    "code": "DE713",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10339462704180802
+  },
+  {
+    "code": "DE714",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.24528322967585797
+  },
+  {
+    "code": "DE715",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.237645499938365
+  },
+  {
+    "code": "DE716",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.25756921975478303
+  },
+  {
+    "code": "DE717",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.22881198244244896
+  },
+  {
+    "code": "DE718",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.206100217844768
+  },
+  {
+    "code": "DE719",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.365355085683851
+  },
+  {
+    "code": "DE71A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.204212659576707
+  },
+  {
+    "code": "DE71B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0880553679150778
+  },
+  {
+    "code": "DE71C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.302891580930951
+  },
+  {
+    "code": "DE71D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.164262229077482
+  },
+  {
+    "code": "DE71E",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.26665793585768
+  },
+  {
+    "code": "DE721",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.228984241502161
+  },
+  {
+    "code": "DE722",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.230992107684941
+  },
+  {
+    "code": "DE723",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.155576362204177
+  },
+  {
+    "code": "DE724",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.21985906845541
+  },
+  {
+    "code": "DE725",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0988985744409664
+  },
+  {
+    "code": "DE731",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.17386772235951503
+  },
+  {
+    "code": "DE732",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.19703064163739398
+  },
+  {
+    "code": "DE733",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11000335953901
+  },
+  {
+    "code": "DE734",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.21412347976351997
+  },
+  {
+    "code": "DE735",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.16574238099796998
+  },
+  {
+    "code": "DE736",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.144907237585193
+  },
+  {
+    "code": "DE737",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0930782233546148
+  },
+  {
+    "code": "DE801",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0505357041473437
+  },
+  {
+    "code": "DE802",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0584322781862022
+  },
+  {
+    "code": "DE803",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.182527157948526
+  },
+  {
+    "code": "DE804",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0832065943824454
+  },
+  {
+    "code": "DE805",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0517041491978765
+  },
+  {
+    "code": "DE806",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0387072487137905
+  },
+  {
+    "code": "DE807",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10540978461335801
+  },
+  {
+    "code": "DE808",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0707018626403934
+  },
+  {
+    "code": "DE809",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0883215036052147
+  },
+  {
+    "code": "DE80A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11021389838976899
+  },
+  {
+    "code": "DE80B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0692754847120908
+  },
+  {
+    "code": "DE80C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0580750001364292
+  },
+  {
+    "code": "DE80D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0941400318443736
+  },
+  {
+    "code": "DE80E",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10405267487837899
+  },
+  {
+    "code": "DE80F",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0937654367462698
+  },
+  {
+    "code": "DE80G",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0851679779618109
+  },
+  {
+    "code": "DE80H",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0596936884435637
+  },
+  {
+    "code": "DE80I",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0634441965425829
+  },
+  {
+    "code": "DE80J",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "DE80K",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "DE80L",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "DE80M",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "DE80N",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "DE80O",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "DE911",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.221053944790237
+  },
+  {
+    "code": "DE912",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0901352365619701
+  },
+  {
+    "code": "DE913",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.109356248785595
+  },
+  {
+    "code": "DE914",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.15615511618786498
+  },
+  {
+    "code": "DE915",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.226066774570215
+  },
+  {
+    "code": "DE916",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12772416852302698
+  },
+  {
+    "code": "DE917",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0833132309432194
+  },
+  {
+    "code": "DE918",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.125271527625224
+  },
+  {
+    "code": "DE919",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0699845722700585
+  },
+  {
+    "code": "DE91A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11884781411808301
+  },
+  {
+    "code": "DE91B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.110075362003123
+  },
+  {
+    "code": "DE922",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.192478080773579
+  },
+  {
+    "code": "DE923",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.13694959816537802
+  },
+  {
+    "code": "DE925",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.25300572180781195
+  },
+  {
+    "code": "DE926",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0670324712414501
+  },
+  {
+    "code": "DE927",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.111414243266175
+  },
+  {
+    "code": "DE928",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.14354648215582802
+  },
+  {
+    "code": "DE929",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.00460936769846
+  },
+  {
+    "code": "DE931",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.161039435240755
+  },
+  {
+    "code": "DE932",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.18117095963714303
+  },
+  {
+    "code": "DE933",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.217321665163145
+  },
+  {
+    "code": "DE934",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0448465980588679
+  },
+  {
+    "code": "DE935",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.158699810868901
+  },
+  {
+    "code": "DE936",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10108325680144001
+  },
+  {
+    "code": "DE937",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.14831231614119197
+  },
+  {
+    "code": "DE938",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.124585225657165
+  },
+  {
+    "code": "DE939",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.178137741908459
+  },
+  {
+    "code": "DE93A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0853046915012649
+  },
+  {
+    "code": "DE93B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.120581341798358
+  },
+  {
+    "code": "DE941",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0668274009322693
+  },
+  {
+    "code": "DE942",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0453770465919491
+  },
+  {
+    "code": "DE943",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.143336854728665
+  },
+  {
+    "code": "DE944",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.140084895336855
+  },
+  {
+    "code": "DE945",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0705906689616375
+  },
+  {
+    "code": "DE946",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10746777909393801
+  },
+  {
+    "code": "DE947",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.17055925470473002
+  },
+  {
+    "code": "DE948",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.145223501573129
+  },
+  {
+    "code": "DE949",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.283533855167872
+  },
+  {
+    "code": "DE94A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0895282284467946
+  },
+  {
+    "code": "DE94B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12157935063637199
+  },
+  {
+    "code": "DE94C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.14932035063876503
+  },
+  {
+    "code": "DE94D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11394070947528301
+  },
+  {
+    "code": "DE94E",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.31913223799448
+  },
+  {
+    "code": "DE94F",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12057587325678
+  },
+  {
+    "code": "DE94G",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0820600234982251
+  },
+  {
+    "code": "DE94H",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0518044057934761
+  },
+  {
+    "code": "DEA11",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.534359451733192
+  },
+  {
+    "code": "DEA12",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.445201261266519
+  },
+  {
+    "code": "DEA13",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.51604895168233
+  },
+  {
+    "code": "DEA14",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.20256116002010396
+  },
+  {
+    "code": "DEA15",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.232584364707781
+  },
+  {
+    "code": "DEA16",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.15208469840652303
+  },
+  {
+    "code": "DEA17",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.191594911308707
+  },
+  {
+    "code": "DEA18",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.100901883505765
+  },
+  {
+    "code": "DEA19",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.14151218468875398
+  },
+  {
+    "code": "DEA1A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.312309320952133
+  },
+  {
+    "code": "DEA1B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.274329388268238
+  },
+  {
+    "code": "DEA1C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.43545723159784006
+  },
+  {
+    "code": "DEA1D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.398650301082459
+  },
+  {
+    "code": "DEA1E",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.269941795075363
+  },
+  {
+    "code": "DEA1F",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.41963765223582794
+  },
+  {
+    "code": "DEA22",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.278681435940854
+  },
+  {
+    "code": "DEA23",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.9166870676284491
+  },
+  {
+    "code": "DEA24",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.14490176904361401
+  },
+  {
+    "code": "DEA26",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.235840881217574
+  },
+  {
+    "code": "DEA27",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.411521425110247
+  },
+  {
+    "code": "DEA28",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.17129203927620298
+  },
+  {
+    "code": "DEA29",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.22617979109616299
+  },
+  {
+    "code": "DEA2A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.248828667465696
+  },
+  {
+    "code": "DEA2B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.253541638882471
+  },
+  {
+    "code": "DEA2C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.5270325174420579
+  },
+  {
+    "code": "DEA2D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.491726701589881
+  },
+  {
+    "code": "DEA31",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.106920013512526
+  },
+  {
+    "code": "DEA32",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.23584543833555502
+  },
+  {
+    "code": "DEA33",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.26392639933939105
+  },
+  {
+    "code": "DEA34",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.33153397887014396
+  },
+  {
+    "code": "DEA35",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.196201246164707
+  },
+  {
+    "code": "DEA36",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.5645193699603229
+  },
+  {
+    "code": "DEA37",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.39524795679724894
+  },
+  {
+    "code": "DEA38",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.2492533908616
+  },
+  {
+    "code": "DEA41",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.297917030942021
+  },
+  {
+    "code": "DEA42",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.31938014521269004
+  },
+  {
+    "code": "DEA43",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.228497541301705
+  },
+  {
+    "code": "DEA44",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.13277527809405199
+  },
+  {
+    "code": "DEA45",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.31779609100221695
+  },
+  {
+    "code": "DEA46",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.28451819265194
+  },
+  {
+    "code": "DEA47",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.268507214334693
+  },
+  {
+    "code": "DEA51",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.330196009030688
+  },
+  {
+    "code": "DEA52",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.520553207095538
+  },
+  {
+    "code": "DEA53",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.171296596394185
+  },
+  {
+    "code": "DEA54",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.16044427563233202
+  },
+  {
+    "code": "DEA55",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.14141648521113598
+  },
+  {
+    "code": "DEA56",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.29716966359300606
+  },
+  {
+    "code": "DEA57",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.24290441408935898
+  },
+  {
+    "code": "DEA58",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.38627772576187897
+  },
+  {
+    "code": "DEA59",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12440020666710401
+  },
+  {
+    "code": "DEA5A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.252313039874578
+  },
+  {
+    "code": "DEA5B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.27057888016921805
+  },
+  {
+    "code": "DEA5C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.360978429574133
+  },
+  {
+    "code": "DEB11",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0982742492774602
+  },
+  {
+    "code": "DEB12",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11473455942771198
+  },
+  {
+    "code": "DEB13",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11900457897665599
+  },
+  {
+    "code": "DEB14",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.14181660016993802
+  },
+  {
+    "code": "DEB15",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0754458224594444
+  },
+  {
+    "code": "DEB16",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0585015463795255
+  },
+  {
+    "code": "DEB17",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.191679673703168
+  },
+  {
+    "code": "DEB18",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.16466872400145902
+  },
+  {
+    "code": "DEB19",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.09325868522669399
+  },
+  {
+    "code": "DEB1A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.112290121342276
+  },
+  {
+    "code": "DEB1B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.18233849326408
+  },
+  {
+    "code": "DEB21",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0963110428509018
+  },
+  {
+    "code": "DEB22",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10237109834309599
+  },
+  {
+    "code": "DEB23",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0872906835177322
+  },
+  {
+    "code": "DEB24",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0564599575236803
+  },
+  {
+    "code": "DEB25",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.129629955263015
+  },
+  {
+    "code": "DEB31",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0423037262250249
+  },
+  {
+    "code": "DEB32",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.087807460696868
+  },
+  {
+    "code": "DEB33",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0395202385617431
+  },
+  {
+    "code": "DEB34",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.143625776008711
+  },
+  {
+    "code": "DEB35",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.182598248989042
+  },
+  {
+    "code": "DEB36",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0475435004804955
+  },
+  {
+    "code": "DEB37",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0372653765843498
+  },
+  {
+    "code": "DEB38",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0451519249636483
+  },
+  {
+    "code": "DEB39",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0721911287968448
+  },
+  {
+    "code": "DEB3A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.031170686995494
+  },
+  {
+    "code": "DEB3B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11403094041132301
+  },
+  {
+    "code": "DEB3C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11947396212878199
+  },
+  {
+    "code": "DEB3D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0692955360312107
+  },
+  {
+    "code": "DEB3E",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11293723209569101
+  },
+  {
+    "code": "DEB3F",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0959574104955144
+  },
+  {
+    "code": "DEB3G",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0663361436138315
+  },
+  {
+    "code": "DEB3H",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0986561357643348
+  },
+  {
+    "code": "DEB3I",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.133858960750123
+  },
+  {
+    "code": "DEB3J",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.182897195928648
+  },
+  {
+    "code": "DEB3K",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0897077788952775
+  },
+  {
+    "code": "DEC01",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.298094758543311
+  },
+  {
+    "code": "DEC02",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0944562958323103
+  },
+  {
+    "code": "DEC03",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12352615143819601
+  },
+  {
+    "code": "DEC04",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.18034976697682298
+  },
+  {
+    "code": "DEC05",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.132515522369089
+  },
+  {
+    "code": "DEC06",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0821374945039157
+  },
+  {
+    "code": "DED21",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.46697152528916097
+  },
+  {
+    "code": "DED2C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.287257020559
+  },
+  {
+    "code": "DED2D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.245762638487543
+  },
+  {
+    "code": "DED2E",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.22517084517499303
+  },
+  {
+    "code": "DED2F",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.224955749206252
+  },
+  {
+    "code": "DED41",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.21897225329615197
+  },
+  {
+    "code": "DED42",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.32974485435048995
+  },
+  {
+    "code": "DED43",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.293549489068266
+  },
+  {
+    "code": "DED44",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.21878905715328398
+  },
+  {
+    "code": "DED45",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.30552741797162203
+  },
+  {
+    "code": "DED51",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.458426929073291
+  },
+  {
+    "code": "DED52",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.23898802689580304
+  },
+  {
+    "code": "DED53",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.18334652776165303
+  },
+  {
+    "code": "DEE01",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0784097719948054
+  },
+  {
+    "code": "DEE02",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.20885545137656197
+  },
+  {
+    "code": "DEE03",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.20793582496783602
+  },
+  {
+    "code": "DEE04",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0804249295663562
+  },
+  {
+    "code": "DEE05",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.15688060937056697
+  },
+  {
+    "code": "DEE06",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0855361930947402
+  },
+  {
+    "code": "DEE07",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.160454301291892
+  },
+  {
+    "code": "DEE08",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.172923487513686
+  },
+  {
+    "code": "DEE09",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.206432887457439
+  },
+  {
+    "code": "DEE0A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.134787701394813
+  },
+  {
+    "code": "DEE0B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.17470258637378
+  },
+  {
+    "code": "DEE0C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.18725926926082503
+  },
+  {
+    "code": "DEE0D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.108645338380435
+  },
+  {
+    "code": "DEE0E",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.121213869774232
+  },
+  {
+    "code": "DEF01",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0749718821893375
+  },
+  {
+    "code": "DEF02",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.21489727839682898
+  },
+  {
+    "code": "DEF03",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.191676939432379
+  },
+  {
+    "code": "DEF04",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0704065613951729
+  },
+  {
+    "code": "DEF05",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12203961955253301
+  },
+  {
+    "code": "DEF06",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.17056198897551902
+  },
+  {
+    "code": "DEF07",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.14916814289817298
+  },
+  {
+    "code": "DEF08",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.180838290024472
+  },
+  {
+    "code": "DEF09",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.270092179968763
+  },
+  {
+    "code": "DEF0A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.116366919088792
+  },
+  {
+    "code": "DEF0B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.24550470560977303
+  },
+  {
+    "code": "DEF0C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.17866181047636603
+  },
+  {
+    "code": "DEF0D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.23757623174504197
+  },
+  {
+    "code": "DEF0E",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11919871220268101
+  },
+  {
+    "code": "DEF0F",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.21013326725865802
+  },
+  {
+    "code": "DEG01",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.18307583495353502
+  },
+  {
+    "code": "DEG02",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0875577306314655
+  },
+  {
+    "code": "DEG03",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0963730196554543
+  },
+  {
+    "code": "DEG04",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0336862161214461
+  },
+  {
+    "code": "DEG05",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.057204590601906
+  },
+  {
+    "code": "DEG06",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0931994426929306
+  },
+  {
+    "code": "DEG07",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0794852518385096
+  },
+  {
+    "code": "DEG09",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.09672209489286
+  },
+  {
+    "code": "DEG0A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0729621931593649
+  },
+  {
+    "code": "DEG0B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11631770221458901
+  },
+  {
+    "code": "DEG0C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.124254378891687
+  },
+  {
+    "code": "DEG0D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0654994567523735
+  },
+  {
+    "code": "DEG0E",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0604902726667819
+  },
+  {
+    "code": "DEG0F",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.100585619517828
+  },
+  {
+    "code": "DEG0G",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0753227802739359
+  },
+  {
+    "code": "DEG0H",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0537220410402164
+  },
+  {
+    "code": "DEG0I",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10323421648884801
+  },
+  {
+    "code": "DEG0J",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.077290543818476
+  },
+  {
+    "code": "DEG0K",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0782056131092209
+  },
+  {
+    "code": "DEG0L",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.09600207025173599
+  },
+  {
+    "code": "DEG0M",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0881683844410263
+  },
+  {
+    "code": "DEG0N",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0380546694187971
+  },
+  {
+    "code": "DEG0P",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.117317533899795
+  },
+  {
+    "code": "DEZZZ",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.008838986037494171
+  },
+  {
+    "code": "DK011",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.04636102786499
+  },
+  {
+    "code": "DK012",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.780382214869994
+  },
+  {
+    "code": "DK013",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.676351086462406
+  },
+  {
+    "code": "DK014",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0632701112802748
+  },
+  {
+    "code": "DK021",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.35567389103062397
+  },
+  {
+    "code": "DK022",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.88230816533399
+  },
+  {
+    "code": "DK031",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.732385969960941
+  },
+  {
+    "code": "DK032",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.08080953150291
+  },
+  {
+    "code": "DK041",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.6446616646773841
+  },
+  {
+    "code": "DK042",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.25965300578394
+  },
+  {
+    "code": "DK050",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.875640761732157
+  },
+  {
+    "code": "DKZZZ",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EE001",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.404407816054214
+  },
+  {
+    "code": "EE004",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.107176368925982
+  },
+  {
+    "code": "EE006",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.09163862227180197
+  },
+  {
+    "code": "EE007",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10910359366867499
+  },
+  {
+    "code": "EE008",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.234430982116252
+  },
+  {
+    "code": "EEZZZ",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL111",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.254689324598708
+  },
+  {
+    "code": "EL112",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.191467593533613
+  },
+  {
+    "code": "EL113",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.19287405110421102
+  },
+  {
+    "code": "EL114",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.169200116574403
+  },
+  {
+    "code": "EL115",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.238748324471743
+  },
+  {
+    "code": "EL121",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.242060471798339
+  },
+  {
+    "code": "EL122",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.91180276803463
+  },
+  {
+    "code": "EL123",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.13844052799248
+  },
+  {
+    "code": "EL124",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.24045776433417101
+  },
+  {
+    "code": "EL125",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.218109377331119
+  },
+  {
+    "code": "EL126",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.303722532656627
+  },
+  {
+    "code": "EL127",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.18543721303202
+  },
+  {
+    "code": "EL131",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0546693672820751
+  },
+  {
+    "code": "EL132",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0866288345992564
+  },
+  {
+    "code": "EL133",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.258560956271013
+  },
+  {
+    "code": "EL134",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0885087020008379
+  },
+  {
+    "code": "EL141",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.195464893997416
+  },
+  {
+    "code": "EL142",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.4894627279804771
+  },
+  {
+    "code": "EL143",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.35085349393913695
+  },
+  {
+    "code": "EL144",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.22566155525304102
+  },
+  {
+    "code": "EL211",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.116849596719004
+  },
+  {
+    "code": "EL212",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0750345974658755
+  },
+  {
+    "code": "EL213",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.289039941934934
+  },
+  {
+    "code": "EL214",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0989701985204453
+  },
+  {
+    "code": "EL221",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0701662229130617
+  },
+  {
+    "code": "EL222",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.17967366352607197
+  },
+  {
+    "code": "EL223",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0671932091744799
+  },
+  {
+    "code": "EL224",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0407872695473189
+  },
+  {
+    "code": "EL231",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.36289359705878993
+  },
+  {
+    "code": "EL232",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.533135215261359
+  },
+  {
+    "code": "EL233",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.274233403912037
+  },
+  {
+    "code": "EL241",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.20299813552609802
+  },
+  {
+    "code": "EL242",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.36291597643261897
+  },
+  {
+    "code": "EL243",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.034569246603626
+  },
+  {
+    "code": "EL244",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.272393130787229
+  },
+  {
+    "code": "EL245",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0694500829505544
+  },
+  {
+    "code": "EL251",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.16706030413835402
+  },
+  {
+    "code": "EL252",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.149227386177746
+  },
+  {
+    "code": "EL253",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.24975725490499803
+  },
+  {
+    "code": "EL254",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.15345020187012698
+  },
+  {
+    "code": "EL255",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.275359258564633
+  },
+  {
+    "code": "EL300",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 6.590611974090249
+  },
+  {
+    "code": "EL301",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL302",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL303",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL304",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL305",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL306",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL307",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL411",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.178515100557881
+  },
+  {
+    "code": "EL412",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0737813525314878
+  },
+  {
+    "code": "EL413",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0906777797718936
+  },
+  {
+    "code": "EL421",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.328783988363793
+  },
+  {
+    "code": "EL422",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.20318233498760802
+  },
+  {
+    "code": "EL431",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.525898070063329
+  },
+  {
+    "code": "EL432",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12976765988884698
+  },
+  {
+    "code": "EL433",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.147375062620876
+  },
+  {
+    "code": "EL434",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.269559557762501
+  },
+  {
+    "code": "EL511",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL512",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL513",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL514",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL515",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL521",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL522",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL523",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL524",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL525",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL526",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL527",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL531",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL532",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL533",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL541",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL542",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL543",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL611",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL612",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL613",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL621",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL622",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL623",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL624",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL631",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL632",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL633",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL641",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL642",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL643",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL644",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL645",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL651",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL652",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "EL653",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "ELSSS",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "ELZZZ",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES111",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.94587615769708
+  },
+  {
+    "code": "ES112",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.5934463213209971
+  },
+  {
+    "code": "ES113",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.560420721953098
+  },
+  {
+    "code": "ES114",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.6280495196914
+  },
+  {
+    "code": "ES120",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.8331765129775102
+  },
+  {
+    "code": "ES130",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.01027303301264
+  },
+  {
+    "code": "ES211",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.546925749366783
+  },
+  {
+    "code": "ES212",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.20785545855466
+  },
+  {
+    "code": "ES213",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.97128898983846
+  },
+  {
+    "code": "ES220",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.09141336723661
+  },
+  {
+    "code": "ES230",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.547599219255803
+  },
+  {
+    "code": "ES241",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.38525887626073396
+  },
+  {
+    "code": "ES242",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.244085947625627
+  },
+  {
+    "code": "ES243",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.66301880430862
+  },
+  {
+    "code": "ES300",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 10.949213781142198
+  },
+  {
+    "code": "ES411",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.29265250405281296
+  },
+  {
+    "code": "ES412",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.6351758796343331
+  },
+  {
+    "code": "ES413",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.841087166968413
+  },
+  {
+    "code": "ES414",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.290725868674097
+  },
+  {
+    "code": "ES415",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.596779571024881
+  },
+  {
+    "code": "ES416",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.278202738712445
+  },
+  {
+    "code": "ES417",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.161308825823279
+  },
+  {
+    "code": "ES418",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.9083574314526899
+  },
+  {
+    "code": "ES419",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.32670109565719796
+  },
+  {
+    "code": "ES421",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.684688703880269
+  },
+  {
+    "code": "ES422",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.897897335834618
+  },
+  {
+    "code": "ES423",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.366853540939285
+  },
+  {
+    "code": "ES424",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.438931868935048
+  },
+  {
+    "code": "ES425",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.2028939462077
+  },
+  {
+    "code": "ES431",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.1795100486686798
+  },
+  {
+    "code": "ES432",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.7036481599964809
+  },
+  {
+    "code": "ES511",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 9.415901867484779
+  },
+  {
+    "code": "ES512",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.2818177972526201
+  },
+  {
+    "code": "ES513",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.747517477071135
+  },
+  {
+    "code": "ES514",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.37600128249179
+  },
+  {
+    "code": "ES521",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 3.1579173594860297
+  },
+  {
+    "code": "ES522",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.01348693362226
+  },
+  {
+    "code": "ES523",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 4.37046153245791
+  },
+  {
+    "code": "ES531",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.24581650949235
+  },
+  {
+    "code": "ES532",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.46957949732437
+  },
+  {
+    "code": "ES533",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.160942253605204
+  },
+  {
+    "code": "ES611",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.1742842633273
+  },
+  {
+    "code": "ES612",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 2.12224854420262
+  },
+  {
+    "code": "ES613",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.36837999032996
+  },
+  {
+    "code": "ES614",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.57216856877334
+  },
+  {
+    "code": "ES615",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.8864142479800601
+  },
+  {
+    "code": "ES616",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.13805328828508
+  },
+  {
+    "code": "ES617",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 2.7191304144511497
+  },
+  {
+    "code": "ES618",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 3.29222771520137
+  },
+  {
+    "code": "ES620",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 2.4929127312228103
+  },
+  {
+    "code": "ES630",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.142391994383586
+  },
+  {
+    "code": "ES640",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.13865807272041197
+  },
+  {
+    "code": "ES703",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0182859862271923
+  },
+  {
+    "code": "ES704",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.17551136803983
+  },
+  {
+    "code": "ES705",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.4425639773458303
+  },
+  {
+    "code": "ES706",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.036964119478371006
+  },
+  {
+    "code": "ES707",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.142690367119228
+  },
+  {
+    "code": "ES708",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.235629211804007
+  },
+  {
+    "code": "ES709",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.49925479711778
+  },
+  {
+    "code": "ESZZZ",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FI193",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.18112466125844698
+  },
+  {
+    "code": "FI194",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12808336026251801
+  },
+  {
+    "code": "FI195",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.117785273820045
+  },
+  {
+    "code": "FI196",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.150275412207291
+  },
+  {
+    "code": "FI197",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.322963956245703
+  },
+  {
+    "code": "FI1B1",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.01425957954615
+  },
+  {
+    "code": "FI1C1",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.30791199033094296
+  },
+  {
+    "code": "FI1C2",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11554071724937899
+  },
+  {
+    "code": "FI1C3",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.13355608032334598
+  },
+  {
+    "code": "FI1C4",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12072153243033
+  },
+  {
+    "code": "FI1C5",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0885001318690023
+  },
+  {
+    "code": "FI1D1",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.102377197190152
+  },
+  {
+    "code": "FI1D2",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.164117395989589
+  },
+  {
+    "code": "FI1D3",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.10978933062522099
+  },
+  {
+    "code": "FI1D4",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0543254177010585
+  },
+  {
+    "code": "FI1D5",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.045222751242845
+  },
+  {
+    "code": "FI1D6",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.261433584763547
+  },
+  {
+    "code": "FI1D7",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.121453611335419
+  },
+  {
+    "code": "FI200",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0185382765776022
+  },
+  {
+    "code": "FIZZZ",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FR101",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 2.71364774988356
+  },
+  {
+    "code": "FR102",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.61424878806805
+  },
+  {
+    "code": "FR103",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.70495558257609
+  },
+  {
+    "code": "FR104",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.47767721878136
+  },
+  {
+    "code": "FR105",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.9075684233615198
+  },
+  {
+    "code": "FR106",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.8452141355721101
+  },
+  {
+    "code": "FR107",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.6085500644741397
+  },
+  {
+    "code": "FR108",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.4236135185018999
+  },
+  {
+    "code": "FR211",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.341453044798068
+  },
+  {
+    "code": "FR212",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.3666444182808039
+  },
+  {
+    "code": "FR213",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.6833294233488271
+  },
+  {
+    "code": "FR214",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.219958669934117
+  },
+  {
+    "code": "FR221",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.652853011392335
+  },
+  {
+    "code": "FR222",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.9716679520935521
+  },
+  {
+    "code": "FR223",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.688925630221996
+  },
+  {
+    "code": "FR231",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.709308366462636
+  },
+  {
+    "code": "FR232",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.50914502773133
+  },
+  {
+    "code": "FR241",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.37592760886330107
+  },
+  {
+    "code": "FR242",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.5191157279142571
+  },
+  {
+    "code": "FR243",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.277609249360303
+  },
+  {
+    "code": "FR244",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.7160286390267091
+  },
+  {
+    "code": "FR245",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.39954987347922793
+  },
+  {
+    "code": "FR246",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.7955140738907971
+  },
+  {
+    "code": "FR251",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.8264801539486909
+  },
+  {
+    "code": "FR252",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.602473882664067
+  },
+  {
+    "code": "FR253",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.350837546022235
+  },
+  {
+    "code": "FR261",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.634314370045894
+  },
+  {
+    "code": "FR262",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.26333650967558603
+  },
+  {
+    "code": "FR263",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.670578755447286
+  },
+  {
+    "code": "FR264",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.413037455691007
+  },
+  {
+    "code": "FR301",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 3.11072877951163
+  },
+  {
+    "code": "FR302",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.7642609024828797
+  },
+  {
+    "code": "FR411",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.8842055102770621
+  },
+  {
+    "code": "FR412",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.233445046066828
+  },
+  {
+    "code": "FR413",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.2605287130745
+  },
+  {
+    "code": "FR414",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.45689893313854096
+  },
+  {
+    "code": "FR421",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.32580533044445
+  },
+  {
+    "code": "FR422",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.9082450782503421
+  },
+  {
+    "code": "FR431",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.6381400528479829
+  },
+  {
+    "code": "FR432",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.31514122386163107
+  },
+  {
+    "code": "FR433",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.289091122082841
+  },
+  {
+    "code": "FR434",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.17288902216705
+  },
+  {
+    "code": "FR511",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.5635174842520703
+  },
+  {
+    "code": "FR512",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.9532161484399692
+  },
+  {
+    "code": "FR513",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.370303662171579
+  },
+  {
+    "code": "FR514",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.682300637904255
+  },
+  {
+    "code": "FR515",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.7738890762106401
+  },
+  {
+    "code": "FR521",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.716863245741415
+  },
+  {
+    "code": "FR522",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.0853143704653199
+  },
+  {
+    "code": "FR523",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.2017842199341
+  },
+  {
+    "code": "FR524",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.8769195866303341
+  },
+  {
+    "code": "FR531",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.425390117500275
+  },
+  {
+    "code": "FR532",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.754621963107432
+  },
+  {
+    "code": "FR533",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.44738176321695
+  },
+  {
+    "code": "FR534",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.516740958230363
+  },
+  {
+    "code": "FR611",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.500725434293117
+  },
+  {
+    "code": "FR612",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.7652921000855901
+  },
+  {
+    "code": "FR613",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.467873046573664
+  },
+  {
+    "code": "FR614",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.39905055674528495
+  },
+  {
+    "code": "FR615",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.791921164348734
+  },
+  {
+    "code": "FR621",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.18366895687230603
+  },
+  {
+    "code": "FR622",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.332652285842569
+  },
+  {
+    "code": "FR623",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.51993219891099
+  },
+  {
+    "code": "FR624",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.22781989329603897
+  },
+  {
+    "code": "FR625",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.210767141360749
+  },
+  {
+    "code": "FR626",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.27646709248338697
+  },
+  {
+    "code": "FR627",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.45550591181558603
+  },
+  {
+    "code": "FR628",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.294940605560184
+  },
+  {
+    "code": "FR631",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.292418694230055
+  },
+  {
+    "code": "FR632",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.147817050511996
+  },
+  {
+    "code": "FR633",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.453555681963449
+  },
+  {
+    "code": "FR711",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.728263105087363
+  },
+  {
+    "code": "FR712",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.382661148297117
+  },
+  {
+    "code": "FR713",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.588558142383327
+  },
+  {
+    "code": "FR714",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.46564175576684
+  },
+  {
+    "code": "FR715",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.903417143743165
+  },
+  {
+    "code": "FR716",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 2.10368652836849
+  },
+  {
+    "code": "FR717",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.50528561924731
+  },
+  {
+    "code": "FR718",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.9009338269431959
+  },
+  {
+    "code": "FR721",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.41335827272296005
+  },
+  {
+    "code": "FR722",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.17798953054348
+  },
+  {
+    "code": "FR723",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.271255624832748
+  },
+  {
+    "code": "FR724",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.76642585894099
+  },
+  {
+    "code": "FR811",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.4341486636884121
+  },
+  {
+    "code": "FR812",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.8663953406873871
+  },
+  {
+    "code": "FR813",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.28089938852447
+  },
+  {
+    "code": "FR814",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.093056236531524
+  },
+  {
+    "code": "FR815",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.545786960412807
+  },
+  {
+    "code": "FR821",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.19412928062467702
+  },
+  {
+    "code": "FR822",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.16716858914992902
+  },
+  {
+    "code": "FR823",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.3040657552528798
+  },
+  {
+    "code": "FR824",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 2.38308680514402
+  },
+  {
+    "code": "FR825",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.22143848441797
+  },
+  {
+    "code": "FR826",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.65927900066394
+  },
+  {
+    "code": "FR831",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.17590180767764899
+  },
+  {
+    "code": "FR832",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.203393173942094
+  },
+  {
+    "code": "FR910",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.48802180347520896
+  },
+  {
+    "code": "FR920",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.47313396346607
+  },
+  {
+    "code": "FR930",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.286502876404
+  },
+  {
+    "code": "FR940",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.999334199822784
+  },
+  {
+    "code": "FRA10",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "FRA20",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "FRA30",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "FRA40",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "FRA50",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "FRZZZ",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "HR031",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.32865974950134996
+  },
+  {
+    "code": "HR032",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0565089048189714
+  },
+  {
+    "code": "HR033",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.18865188349219603
+  },
+  {
+    "code": "HR034",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12136315637235601
+  },
+  {
+    "code": "HR035",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.504646590096777
+  },
+  {
+    "code": "HR036",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.23085907656274804
+  },
+  {
+    "code": "HR037",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.136002188345115
+  },
+  {
+    "code": "HR041",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.8766076041857819
+  },
+  {
+    "code": "HR042",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.352417523591302
+  },
+  {
+    "code": "HR043",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.147457760700665
+  },
+  {
+    "code": "HR044",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.19523628550283398
+  },
+  {
+    "code": "HR045",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.128252700033302
+  },
+  {
+    "code": "HR046",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.12627760135131097
+  },
+  {
+    "code": "HR047",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.13289085311797802
+  },
+  {
+    "code": "HR048",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0941345347109049
+  },
+  {
+    "code": "HR049",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0865869946912956
+  },
+  {
+    "code": "HR04A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.175955771627396
+  },
+  {
+    "code": "HR04B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.338465337733235
+  },
+  {
+    "code": "HR04C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.19919757892682802
+  },
+  {
+    "code": "HR04D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.143027103938198
+  },
+  {
+    "code": "HR04E",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.191339349226905
+  },
+  {
+    "code": "HRZZZ",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "HU101",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 2.10231971520381
+  },
+  {
+    "code": "HU102",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.48031497107498
+  },
+  {
+    "code": "HU211",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.5177824363579779
+  },
+  {
+    "code": "HU212",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.37032070456449606
+  },
+  {
+    "code": "HU213",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.42929129297620705
+  },
+  {
+    "code": "HU221",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.544699774218978
+  },
+  {
+    "code": "HU222",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.312032229556887
+  },
+  {
+    "code": "HU223",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.34309817870986103
+  },
+  {
+    "code": "HU231",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.46986913724556795
+  },
+  {
+    "code": "HU232",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.384387317705425
+  },
+  {
+    "code": "HU233",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.280093272517736
+  },
+  {
+    "code": "HU311",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.8344228830299251
+  },
+  {
+    "code": "HU312",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.37556604721208603
+  },
+  {
+    "code": "HU313",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.24612864536943202
+  },
+  {
+    "code": "HU321",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.664751733341013
+  },
+  {
+    "code": "HU322",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.47005516817396
+  },
+  {
+    "code": "HU323",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.680012348911227
+  },
+  {
+    "code": "HU331",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.6326644379145171
+  },
+  {
+    "code": "HU332",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.437656605311724
+  },
+  {
+    "code": "HU333",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.5075799166185421
+  },
+  {
+    "code": "HUZZZ",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "IE011",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.626027926002148
+  },
+  {
+    "code": "IE012",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.34460675056314094
+  },
+  {
+    "code": "IE013",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.535357214674893
+  },
+  {
+    "code": "IE021",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.53198940795632
+  },
+  {
+    "code": "IE022",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.64824871079624
+  },
+  {
+    "code": "IE023",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.458792779233974
+  },
+  {
+    "code": "IE024",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.606346416593586
+  },
+  {
+    "code": "IE025",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.8042981734055771
+  },
+  {
+    "code": "IEZZZ",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITC11",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 2.9796062784490096
+  },
+  {
+    "code": "ITC12",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.23454898367057503
+  },
+  {
+    "code": "ITC13",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.241509590388375
+  },
+  {
+    "code": "ITC14",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.21244233003645896
+  },
+  {
+    "code": "ITC15",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.484576734174848
+  },
+  {
+    "code": "ITC16",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.777289401251178
+  },
+  {
+    "code": "ITC17",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.288409842965498
+  },
+  {
+    "code": "ITC18",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.566325089971212
+  },
+  {
+    "code": "ITC20",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.16809116272277802
+  },
+  {
+    "code": "ITC31",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.28433899489268
+  },
+  {
+    "code": "ITC32",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.372524354349611
+  },
+  {
+    "code": "ITC33",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.1344741743899
+  },
+  {
+    "code": "ITC34",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.290738882387165
+  },
+  {
+    "code": "ITC41",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.15575234217396
+  },
+  {
+    "code": "ITC42",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.7777626323687281
+  },
+  {
+    "code": "ITC43",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.44580492196975896
+  },
+  {
+    "code": "ITC44",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.23968294478618
+  },
+  {
+    "code": "ITC46",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.4399441979796699
+  },
+  {
+    "code": "ITC47",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.6411230971875
+  },
+  {
+    "code": "ITC48",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.710273512234785
+  },
+  {
+    "code": "ITC49",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.296604562205535
+  },
+  {
+    "code": "ITC4A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.474056952245224
+  },
+  {
+    "code": "ITC4B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.54128095690715
+  },
+  {
+    "code": "ITC4C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 4.02766076242561
+  },
+  {
+    "code": "ITC4D",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.11365598194978
+  },
+  {
+    "code": "ITF11",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.39547672633946
+  },
+  {
+    "code": "ITF12",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.406089298684291
+  },
+  {
+    "code": "ITF13",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.417107497701307
+  },
+  {
+    "code": "ITF14",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.514265690308644
+  },
+  {
+    "code": "ITF21",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.11564469447106501
+  },
+  {
+    "code": "ITF22",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.300135900292798
+  },
+  {
+    "code": "ITF31",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.19954279026433
+  },
+  {
+    "code": "ITF32",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.37765698988785495
+  },
+  {
+    "code": "ITF33",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 4.04958050965195
+  },
+  {
+    "code": "ITF34",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.568880803121454
+  },
+  {
+    "code": "ITF35",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.44869168297887
+  },
+  {
+    "code": "ITF43",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.7749974779955929
+  },
+  {
+    "code": "ITF44",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.531292731498919
+  },
+  {
+    "code": "ITF45",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.06313690317963
+  },
+  {
+    "code": "ITF46",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.829906868982341
+  },
+  {
+    "code": "ITF47",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.65339661796452
+  },
+  {
+    "code": "ITF48",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.5192591402240789
+  },
+  {
+    "code": "ITF51",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.500982079583245
+  },
+  {
+    "code": "ITF52",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.265249355330115
+  },
+  {
+    "code": "ITF61",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.9465020024205859
+  },
+  {
+    "code": "ITF62",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.226412589834381
+  },
+  {
+    "code": "ITF63",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.47699708282989
+  },
+  {
+    "code": "ITF64",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.21661127083392198
+  },
+  {
+    "code": "ITF65",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.730349381353253
+  },
+  {
+    "code": "ITG11",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.569888241915117
+  },
+  {
+    "code": "ITG12",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.64846812133973
+  },
+  {
+    "code": "ITG13",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.8613919824390501
+  },
+  {
+    "code": "ITG14",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.592317010847734
+  },
+  {
+    "code": "ITG15",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.362013851461507
+  },
+  {
+    "code": "ITG16",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.22992271868388298
+  },
+  {
+    "code": "ITG17",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.42998778642809
+  },
+  {
+    "code": "ITG18",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.407604433606866
+  },
+  {
+    "code": "ITG19",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.530142130350367
+  },
+  {
+    "code": "ITG25",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.43484637393394704
+  },
+  {
+    "code": "ITG26",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.21102793899324998
+  },
+  {
+    "code": "ITG27",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.7298363829149
+  },
+  {
+    "code": "ITG28",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.21728333855548498
+  },
+  {
+    "code": "ITG29",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.199500718269962
+  },
+  {
+    "code": "ITG2A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.0759940244762402
+  },
+  {
+    "code": "ITG2B",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.134222661172638
+  },
+  {
+    "code": "ITG2C",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.170389713865163
+  },
+  {
+    "code": "ITH10",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.668943335724734
+  },
+  {
+    "code": "ITH20",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.6957054170474639
+  },
+  {
+    "code": "ITH31",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.19373808700452
+  },
+  {
+    "code": "ITH32",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.13894269567074
+  },
+  {
+    "code": "ITH33",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.27837257119494396
+  },
+  {
+    "code": "ITH34",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.16225297354781
+  },
+  {
+    "code": "ITH35",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.12271365205124
+  },
+  {
+    "code": "ITH36",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.2213352820641101
+  },
+  {
+    "code": "ITH37",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.321252347638932
+  },
+  {
+    "code": "ITH41",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.412004024864984
+  },
+  {
+    "code": "ITH42",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.7097538859096322
+  },
+  {
+    "code": "ITH43",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.185770387974214
+  },
+  {
+    "code": "ITH44",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.308330619532836
+  },
+  {
+    "code": "ITH51",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.377280525917591
+  },
+  {
+    "code": "ITH52",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.566596833330029
+  },
+  {
+    "code": "ITH53",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.685742377609075
+  },
+  {
+    "code": "ITH54",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.909050465266141
+  },
+  {
+    "code": "ITH55",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.2940856187402199
+  },
+  {
+    "code": "ITH56",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.468566410819757
+  },
+  {
+    "code": "ITH57",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.510030470643176
+  },
+  {
+    "code": "ITH58",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.517953446524397
+  },
+  {
+    "code": "ITH59",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.426529701576782
+  },
+  {
+    "code": "ITI11",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.264651519940717
+  },
+  {
+    "code": "ITI12",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.514757479509235
+  },
+  {
+    "code": "ITI13",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.381588652337863
+  },
+  {
+    "code": "ITI14",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 1.2899789800786798
+  },
+  {
+    "code": "ITI15",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.325980682082351
+  },
+  {
+    "code": "ITI16",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.44439583323598997
+  },
+  {
+    "code": "ITI17",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.545064154692829
+  },
+  {
+    "code": "ITI18",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.455569124804136
+  },
+  {
+    "code": "ITI19",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.353426761322884
+  },
+  {
+    "code": "ITI1A",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.292374644849508
+  },
+  {
+    "code": "ITI21",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.869371958146754
+  },
+  {
+    "code": "ITI22",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.302793682899766
+  },
+  {
+    "code": "ITI31",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.480631815951239
+  },
+  {
+    "code": "ITI32",
+    "source": "household_waste",
+    "unit": "PetaJoule",
+    "value": 0.6281447157360771
+  }
+]

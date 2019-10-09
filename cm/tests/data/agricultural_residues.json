@@ -1,0 +1,6002 @@
+[
+  {
+    "code": "AT111",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.110469314079422
+  },
+  {
+    "code": "AT112",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.5707581227436821
+  },
+  {
+    "code": "AT113",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.239350180505415
+  },
+  {
+    "code": "AT121",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.478700361010831
+  },
+  {
+    "code": "AT122",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.40505415162454905
+  },
+  {
+    "code": "AT123",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.257761732851986
+  },
+  {
+    "code": "AT124",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.69386281588447
+  },
+  {
+    "code": "AT125",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.8227436823104701
+  },
+  {
+    "code": "AT126",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.19675090252708
+  },
+  {
+    "code": "AT127",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.5707581227436821
+  },
+  {
+    "code": "AT130",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0368231046931408
+  },
+  {
+    "code": "AT211",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0736462093862816
+  },
+  {
+    "code": "AT212",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "AT213",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.165703971119133
+  },
+  {
+    "code": "AT221",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0552346570397112
+  },
+  {
+    "code": "AT222",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "AT223",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "AT224",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.34981949458483697
+  },
+  {
+    "code": "AT225",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0736462093862816
+  },
+  {
+    "code": "AT226",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0920577617328519
+  },
+  {
+    "code": "AT311",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.718050541516245
+  },
+  {
+    "code": "AT312",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.6444043321299641
+  },
+  {
+    "code": "AT313",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.331407942238267
+  },
+  {
+    "code": "AT314",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.128880866425992
+  },
+  {
+    "code": "AT315",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.14729241877256302
+  },
+  {
+    "code": "AT321",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "AT322",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "AT323",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "AT331",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "AT332",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "AT333",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "AT334",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0184115523465704
+  },
+  {
+    "code": "AT335",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0184115523465704
+  },
+  {
+    "code": "AT341",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "AT342",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "BE100",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0203319502074689
+  },
+  {
+    "code": "BE211",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "BE212",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0203319502074689
+  },
+  {
+    "code": "BE213",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0203319502074689
+  },
+  {
+    "code": "BE221",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0813278008298756
+  },
+  {
+    "code": "BE222",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "BE223",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.264315352697095
+  },
+  {
+    "code": "BE231",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0406639004149378
+  },
+  {
+    "code": "BE232",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0406639004149378
+  },
+  {
+    "code": "BE233",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0406639004149378
+  },
+  {
+    "code": "BE234",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0406639004149378
+  },
+  {
+    "code": "BE235",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0406639004149378
+  },
+  {
+    "code": "BE236",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0609958506224067
+  },
+  {
+    "code": "BE241",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.14232365145228199
+  },
+  {
+    "code": "BE242",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.28464730290456397
+  },
+  {
+    "code": "BE251",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.10165975103734501
+  },
+  {
+    "code": "BE252",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0609958506224067
+  },
+  {
+    "code": "BE253",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0813278008298756
+  },
+  {
+    "code": "BE254",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0609958506224067
+  },
+  {
+    "code": "BE255",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0406639004149378
+  },
+  {
+    "code": "BE256",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0203319502074689
+  },
+  {
+    "code": "BE257",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "BE258",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0406639004149378
+  },
+  {
+    "code": "BE310",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.426970954356846
+  },
+  {
+    "code": "BE321",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18298755186722
+  },
+  {
+    "code": "BE322",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18298755186722
+  },
+  {
+    "code": "BE323",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0609958506224067
+  },
+  {
+    "code": "BE324",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0406639004149378
+  },
+  {
+    "code": "BE325",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.22365145228215802
+  },
+  {
+    "code": "BE326",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.243983402489626
+  },
+  {
+    "code": "BE327",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.32531120331950203
+  },
+  {
+    "code": "BE331",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.20331950207468902
+  },
+  {
+    "code": "BE332",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0609958506224067
+  },
+  {
+    "code": "BE334",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.264315352697095
+  },
+  {
+    "code": "BE335",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "BE336",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "BE341",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0203319502074689
+  },
+  {
+    "code": "BE342",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0406639004149378
+  },
+  {
+    "code": "BE343",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0609958506224067
+  },
+  {
+    "code": "BE344",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0609958506224067
+  },
+  {
+    "code": "BE345",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0609958506224067
+  },
+  {
+    "code": "BE351",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.32531120331950203
+  },
+  {
+    "code": "BE352",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.467634854771784
+  },
+  {
+    "code": "BE353",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.14232365145228199
+  },
+  {
+    "code": "BG311",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.42711864406779704
+  },
+  {
+    "code": "BG312",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.9016949152542371
+  },
+  {
+    "code": "BG313",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.949152542372881
+  },
+  {
+    "code": "BG314",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.42372881355932
+  },
+  {
+    "code": "BG315",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.35593220338983095
+  },
+  {
+    "code": "BG321",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7118644067796619
+  },
+  {
+    "code": "BG322",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0949152542372881
+  },
+  {
+    "code": "BG323",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.25762711864407
+  },
+  {
+    "code": "BG324",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.996610169491525
+  },
+  {
+    "code": "BG325",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.9016949152542371
+  },
+  {
+    "code": "BG331",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.37627118644068
+  },
+  {
+    "code": "BG332",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.06440677966102
+  },
+  {
+    "code": "BG333",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.16271186440678
+  },
+  {
+    "code": "BG334",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.664406779661016
+  },
+  {
+    "code": "BG341",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.66101694915254
+  },
+  {
+    "code": "BG342",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.664406779661016
+  },
+  {
+    "code": "BG343",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.11525423728813
+  },
+  {
+    "code": "BG344",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.37627118644068
+  },
+  {
+    "code": "BG411",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0949152542372881
+  },
+  {
+    "code": "BG412",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.522033898305084
+  },
+  {
+    "code": "BG413",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18983050847457603
+  },
+  {
+    "code": "BG414",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.35593220338983095
+  },
+  {
+    "code": "BG415",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.237288135593221
+  },
+  {
+    "code": "BG421",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.996610169491525
+  },
+  {
+    "code": "BG422",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.4
+  },
+  {
+    "code": "BG423",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.450847457627119
+  },
+  {
+    "code": "BG424",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "BG425",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0474576271186441
+  },
+  {
+    "code": "CY000",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "CZ010",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.15455497382199
+  },
+  {
+    "code": "CZ020",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 8.23005235602095
+  },
+  {
+    "code": "CZ031",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.51612565445026
+  },
+  {
+    "code": "CZ032",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.70471204188482
+  },
+  {
+    "code": "CZ041",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.618219895287959
+  },
+  {
+    "code": "CZ042",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.43424083769634
+  },
+  {
+    "code": "CZ051",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.618219895287959
+  },
+  {
+    "code": "CZ052",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.47287958115183
+  },
+  {
+    "code": "CZ053",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.47287958115183
+  },
+  {
+    "code": "CZ063",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.67068062827225
+  },
+  {
+    "code": "CZ064",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.97979057591622
+  },
+  {
+    "code": "CZ071",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.0138219895288
+  },
+  {
+    "code": "CZ072",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.4296335078533997
+  },
+  {
+    "code": "CZ080",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.58418848167539
+  },
+  {
+    "code": "DE111",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE112",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.305840286054827
+  },
+  {
+    "code": "DE113",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DE114",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18350417163289603
+  },
+  {
+    "code": "DE115",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.305840286054827
+  },
+  {
+    "code": "DE116",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18350417163289603
+  },
+  {
+    "code": "DE117",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DE118",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.36700834326579296
+  },
+  {
+    "code": "DE119",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.4587604290822411
+  },
+  {
+    "code": "DE11A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.397592371871275
+  },
+  {
+    "code": "DE11B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8869368295589991
+  },
+  {
+    "code": "DE11C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DE11D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.397592371871275
+  },
+  {
+    "code": "DE121",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE122",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE123",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.4587604290822411
+  },
+  {
+    "code": "DE124",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DE125",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DE126",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE127",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DE128",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DE129",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE12A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE12B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DE12C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DE131",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE132",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DE133",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DE134",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DE135",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DE136",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DE137",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DE138",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DE139",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DE13A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DE141",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DE142",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DE143",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.244672228843862
+  },
+  {
+    "code": "DE144",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DE145",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.642264600715137
+  },
+  {
+    "code": "DE146",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.428176400476758
+  },
+  {
+    "code": "DE147",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DE148",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33642431466031
+  },
+  {
+    "code": "DE149",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.397592371871275
+  },
+  {
+    "code": "DE211",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DE212",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE213",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE214",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DE215",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DE216",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE217",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33642431466031
+  },
+  {
+    "code": "DE218",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DE219",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.9175208581644809
+  },
+  {
+    "code": "DE21A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.397592371871275
+  },
+  {
+    "code": "DE21B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.275256257449344
+  },
+  {
+    "code": "DE21C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DE21D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE21E",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.244672228843862
+  },
+  {
+    "code": "DE21F",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE21G",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.275256257449344
+  },
+  {
+    "code": "DE21H",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DE21I",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DE21J",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.244672228843862
+  },
+  {
+    "code": "DE21K",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DE21L",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DE21M",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DE21N",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DE221",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE222",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DE223",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE224",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33642431466031
+  },
+  {
+    "code": "DE225",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE226",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.519928486293206
+  },
+  {
+    "code": "DE227",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.67284862932062
+  },
+  {
+    "code": "DE228",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.244672228843862
+  },
+  {
+    "code": "DE229",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE22A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.5505125148986889
+  },
+  {
+    "code": "DE22B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.5505125148986889
+  },
+  {
+    "code": "DE22C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.4587604290822411
+  },
+  {
+    "code": "DE231",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DE232",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE233",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE234",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DE235",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.48934445768772294
+  },
+  {
+    "code": "DE236",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.642264600715137
+  },
+  {
+    "code": "DE237",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.428176400476758
+  },
+  {
+    "code": "DE238",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.703432657926102
+  },
+  {
+    "code": "DE239",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.581096543504172
+  },
+  {
+    "code": "DE23A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.244672228843862
+  },
+  {
+    "code": "DE241",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE242",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE243",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE244",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE245",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.5505125148986889
+  },
+  {
+    "code": "DE246",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33642431466031
+  },
+  {
+    "code": "DE247",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DE248",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18350417163289603
+  },
+  {
+    "code": "DE249",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18350417163289603
+  },
+  {
+    "code": "DE24A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DE24B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DE24C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18350417163289603
+  },
+  {
+    "code": "DE24D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.244672228843862
+  },
+  {
+    "code": "DE251",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DE252",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE253",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DE254",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DE255",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE256",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.397592371871275
+  },
+  {
+    "code": "DE257",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DE258",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DE259",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DE25A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7951847437425509
+  },
+  {
+    "code": "DE25B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DE25C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33642431466031
+  },
+  {
+    "code": "DE261",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE262",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE263",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE264",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DE265",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.305840286054827
+  },
+  {
+    "code": "DE266",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.397592371871275
+  },
+  {
+    "code": "DE267",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.428176400476758
+  },
+  {
+    "code": "DE268",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33642431466031
+  },
+  {
+    "code": "DE269",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DE26A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.428176400476758
+  },
+  {
+    "code": "DE26B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.5505125148986889
+  },
+  {
+    "code": "DE26C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8257687723480329
+  },
+  {
+    "code": "DE271",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DE272",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE273",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE274",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE275",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DE276",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18350417163289603
+  },
+  {
+    "code": "DE277",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.275256257449344
+  },
+  {
+    "code": "DE278",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DE279",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DE27A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE27B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DE27C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.305840286054827
+  },
+  {
+    "code": "DE27D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8257687723480329
+  },
+  {
+    "code": "DE27E",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE300",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE401",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DE402",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DE403",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DE404",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DE405",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.611680572109654
+  },
+  {
+    "code": "DE406",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.581096543504172
+  },
+  {
+    "code": "DE407",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7646007151370681
+  },
+  {
+    "code": "DE408",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.642264600715137
+  },
+  {
+    "code": "DE409",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.31511323003576
+  },
+  {
+    "code": "DE40A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.581096543504172
+  },
+  {
+    "code": "DE40B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DE40C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.978688915375447
+  },
+  {
+    "code": "DE40D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.1010250297973798
+  },
+  {
+    "code": "DE40E",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7646007151370681
+  },
+  {
+    "code": "DE40F",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8869368295589991
+  },
+  {
+    "code": "DE40G",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.48934445768772294
+  },
+  {
+    "code": "DE40H",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.67284862932062
+  },
+  {
+    "code": "DE40I",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.7432896305125098
+  },
+  {
+    "code": "DE501",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE502",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE600",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DE711",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE712",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DE713",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE714",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DE715",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DE716",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18350417163289603
+  },
+  {
+    "code": "DE717",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DE718",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DE719",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.36700834326579296
+  },
+  {
+    "code": "DE71A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DE71B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DE71C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DE71D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18350417163289603
+  },
+  {
+    "code": "DE71E",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.519928486293206
+  },
+  {
+    "code": "DE721",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.244672228843862
+  },
+  {
+    "code": "DE722",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DE723",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DE724",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.397592371871275
+  },
+  {
+    "code": "DE725",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.397592371871275
+  },
+  {
+    "code": "DE731",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE732",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33642431466031
+  },
+  {
+    "code": "DE733",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.36700834326579296
+  },
+  {
+    "code": "DE734",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7646007151370681
+  },
+  {
+    "code": "DE735",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8257687723480329
+  },
+  {
+    "code": "DE736",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.734016686531585
+  },
+  {
+    "code": "DE737",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33642431466031
+  },
+  {
+    "code": "DE803",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE804",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DE80J",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.02781883194279
+  },
+  {
+    "code": "DE80K",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.89620977353992
+  },
+  {
+    "code": "DE80L",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.89620977353992
+  },
+  {
+    "code": "DE80M",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.6209535160905901
+  },
+  {
+    "code": "DE80N",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.7432896305125098
+  },
+  {
+    "code": "DE80O",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.17146603098927
+  },
+  {
+    "code": "DE911",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DE912",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DE913",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DE914",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.611680572109654
+  },
+  {
+    "code": "DE915",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.428176400476758
+  },
+  {
+    "code": "DE916",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.275256257449344
+  },
+  {
+    "code": "DE917",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.36700834326579296
+  },
+  {
+    "code": "DE918",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.611680572109654
+  },
+  {
+    "code": "DE919",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DE91A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.275256257449344
+  },
+  {
+    "code": "DE91B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.703432657926102
+  },
+  {
+    "code": "DE922",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7951847437425509
+  },
+  {
+    "code": "DE923",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.36700834326579296
+  },
+  {
+    "code": "DE925",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.03985697258641
+  },
+  {
+    "code": "DE926",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.305840286054827
+  },
+  {
+    "code": "DE927",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.581096543504172
+  },
+  {
+    "code": "DE928",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.48934445768772294
+  },
+  {
+    "code": "DE929",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.19277711561383
+  },
+  {
+    "code": "DE931",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.305840286054827
+  },
+  {
+    "code": "DE932",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.519928486293206
+  },
+  {
+    "code": "DE933",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.244672228843862
+  },
+  {
+    "code": "DE934",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.5505125148986889
+  },
+  {
+    "code": "DE935",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.428176400476758
+  },
+  {
+    "code": "DE936",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18350417163289603
+  },
+  {
+    "code": "DE937",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.611680572109654
+  },
+  {
+    "code": "DE938",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.581096543504172
+  },
+  {
+    "code": "DE939",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.36700834326579296
+  },
+  {
+    "code": "DE93A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7951847437425509
+  },
+  {
+    "code": "DE93B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.36700834326579296
+  },
+  {
+    "code": "DE941",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE942",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE943",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE944",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE945",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE946",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DE947",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.428176400476758
+  },
+  {
+    "code": "DE948",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.48934445768772294
+  },
+  {
+    "code": "DE949",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7951847437425509
+  },
+  {
+    "code": "DE94A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DE94B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DE94C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DE94D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.36700834326579296
+  },
+  {
+    "code": "DE94E",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.67284862932062
+  },
+  {
+    "code": "DE94F",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DE94G",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DE94H",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DEA11",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DEA12",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEA13",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DEA14",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DEA15",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEA16",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEA17",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEA18",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEA19",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEA1A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEA1B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.244672228843862
+  },
+  {
+    "code": "DEA1C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DEA1D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.275256257449344
+  },
+  {
+    "code": "DEA1E",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DEA1F",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DEA22",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEA23",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEA24",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEA26",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.642264600715137
+  },
+  {
+    "code": "DEA27",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.397592371871275
+  },
+  {
+    "code": "DEA28",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.305840286054827
+  },
+  {
+    "code": "DEA29",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.397592371871275
+  },
+  {
+    "code": "DEA2A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEA2B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEA2C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DEA2D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DEA31",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEA32",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DEA33",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DEA34",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.305840286054827
+  },
+  {
+    "code": "DEA35",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.703432657926102
+  },
+  {
+    "code": "DEA36",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DEA37",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33642431466031
+  },
+  {
+    "code": "DEA38",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.734016686531585
+  },
+  {
+    "code": "DEA41",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEA42",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.4587604290822411
+  },
+  {
+    "code": "DEA43",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.244672228843862
+  },
+  {
+    "code": "DEA44",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.734016686531585
+  },
+  {
+    "code": "DEA45",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.703432657926102
+  },
+  {
+    "code": "DEA46",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.703432657926102
+  },
+  {
+    "code": "DEA47",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.519928486293206
+  },
+  {
+    "code": "DEA51",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEA52",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEA53",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEA54",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DEA55",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEA56",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEA57",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DEA58",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DEA59",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEA5A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEA5B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.978688915375447
+  },
+  {
+    "code": "DEA5C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DEB11",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEB12",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEB13",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DEB14",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.244672228843862
+  },
+  {
+    "code": "DEB15",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DEB16",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DEB17",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DEB18",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DEB19",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.305840286054827
+  },
+  {
+    "code": "DEB1A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.244672228843862
+  },
+  {
+    "code": "DEB1B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DEB21",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEB22",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.305840286054827
+  },
+  {
+    "code": "DEB23",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.305840286054827
+  },
+  {
+    "code": "DEB24",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEB25",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18350417163289603
+  },
+  {
+    "code": "DEB31",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEB32",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEB33",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEB34",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEB35",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DEB36",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEB37",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEB38",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEB39",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DEB3A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DEB3B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.4587604290822411
+  },
+  {
+    "code": "DEB3C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DEB3D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33642431466031
+  },
+  {
+    "code": "DEB3E",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DEB3F",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DEB3G",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DEB3H",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DEB3I",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DEB3J",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DEB3K",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DEC01",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEC02",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18350417163289603
+  },
+  {
+    "code": "DEC03",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18350417163289603
+  },
+  {
+    "code": "DEC04",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DEC05",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DEC06",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DED21",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DED2C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.00927294398093
+  },
+  {
+    "code": "DED2D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7646007151370681
+  },
+  {
+    "code": "DED2E",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8869368295589991
+  },
+  {
+    "code": "DED2F",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.305840286054827
+  },
+  {
+    "code": "DED41",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DED42",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.5505125148986889
+  },
+  {
+    "code": "DED43",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.1316090584028602
+  },
+  {
+    "code": "DED44",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.4587604290822411
+  },
+  {
+    "code": "DED45",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.244672228843862
+  },
+  {
+    "code": "DED51",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DED52",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.9175208581644809
+  },
+  {
+    "code": "DED53",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.1621930870083401
+  },
+  {
+    "code": "DEE01",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DEE02",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEE03",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DEE04",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.22336114421931
+  },
+  {
+    "code": "DEE05",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.1010250297973798
+  },
+  {
+    "code": "DEE06",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8869368295589991
+  },
+  {
+    "code": "DEE07",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.3762812872467198
+  },
+  {
+    "code": "DEE08",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.22336114421931
+  },
+  {
+    "code": "DEE09",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.1621930870083401
+  },
+  {
+    "code": "DEE0A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7951847437425509
+  },
+  {
+    "code": "DEE0B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.2539451728247901
+  },
+  {
+    "code": "DEE0C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.19277711561383
+  },
+  {
+    "code": "DEE0D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.3762812872467198
+  },
+  {
+    "code": "DEE0E",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.734016686531585
+  },
+  {
+    "code": "DEF01",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEF02",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEF03",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DEF04",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEF05",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.581096543504172
+  },
+  {
+    "code": "DEF06",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.642264600715137
+  },
+  {
+    "code": "DEF07",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.703432657926102
+  },
+  {
+    "code": "DEF08",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.31511323003576
+  },
+  {
+    "code": "DEF09",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.122336114421931
+  },
+  {
+    "code": "DEF0A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.67284862932062
+  },
+  {
+    "code": "DEF0B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8257687723480329
+  },
+  {
+    "code": "DEF0C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.00927294398093
+  },
+  {
+    "code": "DEF0D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33642431466031
+  },
+  {
+    "code": "DEF0E",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.397592371871275
+  },
+  {
+    "code": "DEF0F",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.428176400476758
+  },
+  {
+    "code": "DEG01",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DEG02",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0917520858164481
+  },
+  {
+    "code": "DEG03",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.152920143027414
+  },
+  {
+    "code": "DEG04",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DEG05",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DEG06",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.244672228843862
+  },
+  {
+    "code": "DEG07",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.214088200238379
+  },
+  {
+    "code": "DEG09",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8257687723480329
+  },
+  {
+    "code": "DEG0A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7951847437425509
+  },
+  {
+    "code": "DEG0B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18350417163289603
+  },
+  {
+    "code": "DEG0C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.397592371871275
+  },
+  {
+    "code": "DEG0D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.9175208581644809
+  },
+  {
+    "code": "DEG0E",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.275256257449344
+  },
+  {
+    "code": "DEG0F",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33642431466031
+  },
+  {
+    "code": "DEG0G",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8257687723480329
+  },
+  {
+    "code": "DEG0H",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0611680572109654
+  },
+  {
+    "code": "DEG0I",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18350417163289603
+  },
+  {
+    "code": "DEG0J",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.397592371871275
+  },
+  {
+    "code": "DEG0K",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.397592371871275
+  },
+  {
+    "code": "DEG0L",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33642431466031
+  },
+  {
+    "code": "DEG0M",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.581096543504172
+  },
+  {
+    "code": "DEG0N",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0305840286054827
+  },
+  {
+    "code": "DEG0P",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.642264600715137
+  },
+  {
+    "code": "DK011",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "DK012",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0274576271186441
+  },
+  {
+    "code": "DK013",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.6040677966101711
+  },
+  {
+    "code": "DK014",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.4942372881355929
+  },
+  {
+    "code": "DK021",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.658983050847459
+  },
+  {
+    "code": "DK022",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 6.48
+  },
+  {
+    "code": "DK031",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.96542372881356
+  },
+  {
+    "code": "DK032",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 5.7935593220339
+  },
+  {
+    "code": "DK041",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 5.32677966101695
+  },
+  {
+    "code": "DK042",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 4.72271186440679
+  },
+  {
+    "code": "DK050",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 5.32677966101695
+  },
+  {
+    "code": "EE001",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.15086206896551702
+  },
+  {
+    "code": "EE004",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.482758620689657
+  },
+  {
+    "code": "EE006",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.0409482758620698
+  },
+  {
+    "code": "EE007",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.12068965517241399
+  },
+  {
+    "code": "EE008",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.70474137931034
+  },
+  {
+    "code": "EL301",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL302",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL303",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL304",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL305",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL306",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL307",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL411",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0540838852097131
+  },
+  {
+    "code": "EL412",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL413",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL421",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0324503311258278
+  },
+  {
+    "code": "EL422",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0108167770419426
+  },
+  {
+    "code": "EL431",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL432",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL433",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL434",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL511",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.18388520971302397
+  },
+  {
+    "code": "EL512",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0324503311258278
+  },
+  {
+    "code": "EL513",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.086534216335541
+  },
+  {
+    "code": "EL514",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.108167770419426
+  },
+  {
+    "code": "EL515",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0108167770419426
+  },
+  {
+    "code": "EL521",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0216335540838852
+  },
+  {
+    "code": "EL522",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.45430463576159
+  },
+  {
+    "code": "EL523",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.432671081677704
+  },
+  {
+    "code": "EL524",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.108167770419426
+  },
+  {
+    "code": "EL525",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.15143487858719698
+  },
+  {
+    "code": "EL526",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.367770419426049
+  },
+  {
+    "code": "EL527",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.129801324503311
+  },
+  {
+    "code": "EL531",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.540838852097131
+  },
+  {
+    "code": "EL532",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.129801324503311
+  },
+  {
+    "code": "EL533",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.129801324503311
+  },
+  {
+    "code": "EL541",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL542",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0216335540838852
+  },
+  {
+    "code": "EL543",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL611",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.346136865342163
+  },
+  {
+    "code": "EL612",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.9086092715231792
+  },
+  {
+    "code": "EL613",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.118984547461369
+  },
+  {
+    "code": "EL621",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL622",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL623",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0108167770419426
+  },
+  {
+    "code": "EL624",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL631",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0324503311258278
+  },
+  {
+    "code": "EL632",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL633",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL641",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.162251655629139
+  },
+  {
+    "code": "EL642",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL643",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL644",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.205518763796909
+  },
+  {
+    "code": "EL645",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "EL651",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0757174392935984
+  },
+  {
+    "code": "EL652",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0324503311258278
+  },
+  {
+    "code": "EL653",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES111",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES112",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0450857381848599
+  },
+  {
+    "code": "ES113",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.13525721455458
+  },
+  {
+    "code": "ES114",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES120",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES130",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES211",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.439585947302384
+  },
+  {
+    "code": "ES212",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES213",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES220",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.6343580092011698
+  },
+  {
+    "code": "ES230",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.46212881639481396
+  },
+  {
+    "code": "ES241",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.3106440819740697
+  },
+  {
+    "code": "ES242",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.9048724383103302
+  },
+  {
+    "code": "ES243",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.50541614387286
+  },
+  {
+    "code": "ES300",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.879171894604768
+  },
+  {
+    "code": "ES411",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8566290255123399
+  },
+  {
+    "code": "ES412",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 4.15915934755332
+  },
+  {
+    "code": "ES413",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8566290255123399
+  },
+  {
+    "code": "ES414",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.7051442910916
+  },
+  {
+    "code": "ES415",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.49910079464659
+  },
+  {
+    "code": "ES416",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.8597867001254698
+  },
+  {
+    "code": "ES417",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.0401296528649095
+  },
+  {
+    "code": "ES418",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.18981597657884
+  },
+  {
+    "code": "ES419",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.8710581346716801
+  },
+  {
+    "code": "ES421",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.8404015056461698
+  },
+  {
+    "code": "ES422",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.73895859473024
+  },
+  {
+    "code": "ES423",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.03201589293183
+  },
+  {
+    "code": "ES424",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.67944374738603
+  },
+  {
+    "code": "ES425",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.5924299456294397
+  },
+  {
+    "code": "ES431",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.31875784190715
+  },
+  {
+    "code": "ES432",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.21415725637808397
+  },
+  {
+    "code": "ES511",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7326432455039741
+  },
+  {
+    "code": "ES512",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.3945002091175239
+  },
+  {
+    "code": "ES513",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.3976578837306597
+  },
+  {
+    "code": "ES514",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.281785863655374
+  },
+  {
+    "code": "ES521",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.123985780008365
+  },
+  {
+    "code": "ES522",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0450857381848599
+  },
+  {
+    "code": "ES523",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.191614387285655
+  },
+  {
+    "code": "ES531",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0450857381848599
+  },
+  {
+    "code": "ES532",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.371957340025094
+  },
+  {
+    "code": "ES533",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.02254286909243
+  },
+  {
+    "code": "ES611",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0676286072772898
+  },
+  {
+    "code": "ES612",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.743914680050188
+  },
+  {
+    "code": "ES613",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.9017147636971969
+  },
+  {
+    "code": "ES614",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.78900041823505
+  },
+  {
+    "code": "ES615",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.23670012547051397
+  },
+  {
+    "code": "ES616",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.21415725637808397
+  },
+  {
+    "code": "ES617",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.428314512756169
+  },
+  {
+    "code": "ES618",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.5780008364700902
+  },
+  {
+    "code": "ES620",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.563571727310751
+  },
+  {
+    "code": "ES630",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES640",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES703",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES704",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES705",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES706",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES707",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES708",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ES709",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FI193",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.402663115845539
+  },
+  {
+    "code": "FI194",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.9685752330226298
+  },
+  {
+    "code": "FI195",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.14087882822903
+  },
+  {
+    "code": "FI196",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.47643142476698
+  },
+  {
+    "code": "FI197",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.47643142476698
+  },
+  {
+    "code": "FI1B1",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.52117177097204
+  },
+  {
+    "code": "FI1C1",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.0647137150466097
+  },
+  {
+    "code": "FI1C2",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.00665778961385
+  },
+  {
+    "code": "FI1C3",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7158455392809591
+  },
+  {
+    "code": "FI1C4",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7605858854860191
+  },
+  {
+    "code": "FI1C5",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.26844207723036
+  },
+  {
+    "code": "FI1D1",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.35792276964047903
+  },
+  {
+    "code": "FI1D2",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7158455392809591
+  },
+  {
+    "code": "FI1D3",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.335552596537949
+  },
+  {
+    "code": "FI1D4",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0671105193075898
+  },
+  {
+    "code": "FI1D5",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.24607190412782895
+  },
+  {
+    "code": "FI1D6",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.18561917443409
+  },
+  {
+    "code": "FI1D7",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0223701731025299
+  },
+  {
+    "code": "FI200",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0671105193075898
+  },
+  {
+    "code": "FR101",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FR102",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 4.57880559985822
+  },
+  {
+    "code": "FR103",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.23661173134857
+  },
+  {
+    "code": "FR104",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.3368775474038601
+  },
+  {
+    "code": "FR105",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FR106",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FR107",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FR108",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.835548467127415
+  },
+  {
+    "code": "FR211",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.4063795853269503
+  },
+  {
+    "code": "FR212",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.4090377458798504
+  },
+  {
+    "code": "FR213",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 7.28598263335106
+  },
+  {
+    "code": "FR214",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.3756158071947597
+  },
+  {
+    "code": "FR221",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 6.14963671805777
+  },
+  {
+    "code": "FR222",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 5.548041821726019
+  },
+  {
+    "code": "FR223",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 7.01860712387028
+  },
+  {
+    "code": "FR231",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 4.71249335459862
+  },
+  {
+    "code": "FR232",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.9772107035265
+  },
+  {
+    "code": "FR241",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 4.41169590643275
+  },
+  {
+    "code": "FR242",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 7.55335814283182
+  },
+  {
+    "code": "FR243",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.87694488747121
+  },
+  {
+    "code": "FR244",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.57614743930534
+  },
+  {
+    "code": "FR245",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 4.0106326422116
+  },
+  {
+    "code": "FR246",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 4.61222753854332
+  },
+  {
+    "code": "FR251",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.87428672691831
+  },
+  {
+    "code": "FR252",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.7045188729399199
+  },
+  {
+    "code": "FR253",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.73794081162502
+  },
+  {
+    "code": "FR261",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.9772107035265
+  },
+  {
+    "code": "FR262",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.9384724437356
+  },
+  {
+    "code": "FR263",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.23661173134857
+  },
+  {
+    "code": "FR264",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 6.249902534113059
+  },
+  {
+    "code": "FR301",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.84352294878611
+  },
+  {
+    "code": "FR302",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 5.9156831472621
+  },
+  {
+    "code": "FR411",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.30611376927166
+  },
+  {
+    "code": "FR412",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.77667907141591
+  },
+  {
+    "code": "FR413",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.54006734006735
+  },
+  {
+    "code": "FR414",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.1697678539783798
+  },
+  {
+    "code": "FR421",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.6015948963317379
+  },
+  {
+    "code": "FR422",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.43448520290625603
+  },
+  {
+    "code": "FR431",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0668438773701931
+  },
+  {
+    "code": "FR432",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.5347510189615461
+  },
+  {
+    "code": "FR433",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.8716285663654098
+  },
+  {
+    "code": "FR434",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0668438773701931
+  },
+  {
+    "code": "FR511",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.0387382597909
+  },
+  {
+    "code": "FR512",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.0387382597909
+  },
+  {
+    "code": "FR513",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.6737550948077202
+  },
+  {
+    "code": "FR514",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.64033315612262
+  },
+  {
+    "code": "FR515",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.23926989190146
+  },
+  {
+    "code": "FR521",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.3756158071947597
+  },
+  {
+    "code": "FR522",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.07216019847599
+  },
+  {
+    "code": "FR523",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.0748183590288902
+  },
+  {
+    "code": "FR524",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.2700336700336698
+  },
+  {
+    "code": "FR531",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.17242601453127
+  },
+  {
+    "code": "FR532",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 4.41169590643275
+  },
+  {
+    "code": "FR533",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.9772107035265
+  },
+  {
+    "code": "FR534",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 4.54538366117313
+  },
+  {
+    "code": "FR611",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.50132908027645
+  },
+  {
+    "code": "FR612",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33421938685096597
+  },
+  {
+    "code": "FR613",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.10026581605528999
+  },
+  {
+    "code": "FR614",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.9384724437356
+  },
+  {
+    "code": "FR615",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.16710969342548299
+  },
+  {
+    "code": "FR621",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.30079744816587
+  },
+  {
+    "code": "FR622",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.1697678539783798
+  },
+  {
+    "code": "FR623",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.7740209108630096
+  },
+  {
+    "code": "FR624",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.64299131667552
+  },
+  {
+    "code": "FR625",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.36764132553606205
+  },
+  {
+    "code": "FR626",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.16710969342548299
+  },
+  {
+    "code": "FR627",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.17242601453127
+  },
+  {
+    "code": "FR628",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.9692362218678009
+  },
+  {
+    "code": "FR631",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.30079744816587
+  },
+  {
+    "code": "FR632",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.9023923444976071
+  },
+  {
+    "code": "FR633",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.635016835016836
+  },
+  {
+    "code": "FR711",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.10292397660819
+  },
+  {
+    "code": "FR712",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.16710969342548299
+  },
+  {
+    "code": "FR713",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.2700336700336698
+  },
+  {
+    "code": "FR714",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.03608009923799
+  },
+  {
+    "code": "FR715",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.6684387737019319
+  },
+  {
+    "code": "FR716",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.5347510189615461
+  },
+  {
+    "code": "FR717",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.20053163211057998
+  },
+  {
+    "code": "FR718",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.23395357079567602
+  },
+  {
+    "code": "FR721",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.07216019847599
+  },
+  {
+    "code": "FR722",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.20053163211057998
+  },
+  {
+    "code": "FR723",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8021265284423169
+  },
+  {
+    "code": "FR724",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.30345560871877
+  },
+  {
+    "code": "FR811",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.10292397660819
+  },
+  {
+    "code": "FR812",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.36764132553606205
+  },
+  {
+    "code": "FR813",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.10026581605528999
+  },
+  {
+    "code": "FR814",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.26737550948077204
+  },
+  {
+    "code": "FR815",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0668438773701931
+  },
+  {
+    "code": "FR821",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.5681729576466421
+  },
+  {
+    "code": "FR822",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.10026581605528999
+  },
+  {
+    "code": "FR823",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FR824",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.5347510189615461
+  },
+  {
+    "code": "FR825",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0334219386850966
+  },
+  {
+    "code": "FR826",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.13368775474038602
+  },
+  {
+    "code": "FR831",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FR832",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FRA10",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FRA20",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FRA30",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FRA40",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "FRA50",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "HR031",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "HR032",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.028169014084507005
+  },
+  {
+    "code": "HR033",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "HR034",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "HR035",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "HR036",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0845070422535212
+  },
+  {
+    "code": "HR037",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "HR041",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "HR042",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.140845070422535
+  },
+  {
+    "code": "HR043",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.11267605633802802
+  },
+  {
+    "code": "HR044",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.11267605633802802
+  },
+  {
+    "code": "HR045",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.25352112676056304
+  },
+  {
+    "code": "HR046",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.140845070422535
+  },
+  {
+    "code": "HR047",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33802816901408395
+  },
+  {
+    "code": "HR048",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.11267605633802802
+  },
+  {
+    "code": "HR049",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.33802816901408395
+  },
+  {
+    "code": "HR04A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.422535211267604
+  },
+  {
+    "code": "HR04B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.29577464788732
+  },
+  {
+    "code": "HR04C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.47887323943662
+  },
+  {
+    "code": "HR04D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "HR04E",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.140845070422535
+  },
+  {
+    "code": "HU101",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "HU102",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.89408450704225
+  },
+  {
+    "code": "HU211",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.7554929577464802
+  },
+  {
+    "code": "HU212",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.600563380281691
+  },
+  {
+    "code": "HU213",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.57070422535211
+  },
+  {
+    "code": "HU221",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.35605633802817
+  },
+  {
+    "code": "HU222",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.57070422535211
+  },
+  {
+    "code": "HU223",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.15492957746479
+  },
+  {
+    "code": "HU231",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.5245070422535199
+  },
+  {
+    "code": "HU232",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.21746478873239
+  },
+  {
+    "code": "HU233",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.2473239436619699
+  },
+  {
+    "code": "HU311",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.57070422535211
+  },
+  {
+    "code": "HU312",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8777464788732401
+  },
+  {
+    "code": "HU313",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.3695774647887321
+  },
+  {
+    "code": "HU321",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.6630985915493
+  },
+  {
+    "code": "HU322",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.9566197183098595
+  },
+  {
+    "code": "HU323",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.646760563380281
+  },
+  {
+    "code": "HU331",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.18760563380282
+  },
+  {
+    "code": "HU332",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.37239436619719
+  },
+  {
+    "code": "HU333",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.2636619718309903
+  },
+  {
+    "code": "IE011",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "IE012",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "IE013",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "IE021",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "IE022",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "IE023",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "IE024",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "IE025",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITC11",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.32136550912301504
+  },
+  {
+    "code": "ITC12",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0321365509123015
+  },
+  {
+    "code": "ITC13",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITC14",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITC15",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0482048263684519
+  },
+  {
+    "code": "ITC16",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.337433784579165
+  },
+  {
+    "code": "ITC17",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.128546203649205
+  },
+  {
+    "code": "ITC18",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.546321365509123
+  },
+  {
+    "code": "ITC20",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITC31",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITC32",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITC33",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITC34",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITC41",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0160682754561507
+  },
+  {
+    "code": "ITC42",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0160682754561507
+  },
+  {
+    "code": "ITC43",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITC44",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITC46",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0482048263684519
+  },
+  {
+    "code": "ITC47",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0964096527369041
+  },
+  {
+    "code": "ITC48",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.17675103001765802
+  },
+  {
+    "code": "ITC49",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0321365509123015
+  },
+  {
+    "code": "ITC4A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.20888758092995896
+  },
+  {
+    "code": "ITC4B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.465979988228369
+  },
+  {
+    "code": "ITC4C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.112477928193055
+  },
+  {
+    "code": "ITC4D",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0803413772807534
+  },
+  {
+    "code": "ITF11",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.128546203649205
+  },
+  {
+    "code": "ITF12",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.19281930547380802
+  },
+  {
+    "code": "ITF13",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0803413772807534
+  },
+  {
+    "code": "ITF14",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.289228958210712
+  },
+  {
+    "code": "ITF21",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0321365509123015
+  },
+  {
+    "code": "ITF22",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.9962330782813421
+  },
+  {
+    "code": "ITF31",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0964096527369041
+  },
+  {
+    "code": "ITF32",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.449911712772219
+  },
+  {
+    "code": "ITF33",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITF34",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.6266627427898771
+  },
+  {
+    "code": "ITF35",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0642731018246027
+  },
+  {
+    "code": "ITF43",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.25709240729841104
+  },
+  {
+    "code": "ITF44",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.128546203649205
+  },
+  {
+    "code": "ITF45",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.160682754561507
+  },
+  {
+    "code": "ITF46",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.29776339022955
+  },
+  {
+    "code": "ITF47",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.594526191877576
+  },
+  {
+    "code": "ITF48",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.305297233666862
+  },
+  {
+    "code": "ITF51",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.3658034137728101
+  },
+  {
+    "code": "ITF52",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.674867569158327
+  },
+  {
+    "code": "ITF61",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0964096527369041
+  },
+  {
+    "code": "ITF62",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0160682754561507
+  },
+  {
+    "code": "ITF63",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0642731018246027
+  },
+  {
+    "code": "ITF64",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0321365509123015
+  },
+  {
+    "code": "ITF65",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0160682754561507
+  },
+  {
+    "code": "ITG11",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.273160682754561
+  },
+  {
+    "code": "ITG12",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.803413772807534
+  },
+  {
+    "code": "ITG13",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0482048263684519
+  },
+  {
+    "code": "ITG14",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.6266627427898771
+  },
+  {
+    "code": "ITG15",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.48204826368451903
+  },
+  {
+    "code": "ITG16",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.4981165391406721
+  },
+  {
+    "code": "ITG17",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.449911712772219
+  },
+  {
+    "code": "ITG18",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.19281930547380802
+  },
+  {
+    "code": "ITG19",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.160682754561507
+  },
+  {
+    "code": "ITG25",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.224955856386109
+  },
+  {
+    "code": "ITG26",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0321365509123015
+  },
+  {
+    "code": "ITG27",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.160682754561507
+  },
+  {
+    "code": "ITG28",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.19281930547380802
+  },
+  {
+    "code": "ITG29",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0321365509123015
+  },
+  {
+    "code": "ITG2A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITG2B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.19281930547380802
+  },
+  {
+    "code": "ITG2C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0642731018246027
+  },
+  {
+    "code": "ITH10",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITH20",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITH31",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.25709240729841104
+  },
+  {
+    "code": "ITH32",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0803413772807534
+  },
+  {
+    "code": "ITH33",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0160682754561507
+  },
+  {
+    "code": "ITH34",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.17675103001765802
+  },
+  {
+    "code": "ITH35",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.25709240729841104
+  },
+  {
+    "code": "ITH36",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.273160682754561
+  },
+  {
+    "code": "ITH37",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.449911712772219
+  },
+  {
+    "code": "ITH41",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.128546203649205
+  },
+  {
+    "code": "ITH42",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.128546203649205
+  },
+  {
+    "code": "ITH43",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0321365509123015
+  },
+  {
+    "code": "ITH44",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITH51",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.32136550912301504
+  },
+  {
+    "code": "ITH52",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.32136550912301504
+  },
+  {
+    "code": "ITH53",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.128546203649205
+  },
+  {
+    "code": "ITH54",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.337433784579165
+  },
+  {
+    "code": "ITH55",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8194820482636841
+  },
+  {
+    "code": "ITH56",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8194820482636841
+  },
+  {
+    "code": "ITH57",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.514184814596823
+  },
+  {
+    "code": "ITH58",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.289228958210712
+  },
+  {
+    "code": "ITH59",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.160682754561507
+  },
+  {
+    "code": "ITI11",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITI12",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITI13",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITI14",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.224955856386109
+  },
+  {
+    "code": "ITI15",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "ITI16",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0642731018246027
+  },
+  {
+    "code": "ITI17",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.305297233666862
+  },
+  {
+    "code": "ITI18",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0964096527369041
+  },
+  {
+    "code": "ITI19",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.465979988228369
+  },
+  {
+    "code": "ITI1A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.69093584461448
+  },
+  {
+    "code": "ITI21",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.578457916421423
+  },
+  {
+    "code": "ITI22",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.144614479105356
+  },
+  {
+    "code": "ITI31",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.514184814596823
+  },
+  {
+    "code": "ITI32",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.514184814596823
+  },
+  {
+    "code": "ITI33",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.610594467333726
+  },
+  {
+    "code": "ITI34",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0803413772807534
+  },
+  {
+    "code": "ITI35",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.17675103001765802
+  },
+  {
+    "code": "ITI41",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.787345497351384
+  },
+  {
+    "code": "ITI42",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0642731018246027
+  },
+  {
+    "code": "ITI43",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.224955856386109
+  },
+  {
+    "code": "ITI44",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0964096527369041
+  },
+  {
+    "code": "ITI45",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0803413772807534
+  },
+  {
+    "code": "LT001",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.896750902527075
+  },
+  {
+    "code": "LT002",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.45631768953068
+  },
+  {
+    "code": "LT003",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8772563176895308
+  },
+  {
+    "code": "LT004",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.83249097472924
+  },
+  {
+    "code": "LT005",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.78772563176895
+  },
+  {
+    "code": "LT006",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 3.45054151624549
+  },
+  {
+    "code": "LT007",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.7407942238267149
+  },
+  {
+    "code": "LT008",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.818772563176896
+  },
+  {
+    "code": "LT009",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.818772563176896
+  },
+  {
+    "code": "LT00A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.5205776173285201
+  },
+  {
+    "code": "LU000",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.2
+  },
+  {
+    "code": "LV003",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.6790606653620401
+  },
+  {
+    "code": "LV005",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.29745596868884
+  },
+  {
+    "code": "LV006",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "LV007",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.94637964774951
+  },
+  {
+    "code": "LV008",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.38904109589041
+  },
+  {
+    "code": "LV009",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.4880626223092004
+  },
+  {
+    "code": "MT001",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "MT002",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": NaN
+  },
+  {
+    "code": "NL111",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.252
+  },
+  {
+    "code": "NL112",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0720000000000001
+  },
+  {
+    "code": "NL113",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.30599999999999894
+  },
+  {
+    "code": "NL121",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0720000000000001
+  },
+  {
+    "code": "NL122",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL123",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL131",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0899999999999999
+  },
+  {
+    "code": "NL132",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0899999999999999
+  },
+  {
+    "code": "NL133",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL211",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0359999999999999
+  },
+  {
+    "code": "NL212",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL213",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL221",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.018000000000000002
+  },
+  {
+    "code": "NL224",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0720000000000001
+  },
+  {
+    "code": "NL225",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.054000000000000006
+  },
+  {
+    "code": "NL226",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.054000000000000006
+  },
+  {
+    "code": "NL230",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.23399999999999999
+  },
+  {
+    "code": "NL310",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL321",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0359999999999999
+  },
+  {
+    "code": "NL322",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL323",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL324",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL325",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL326",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.054000000000000006
+  },
+  {
+    "code": "NL327",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL332",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL333",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL337",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL338",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL339",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.23399999999999999
+  },
+  {
+    "code": "NL33A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.018000000000000002
+  },
+  {
+    "code": "NL341",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.28800000000000103
+  },
+  {
+    "code": "NL342",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.35999999999999893
+  },
+  {
+    "code": "NL411",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.14400000000000002
+  },
+  {
+    "code": "NL412",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.054000000000000006
+  },
+  {
+    "code": "NL413",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.054000000000000006
+  },
+  {
+    "code": "NL414",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0
+  },
+  {
+    "code": "NL421",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0359999999999999
+  },
+  {
+    "code": "NL422",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0359999999999999
+  },
+  {
+    "code": "NL423",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0359999999999999
+  },
+  {
+    "code": "PL113",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0255701115963125
+  },
+  {
+    "code": "PL114",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.8182435710819991
+  },
+  {
+    "code": "PL115",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.5086365841824299
+  },
+  {
+    "code": "PL116",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.76157205240175
+  },
+  {
+    "code": "PL117",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.12231926249394
+  },
+  {
+    "code": "PL127",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.0255701115963125
+  },
+  {
+    "code": "PL128",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.30131004366812
+  },
+  {
+    "code": "PL129",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.5086365841824299
+  },
+  {
+    "code": "PL12A",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 0.9972343522561871
+  },
+  {
+    "code": "PL12B",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 2.6592916060165
+  },
+  {
+    "code": "PL12C",
+    "source": "cereal.straw",
+    "unit": "PetaJoule",
+    "value": 1.20179524502669
+  }
+]
