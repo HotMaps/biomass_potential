@@ -165,7 +165,7 @@ INPUTS_CALCULATION_MODULE = [
 
 SIGNATURE = {
     "category": "Supply",
-    "authorized_scale": ["NUTS3", "NUTS2", "NUTS1", "NUTS0"],
+    "authorized_scale": ["NUTS 3", "NUTS 2", "NUTS 1", "NUTS 0"],
     "cm_name": CM_NAME,
     "layers_needed": [
         # https://github.com/HotMaps/Hotmaps-toolbox-service/blob/master/api/app/models/indicators.py
