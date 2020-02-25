@@ -1,21 +1,25 @@
-from osgeo import gdal
-
-from ..helper import generate_output_file_tif, create_zip_shapefiles
-from ..constant import CM_NAME
-import time
 import json
-
+import logging
 from pprint import pprint
 
 import pandas as pd
-
 from pint import UnitRegistry
 
+from ..constant import CM_NAME
 
+
+# set a logger
+LOG_FORMAT = ('%(levelname) -10s %(asctime)s %(name) -30s %(funcName) '
+              '-35s %(lineno) -5d: %(message)s')
+logging.basicConfig(format=LOG_FORMAT)
+LOGGER = logging.getLogger(__name__)
+LOGGER.setLevel("DEBUG")
+
+# set a unit register to convert between units
 ureg = UnitRegistry()
 
 """ Entry point of the calculation module function"""
-
+# store vector layer names in global variables
 WASTE = "potential_municipal_solid_waste"
 AGRIC = "agricultural_residues_view"
 LVSTK = "livestock_effluents_view"
@@ -28,6 +32,7 @@ def check_eff(type_eff, collecting_eff, heat_eff, el_eff, warnings=None):
         msg = (
             "The efficiency in collecting {type_eff} " "is not between 0 and 100"
         ).format(type_eff=type_eff)
+        LOGGER.warning(msg)
         warnings.append(msg)
     if heat_eff + el_eff > 1:
         msg = (
@@ -35,11 +40,16 @@ def check_eff(type_eff, collecting_eff, heat_eff, el_eff, warnings=None):
             "electricity from {type_eff}, "
             "exceed 100."
         ).format(type_eff=type_eff)
+        LOGGER.warning(msg)
     return warnings
 
 
 def apply_efficiency(energy, collecting_eff, heat_eff, el_eff):
-    return (energy * collecting_eff * heat_eff, energy * collecting_eff * el_eff)
+    res = (energy * collecting_eff * heat_eff, energy * collecting_eff * el_eff)
+    LOGGER.info("heat = (energy * collecting_eff * heat_eff)\n"
+                f"heat = ({energy} * {collecting_eff} * {heat_eff}) = {res[0]}\n"
+                "elec = (energy * collecting_eff * el_eff)\n"
+                f"elec = ({energy} * {collecting_eff} * {el_eff}) = {res[1]}")
 
 
 def calculation(
@@ -54,6 +64,7 @@ def calculation(
     # forset biomass: code	source	value	note	unit
     # agricolture:    code	source	value	note	unit
     # solid_waste:    code	source	value	note	unit
+    LOGGER.info("Start reading input json strings.")
     waste = pd.read_json(json.dumps(inputs_vector_selection[WASTE]), orient="records")
     agric = pd.read_json(json.dumps(inputs_vector_selection[AGRIC]), orient="records")
     lvstk = pd.read_json(json.dumps(inputs_vector_selection[LVSTK]), orient="records")
@@ -61,6 +72,7 @@ def calculation(
 
     # convert str to float
     psel = {k: float(v) / 100.0 for k, v in inputs_parameter_selection.items()}
+    LOGGER.info(f"Selected parameters: {psel}")
     """
 {'agricultural_residues_view': [{'code': 'AT111',
                                  'source': 'cereal.straw',
@@ -100,8 +112,12 @@ def calculation(
     heats, els = [], []
     for df, (coll_perc, heat_eff, el_eff) in zip((waste, agric, forst, lvstk), keys):
         val = df.value.sum()
-        # TODO: check if there are more than one unit
-        unit = df.unit.drop_duplicates()[0]
+        units = df.unit.drop_duplicates()
+        if len(units) > 1:
+            LOGGER.warnings(f"More than one unit found: {units} "
+                            "only the first will be used.")
+            # TODO: In case of more units do something to handle this case
+        unit = [0]
         if unit == "PetaJoule":
             unit = "PJ"
         val = ureg.Quantity(val, ureg.parse_units(unit))
@@ -131,7 +147,7 @@ def calculation(
             ),
         )
     ]
-
+    LOGGER.info(f"Computation graphics for biomass is: {graphics}")
     result = dict()
     result["name"] = CM_NAME
     result["indicator"] = [{"unit": "-", "name": msg, "value": 0} for msg in warnings]
@@ -139,4 +155,5 @@ def calculation(
     result["vector_layers"] = []
     result["raster_layers"] = []
     pprint(result)
+    LOGGER.info(f"Computation result for biomass is: {result}")
     return result
