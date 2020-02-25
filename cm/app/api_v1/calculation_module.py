@@ -50,6 +50,7 @@ def apply_efficiency(energy, collecting_eff, heat_eff, el_eff):
                 f"heat = ({energy} * {collecting_eff} * {heat_eff}) = {res[0]}\n"
                 "elec = (energy * collecting_eff * el_eff)\n"
                 f"elec = ({energy} * {collecting_eff} * {el_eff}) = {res[1]}")
+    return res
 
 
 def calculation(
