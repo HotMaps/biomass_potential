@@ -118,7 +118,7 @@ def calculation(
             LOGGER.warnings(f"More than one unit found: {units} "
                             "only the first will be used.")
             # TODO: In case of more units do something to handle this case
-        unit = [0]
+        unit = units[0]
         if unit == "PetaJoule":
             unit = "PJ"
         val = ureg.Quantity(val, ureg.parse_units(unit))
