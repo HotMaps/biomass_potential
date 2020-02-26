@@ -151,10 +151,11 @@ def calculation(
     LOGGER.info(f"Computation graphics for biomass is: {graphics}")
     result = dict()
     result["name"] = CM_NAME
-    result["indicator"] = [{"unit": "-", "name": msg, "value": 0} for msg in warnings]
+    if len(warnings) > 0:
+        result["indicator"] = [{"unit": "-", "name": msg, "value": 0} for msg in warnings]
     result["graphics"] = graphics
-    result["vector_layers"] = []
-    result["raster_layers"] = []
+    #result["vector_layers"] = []
+    #result["raster_layers"] = []
     pprint(result)
     LOGGER.info(f"Computation result for biomass is: {result}")
     return result
