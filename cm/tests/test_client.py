@@ -7,7 +7,7 @@ except ImportError:
     from urlparse import urlparse, urlsplit, urlunsplit
 
 
-class TestClient:
+class TestClient():
     def __init__(self, app):
         self.app = app
 
