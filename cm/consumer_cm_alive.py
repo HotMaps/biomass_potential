@@ -8,7 +8,7 @@ LOG_FORMAT = ('%(levelname) -10s %(asctime)s %(name) -30s %(funcName) '
               '-35s %(lineno) -5d: %(message)s')
 logging.basicConfig(format=LOG_FORMAT)
 LOGGER = logging.getLogger(__name__)
-LOGGER.setLevel("DEBUG")
+# LOGGER.setLevel("DEBUG")
 
 queue_name =  RPC_CM_ALIVE + str(CM_ID)
 parameters = pika.URLParameters(str(CELERY_BROKER_URL))
