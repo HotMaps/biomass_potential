@@ -131,13 +131,13 @@ def compute():
     #TODO CM Developper do not need to change anything here
     # here is the inputs layers and parameters
     inputs_raster_selection = helper.validateJSON(data["inputs_raster_selection"])
-    LOGGER.info('inputs_raster_selection', inputs_raster_selection)
+    LOGGER.info(f"inputs_raster_selection {inputs_raster_selection}")
 
     inputs_parameter_selection = helper.validateJSON(data["inputs_parameter_selection"])
-    LOGGER.info('inputs_parameter_selection', inputs_parameter_selection)
+    LOGGER.info(f"inputs_parameter_selection {inputs_parameter_selection}")
 
     inputs_vector_selection = helper.validateJSON(data["inputs_vector_selection"])
-    LOGGER.info('inputs_vector_selection', inputs_vector_selection)
+    LOGGER.info(f"inputs_vector_selection {inputs_vector_selection}")
 
     output_directory = UPLOAD_DIRECTORY
     # call the calculation module function
@@ -151,10 +151,10 @@ def compute():
 
 
     }
-    LOGGER.info("type response ",type(response))
+    LOGGER.info(f"type response {type(response)}")
     # convert response dict to json
     response = json.dumps(response)
-    LOGGER.info('response', response)
+    LOGGER.info(f"response {response}")
     return response
 
 
