@@ -173,7 +173,8 @@ SIGNATURE = {
     "type_layer_needed": [],
     "vectors_needed": [
         "potential_municipal_solid_waste",
-        "agricultural_residues_view",
+        # TODO: uncomment the line below when the layer is integrated
+        # "agricultural_residues_view",
         "livestock_effluents_view",
         "potential_forest",
     ],

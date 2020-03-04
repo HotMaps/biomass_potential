@@ -1,6 +1,10 @@
 import json
 import logging
+import pathlib
 from pprint import pprint
+
+import tempfile
+import urllib.request
 
 import pandas as pd
 from pint import UnitRegistry
@@ -53,6 +57,34 @@ def apply_efficiency(energy, collecting_eff, heat_eff, el_eff):
     return res
 
 
+def get_agric_data():
+    """Retrieve/read agricultural residues data"""
+    # TODO: once the dataset is integrated remove this function
+    def read_csv(csvpath):
+        try:
+            return pd.read_csv(csvpath, header=0, index_col=0)
+        except Exception as exc:
+            LOGGER.exception(f"Failed to read: {csvpath} >> "
+                             f"exception = {exc}")
+            raise exc
+
+    # check if the file exists and in case download
+    agripath = pathlib.Path(tempfile.gettempdir(), "agricultural_residues.csv")
+    if agripath.exists():
+        return read_csv(agripath)
+    else:
+        url = ("https://gitlab.com/hotmaps/potential/potential_biomass/-/"
+               "raw/master/data/agricultural_residues.csv?inline=false")
+        agrifile, headers = urllib.request.urlretrieve(url, 
+                                                       filename=agripath)
+        try:
+            return read_csv(agripath)
+        except Exception as exc:
+            LOGGER.exception(f"Failed to read: {agripath} the file "
+                             f"has not been downloaded correctly from {url}.")
+            raise exc
+
+
 def calculation(
     output_directory,
     inputs_raster_selection,
@@ -60,6 +92,12 @@ def calculation(
     inputs_parameter_selection,
 ):
     # retrieve the inputs layes
+    # TODO: the part in >>>>> {part} <<<<< have to be removed as soon as the layer
+    # on agricurltural residues is integrated.
+    # >>>>>
+    # we need to retrieve the agricultural residues dataset
+    agric = get_agric_data()
+    # <<<<<
 
     # livestock:      code	source	value	note	unit
     # forset biomass: code	source	value	note	unit
@@ -67,7 +105,8 @@ def calculation(
     # solid_waste:    code	source	value	note	unit
     LOGGER.info("Start reading input json strings.")
     waste = pd.read_json(json.dumps(inputs_vector_selection[WASTE]), orient="records")
-    agric = pd.read_json(json.dumps(inputs_vector_selection[AGRIC]), orient="records")
+    # TODO: uncomment the line bellow as soon as the layer it is available on the datawarehouse
+    # agric = pd.read_json(json.dumps(inputs_vector_selection[AGRIC]), orient="records")
     lvstk = pd.read_json(json.dumps(inputs_vector_selection[LVSTK]), orient="records")
     forst = pd.read_json(json.dumps(inputs_vector_selection[FORST]), orient="records")
 
@@ -118,7 +157,7 @@ def calculation(
             LOGGER.warnings(f"More than one unit found: {units} "
                             "only the first will be used.")
             # TODO: In case of more units do something to handle this case
-        unit = units[0]
+        unit = units.iloc[0]
         if unit == "PetaJoule":
             unit = "PJ"
         val = ureg.Quantity(val, ureg.parse_units(unit))
