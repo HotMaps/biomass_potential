@@ -22,3 +22,5 @@ python-dateutil
 requests>=2.20.0
 scipy
 six==1.11.0
+
+git+https://github.com/HotMaps/resutils.git

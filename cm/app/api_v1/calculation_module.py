@@ -6,8 +6,11 @@ from pprint import pprint
 import tempfile
 import urllib.request
 
+import numpy as np
 import pandas as pd
 from pint import UnitRegistry
+
+import resutils.unit as ru
 
 from ..constant import CM_NAME
 
@@ -171,28 +174,39 @@ def calculation(
         unit = units.iloc[0]
         if unit == "PetaJoule":
             unit = "PJ"
+        out_unit = "MWh"
         val = ureg.Quantity(val, ureg.parse_units(unit))
-        val = val.to("MWh").magnitude
+        val = val.to(out_unit).magnitude
         heat, el = apply_efficiency(val, psel[coll_perc], psel[heat_eff], psel[el_eff])
         heats.append(heat)
         els.append(el)
+
+    array = np.array(heats + els)
+    _, graph_unit, graph_factor = ru.best_unit(
+            array, out_unit, no_data=0, fstat=np.median, powershift=0
+    )
+    LOGGER.info(f"Moving from {out_unit} to {graph_unit} "
+                "to improve the visualization")
+    heats_l = list(np.array(heats) * graph_factor)
+    els_l = list(np.array(els) * graph_factor)
     color_h = "#3e95cd"
     color_e = "#8e5ea2"
     graphics = [
         dict(
             type="bar",
+            yLabel=graph_unit,
             data=dict(
                 labels=labels,
                 datasets=[
                     dict(
                         label="Biomass heat potential",
                         backgroundColor=[color_h] * len(labels),
-                        data=heats,
+                        data=heats_l,
                     ),
                     dict(
                         label="Biomass electricity potential",
                         backgroundColor=[color_e] * len(labels),
-                        data=els,
+                        data=els_l,
                     ),
                 ],
             ),
