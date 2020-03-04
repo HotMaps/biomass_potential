@@ -29,6 +29,14 @@ AGRIC = "agricultural_residues_view"
 LVSTK = "livestock_effluents_view"
 FORST = "potential_forest"
 
+BASEURL = ("https://gitlab.com/hotmaps/potential/"
+           "{repo}/-/raw/master/data/{csv}?inline=false")
+
+URLS = {WASTE: dict(repo="potential_municipal_solid_waste", csv="solid_waste.csv"),
+        AGRIC: dict(repo="potential_biomass",  csv="agricultural_residues.csv"),
+        LVSTK: dict(repo="potential_biomass", csv="livestock_effluents.csv"),
+        FORST: dict(repo="potential_biomass", csv="forest_residues.csv")}
+
 
 def check_eff(type_eff, collecting_eff, heat_eff, el_eff, warnings=None):
     warnings = [] if warnings is None else warnings
@@ -57,7 +65,7 @@ def apply_efficiency(energy, collecting_eff, heat_eff, el_eff):
     return res
 
 
-def get_agric_data():
+def get_data(repo, csv):
     """Retrieve/read agricultural residues data"""
     # TODO: once the dataset is integrated remove this function
     def read_csv(csvpath):
@@ -69,18 +77,16 @@ def get_agric_data():
             raise exc
 
     # check if the file exists and in case download
-    agripath = pathlib.Path(tempfile.gettempdir(), "agricultural_residues.csv")
-    if agripath.exists():
-        return read_csv(agripath)
+    csvpath = pathlib.Path(tempfile.gettempdir(), csv)
+    if csvpath.exists():
+        return read_csv(csvpath)
     else:
-        url = ("https://gitlab.com/hotmaps/potential/potential_biomass/-/"
-               "raw/master/data/agricultural_residues.csv?inline=false")
-        agrifile, headers = urllib.request.urlretrieve(url, 
-                                                       filename=agripath)
+        url = BASEURL.format(repo=repo, csv=csv)
+        _ = urllib.request.urlretrieve(url, filename=csvpath)
         try:
-            return read_csv(agripath)
+            return read_csv(csvpath)
         except Exception as exc:
-            LOGGER.exception(f"Failed to read: {agripath} the file "
+            LOGGER.exception(f"Failed to read: {csvpath} the file "
                              f"has not been downloaded correctly from {url}.")
             raise exc
 
@@ -96,7 +102,10 @@ def calculation(
     # on agricurltural residues is integrated.
     # >>>>>
     # we need to retrieve the agricultural residues dataset
-    agric = get_agric_data()
+    waste = get_data(**URLS[WASTE])
+    agric = get_data(**URLS[AGRIC])
+    lvstk = get_data(**URLS[LVSTK])
+    forst = get_data(**URLS[FORST])
     # <<<<<
 
     # livestock:      code	source	value	note	unit
@@ -104,11 +113,13 @@ def calculation(
     # agricolture:    code	source	value	note	unit
     # solid_waste:    code	source	value	note	unit
     LOGGER.info("Start reading input json strings.")
-    waste = pd.read_json(json.dumps(inputs_vector_selection[WASTE]), orient="records")
     # TODO: uncomment the line bellow as soon as the layer it is available on the datawarehouse
+    # >>>>>
+    # waste = pd.read_json(json.dumps(inputs_vector_selection[WASTE]), orient="records")
     # agric = pd.read_json(json.dumps(inputs_vector_selection[AGRIC]), orient="records")
-    lvstk = pd.read_json(json.dumps(inputs_vector_selection[LVSTK]), orient="records")
-    forst = pd.read_json(json.dumps(inputs_vector_selection[FORST]), orient="records")
+    # lvstk = pd.read_json(json.dumps(inputs_vector_selection[LVSTK]), orient="records")
+    # forst = pd.read_json(json.dumps(inputs_vector_selection[FORST]), orient="records")
+    # <<<<<
 
     # convert str to float
     psel = {k: float(v) / 100.0 for k, v in inputs_parameter_selection.items()}

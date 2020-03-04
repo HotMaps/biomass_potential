@@ -172,11 +172,13 @@ SIGNATURE = {
     ],
     "type_layer_needed": [],
     "vectors_needed": [
-        "potential_municipal_solid_waste",
         # TODO: uncomment the line below when the layer is integrated
+        # >>>>>
+        # "potential_municipal_solid_waste",
         # "agricultural_residues_view",
-        "livestock_effluents_view",
-        "potential_forest",
+        # "livestock_effluents_view",
+        # "potential_forest",
+        # <<<<<
     ],
     "cm_url": "Do not add something",
     "cm_description": "this computation module allows to divide the HDM",
