@@ -181,14 +181,27 @@ def calculation(
         heats.append(heat)
         els.append(el)
 
+    hres = np.array(heats)
+    eres = np.array(els)
+    
     array = np.array(heats + els)
     _, graph_unit, graph_factor = ru.best_unit(
             array, out_unit, no_data=0, fstat=np.median, powershift=0
     )
     LOGGER.info(f"Moving from {out_unit} to {graph_unit} "
                 "to improve the visualization")
-    heats_l = list(np.array(heats) * graph_factor)
-    els_l = list(np.array(els) * graph_factor)
+    heats_l = list((hres * graph_factor).round(decimals=3))
+    els_l = list((eres * graph_factor).round(decimals=3))
+    
+    indicators = [
+            {"unit": graph_unit,
+             "name": "Total biomass heat energy potential",
+             "value": np.round(hres.sum() * graph_factor, decimals=1)},
+            {"unit": graph_unit,
+             "name": "Total biomass elettric energy potential",
+             "value": np.round(eres.sum() * graph_factor, decimals=1)}
+    ]
+    
     color_h = "#3e95cd"
     color_e = "#8e5ea2"
     graphics = [
@@ -215,8 +228,10 @@ def calculation(
     LOGGER.info(f"Computation graphics for biomass is: {graphics}")
     result = dict()
     result["name"] = CM_NAME
+    result["indicators"] = []
     if len(warnings) > 0:
-        result["indicator"] = [{"unit": "-", "name": msg, "value": 0} for msg in warnings]
+        result["indicators"].extend([{"unit": "-", "name": msg, "value": 0} for msg in warnings])
+    result["indicators"].extend(indicators)
     result["graphics"] = graphics
     #result["vector_layers"] = []
     #result["raster_layers"] = []
