@@ -31,7 +31,7 @@ INPUTS_CALCULATION_MODULE = [
         "input_parameter_name": "waste_coll_perc",
         "input_value": "90",
         "input_priority": 0,
-        "input_unit": "none",
+        "input_unit": "%",
         "input_min": 0,
         "input_max": 100,
         "cm_id": CM_ID,  # Do no change this value
@@ -42,7 +42,7 @@ INPUTS_CALCULATION_MODULE = [
         "input_parameter_name": "waste_heat_eff",
         "input_value": "50",
         "input_priority": 0,
-        "input_unit": "none",
+        "input_unit": "%",
         "input_min": 0,
         "input_max": 100,
         "cm_id": CM_ID,  # Do no change this value
@@ -53,7 +53,7 @@ INPUTS_CALCULATION_MODULE = [
         "input_parameter_name": "waste_el_eff",
         "input_value": "20",
         "input_priority": 0,
-        "input_unit": "none",
+        "input_unit": "%",
         "input_min": 0,
         "input_max": 100,
         "cm_id": CM_ID,  # Do no change this value
@@ -65,7 +65,7 @@ INPUTS_CALCULATION_MODULE = [
         "input_parameter_name": "agric_coll_perc",
         "input_value": "60",
         "input_priority": 0,
-        "input_unit": "none",
+        "input_unit": "%",
         "input_min": 0,
         "input_max": 100,
         "cm_id": CM_ID,  # Do no change this value
@@ -76,7 +76,7 @@ INPUTS_CALCULATION_MODULE = [
         "input_parameter_name": "agric_heat_eff",
         "input_value": "50",
         "input_priority": 0,
-        "input_unit": "none",
+        "input_unit": "%",
         "input_min": 0,
         "input_max": 100,
         "cm_id": CM_ID,  # Do no change this value
@@ -87,7 +87,7 @@ INPUTS_CALCULATION_MODULE = [
         "input_parameter_name": "agric_el_eff",
         "input_value": "20",
         "input_priority": 0,
-        "input_unit": "none",
+        "input_unit": "%",
         "input_min": 0,
         "input_max": 100,
         "cm_id": CM_ID,  # Do no change this value
@@ -99,7 +99,7 @@ INPUTS_CALCULATION_MODULE = [
         "input_parameter_name": "lvstk_coll_perc",
         "input_value": "50",
         "input_priority": 0,
-        "input_unit": "none",
+        "input_unit": "%",
         "input_min": 0,
         "input_max": 100,
         "cm_id": CM_ID,  # Do no change this value
@@ -110,7 +110,7 @@ INPUTS_CALCULATION_MODULE = [
         "input_parameter_name": "lvstk_heat_eff",
         "input_value": "50",
         "input_priority": 0,
-        "input_unit": "none",
+        "input_unit": "%",
         "input_min": 0,
         "input_max": 100,
         "cm_id": CM_ID,  # Do no change this value
@@ -121,7 +121,7 @@ INPUTS_CALCULATION_MODULE = [
         "input_parameter_name": "lvstk_el_eff",
         "input_value": "20",
         "input_priority": 0,
-        "input_unit": "none",
+        "input_unit": "%",
         "input_min": 0,
         "input_max": 100,
         "cm_id": CM_ID,  # Do no change this value
@@ -133,7 +133,7 @@ INPUTS_CALCULATION_MODULE = [
         "input_parameter_name": "forst_coll_perc",
         "input_value": "50",
         "input_priority": 0,
-        "input_unit": "none",
+        "input_unit": "%",
         "input_min": 0,
         "input_max": 100,
         "cm_id": CM_ID,  # Do no change this value
@@ -144,7 +144,7 @@ INPUTS_CALCULATION_MODULE = [
         "input_parameter_name": "forst_heat_eff",
         "input_value": "50",
         "input_priority": 0,
-        "input_unit": "none",
+        "input_unit": "%",
         "input_min": 0,
         "input_max": 100,
         "cm_id": CM_ID,  # Do no change this value
@@ -155,7 +155,7 @@ INPUTS_CALCULATION_MODULE = [
         "input_parameter_name": "forst_el_eff",
         "input_value": "20",
         "input_priority": 0,
-        "input_unit": "none",
+        "input_unit": "%",
         "input_min": 0,
         "input_max": 100,
         "cm_id": CM_ID,  # Do no change this value
