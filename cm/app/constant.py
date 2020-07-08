@@ -1,3 +1,5 @@
+import os
+
 CELERY_BROKER_URL_DOCKER = "amqp://admin:mypass@rabbit:5672/"
 CELERY_BROKER_URL_LOCAL = "amqp://localhost/"
 
@@ -162,6 +164,7 @@ INPUTS_CALCULATION_MODULE = [
     },
 ]
 
+WIKIURL = os.environ.get("WIKIURL", "https://wiki.hotmaps.hevs.ch/en/")
 
 SIGNATURE = {
     "category": "Supply",
@@ -183,5 +186,6 @@ SIGNATURE = {
     "cm_url": "Do not add something",
     "cm_description": "this computation module allows to divide the HDM",
     "cm_id": CM_ID,
+    "wiki_url": WIKIURL + "CM-Biomass-potential",
     "inputs_calculation_module": INPUTS_CALCULATION_MODULE,
 }
