@@ -164,7 +164,7 @@ INPUTS_CALCULATION_MODULE = [
     },
 ]
 
-WIKIURL = os.environ.get("WIKIURL", "https://wiki.hotmaps.hevs.ch/en/")
+WIKIURL = os.environ.get("WIKIURL", "https://wiki.hotmaps.eu/en/")
 
 SIGNATURE = {
     "category": "Supply",
@@ -184,7 +184,7 @@ SIGNATURE = {
         # <<<<<
     ],
     "cm_url": "Do not add something",
-    "cm_description": "this computation module allows to divide the HDM",
+    "cm_description": "This calculation module allows calculates the biomass potential in a selected area.",
     "cm_id": CM_ID,
     "wiki_url": WIKIURL + "CM-Biomass-potential",
     "inputs_calculation_module": INPUTS_CALCULATION_MODULE,
