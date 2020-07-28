@@ -4,7 +4,7 @@ import pathlib
 from pprint import pprint
 
 import tempfile
-import urllib.request
+from urllib.request import Request, urlopen 
 
 import numpy as np
 import pandas as pd
@@ -85,7 +85,10 @@ def get_data(repo, csv):
         return read_csv(csvpath)
     else:
         url = BASEURL.format(repo=repo, csv=csv)
-        _ = urllib.request.urlretrieve(url, filename=csvpath)
+        print(url)
+        req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with open(csvpath, mode="wb") as cfile:
+            cfile.write(urlopen(req).read())
         try:
             return read_csv(csvpath)
         except Exception as exc:
