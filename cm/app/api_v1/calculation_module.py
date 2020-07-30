@@ -4,7 +4,7 @@ import pathlib
 from pprint import pprint
 
 import tempfile
-from urllib.request import Request, urlopen 
+from urllib.request import Request, urlopen
 
 import numpy as np
 import pandas as pd
@@ -16,8 +16,10 @@ from ..constant import CM_NAME
 
 
 # set a logger
-LOG_FORMAT = ('%(levelname) -10s %(asctime)s %(name) -30s %(funcName) '
-              '-35s %(lineno) -5d: %(message)s')
+LOG_FORMAT = (
+    "%(levelname) -10s %(asctime)s %(name) -30s %(funcName) "
+    "-35s %(lineno) -5d: %(message)s"
+)
 logging.basicConfig(format=LOG_FORMAT)
 LOGGER = logging.getLogger(__name__)
 # LOGGER.setLevel("DEBUG")
@@ -32,13 +34,17 @@ AGRIC = "agricultural_residues_view"
 LVSTK = "livestock_effluents_view"
 FORST = "potential_forest"
 
-BASEURL = ("https://gitlab.com/hotmaps/potential/"
-           "{repo}/-/raw/master/data/{csv}?inline=false")
+BASEURL = (
+    "https://gitlab.com/hotmaps/potential/"
+    "{repo}/-/raw/master/data/{csv}?inline=false"
+)
 
-URLS = {WASTE: dict(repo="potential_municipal_solid_waste", csv="solid_waste.csv"),
-        AGRIC: dict(repo="potential_biomass",  csv="agricultural_residues.csv"),
-        LVSTK: dict(repo="potential_biomass", csv="livestock_effluents.csv"),
-        FORST: dict(repo="potential_biomass", csv="forest_residues.csv")}
+URLS = {
+    WASTE: dict(repo="potential_municipal_solid_waste", csv="solid_waste.csv"),
+    AGRIC: dict(repo="potential_biomass", csv="agricultural_residues.csv"),
+    LVSTK: dict(repo="potential_biomass", csv="livestock_effluents.csv"),
+    FORST: dict(repo="potential_biomass", csv="forest_residues.csv"),
+}
 
 
 def check_eff(type_eff, collecting_eff, heat_eff, el_eff, warnings=None):
@@ -61,10 +67,12 @@ def check_eff(type_eff, collecting_eff, heat_eff, el_eff, warnings=None):
 
 def apply_efficiency(energy, collecting_eff, heat_eff, el_eff):
     res = (energy * collecting_eff * heat_eff, energy * collecting_eff * el_eff)
-    LOGGER.info("heat = (energy * collecting_eff * heat_eff)\n"
-                f"heat = ({energy} * {collecting_eff} * {heat_eff}) = {res[0]}\n"
-                "elec = (energy * collecting_eff * el_eff)\n"
-                f"elec = ({energy} * {collecting_eff} * {el_eff}) = {res[1]}")
+    LOGGER.info(
+        "heat = (energy * collecting_eff * heat_eff)\n"
+        f"heat = ({energy} * {collecting_eff} * {heat_eff}) = {res[0]}\n"
+        "elec = (energy * collecting_eff * el_eff)\n"
+        f"elec = ({energy} * {collecting_eff} * {el_eff}) = {res[1]}"
+    )
     return res
 
 
@@ -75,8 +83,7 @@ def get_data(repo, csv):
         try:
             return pd.read_csv(csvpath, header=0, index_col=0)
         except Exception as exc:
-            LOGGER.exception(f"Failed to read: {csvpath} >> "
-                             f"exception = {exc}")
+            LOGGER.exception(f"Failed to read: {csvpath} >> " f"exception = {exc}")
             raise exc
 
     # check if the file exists and in case download
@@ -86,14 +93,16 @@ def get_data(repo, csv):
     else:
         url = BASEURL.format(repo=repo, csv=csv)
         print(url)
-        req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        req = Request(url, headers={"User-Agent": "Mozilla/5.0"})
         with open(csvpath, mode="wb") as cfile:
             cfile.write(urlopen(req).read())
         try:
             return read_csv(csvpath)
         except Exception as exc:
-            LOGGER.exception(f"Failed to read: {csvpath} the file "
-                             f"has not been downloaded correctly from {url}.")
+            LOGGER.exception(
+                f"Failed to read: {csvpath} the file "
+                f"has not been downloaded correctly from {url}."
+            )
             raise exc
 
 
@@ -171,8 +180,9 @@ def calculation(
         val = df.value.sum()
         units = df.unit.drop_duplicates()
         if len(units) > 1:
-            LOGGER.warnings(f"More than one unit found: {units} "
-                            "only the first will be used.")
+            LOGGER.warnings(
+                f"More than one unit found: {units} " "only the first will be used."
+            )
             # TODO: In case of more units do something to handle this case
         unit = units.iloc[0]
         if unit == "PetaJoule":
@@ -186,25 +196,30 @@ def calculation(
 
     hres = np.array(heats)
     eres = np.array(els)
-    
+
     array = np.array(heats + els)
     _, graph_unit, graph_factor = ru.best_unit(
-            array, out_unit, no_data=0, fstat=np.median, powershift=0
+        array, out_unit, no_data=0, fstat=np.median, powershift=0
     )
-    LOGGER.info(f"Moving from {out_unit} to {graph_unit} "
-                "to improve the visualization")
+    LOGGER.info(
+        f"Moving from {out_unit} to {graph_unit} " "to improve the visualization"
+    )
     heats_l = list((hres * graph_factor).round(decimals=3))
     els_l = list((eres * graph_factor).round(decimals=3))
-    
+
     indicators = [
-            {"unit": graph_unit,
-             "name": "Total biomass heat energy potential",
-             "value": np.round(hres.sum() * graph_factor, decimals=1)},
-            {"unit": graph_unit,
-             "name": "Total biomass elettric energy potential",
-             "value": np.round(eres.sum() * graph_factor, decimals=1)}
+        {
+            "unit": graph_unit,
+            "name": "Total biomass heat energy potential",
+            "value": np.round(hres.sum() * graph_factor, decimals=1),
+        },
+        {
+            "unit": graph_unit,
+            "name": "Total biomass elettric energy potential",
+            "value": np.round(eres.sum() * graph_factor, decimals=1),
+        },
     ]
-    
+
     color_h = "#3e95cd"
     color_e = "#8e5ea2"
     graphics = [
@@ -231,13 +246,15 @@ def calculation(
     LOGGER.info(f"Computation graphics for biomass is: {graphics}")
     result = dict()
     result["name"] = CM_NAME
-    result["indicators"] = []
+    result["indicator"] = []
     if len(warnings) > 0:
-        result["indicators"].extend([{"unit": "-", "name": msg, "value": 0} for msg in warnings])
-    result["indicators"].extend(indicators)
+        result["indicator"].extend(
+            [{"unit": "-", "name": msg, "value": 0} for msg in warnings]
+        )
+    result["indicator"].extend(indicators)
     result["graphics"] = graphics
-    #result["vector_layers"] = []
-    #result["raster_layers"] = []
+    # result["vector_layers"] = []
+    # result["raster_layers"] = []
     pprint(result)
     LOGGER.info(f"Computation result for biomass is: {result}")
     return result
