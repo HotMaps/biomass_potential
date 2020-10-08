@@ -125,7 +125,7 @@ def calculation(
 
     # livestock:      code	source	value	note	unit
     # forset biomass: code	source	value	note	unit
-    # agricolture:    code	source	value	note	unit
+    # agriculture:    code	source	value	note	unit
     # solid_waste:    code	source	value	note	unit
     LOGGER.info("Start reading input json strings.")
     # TODO: uncomment the line bellow as soon as the layer it is available on the datawarehouse
@@ -165,7 +165,7 @@ def calculation(
     ]
     labels = [
         "solid waste",
-        "agricolture residues",
+        "agriculture residues",
         "forest residues",
         "livestock effluents",
     ]
@@ -215,7 +215,7 @@ def calculation(
         },
         {
             "unit": graph_unit,
-            "name": "Total biomass elettric energy potential",
+            "name": "Total biomass electric energy potential",
             "value": np.round(eres.sum() * graph_factor, decimals=1),
         },
     ]
@@ -225,6 +225,7 @@ def calculation(
     graphics = [
         dict(
             type="bar",
+            xLabel="Biomass typologies",
             yLabel=graph_unit,
             data=dict(
                 labels=labels,
